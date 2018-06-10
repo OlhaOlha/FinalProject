@@ -1,0 +1,84 @@
+0 5 1001 Under IN
+6 8 1002 US NNP COU https://en.wikipedia.org/wiki/United_States
+9 23 1003 administration NN
+24 26 1004 as IN
+27 31 1005 part NN
+32 34 1006 of IN
+35 38 1007 the DT
+39 41 1008 UN NNP ORG https://en.wikipedia.org/wiki/United_Nations
+42 47 1009 Trust NNP ORG https://en.wikipedia.org/wiki/Trust_Territory_of_the_Pacific_Islands
+48 57 1010 Territory NNP ORG https://en.wikipedia.org/wiki/Trust_Territory_of_the_Pacific_Islands
+58 60 1011 of IN ORG https://en.wikipedia.org/wiki/Trust_Territory_of_the_Pacific_Islands
+61 64 1012 the DT ORG https://en.wikipedia.org/wiki/Trust_Territory_of_the_Pacific_Islands
+65 72 1013 Pacific NNP ORG https://en.wikipedia.org/wiki/Trust_Territory_of_the_Pacific_Islands
+72 73 1014 , ,
+74 77 1015 the DT
+78 84 1016 people NNS
+85 87 1017 of IN
+88 91 1018 the DT
+92 100 1019 Northern NNP COU https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+101 108 1020 Mariana NNP COU https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+109 116 1021 Islands NNP COU https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+117 124 1022 decided VBD
+125 127 1023 in IN
+128 131 1024 the DT
+132 137 1025 1970s CD
+138 141 1026 not RB
+142 144 1027 to TO
+145 149 1028 seek VB
+150 162 1029 independence NN
+163 166 1030 but CC
+167 174 1031 instead RB
+175 177 1032 to TO
+178 183 1033 forge VB
+184 190 1034 closer JJR
+191 196 1035 links NNS
+197 201 1036 with IN
+202 205 1037 the DT
+206 208 1038 US NNP COU https://en.wikipedia.org/wiki/United_States
+208 209 1039 . .
+210 222 2001 Negotiations NNS
+223 226 2002 for IN
+227 238 2003 territorial JJ
+239 245 2004 status NN
+246 251 2005 began VBD
+252 254 2006 in IN
+255 259 2007 1972 CD
+259 260 2008 . .
+261 262 3001 A DT
+263 271 3002 covenant NN
+272 274 3003 to TO
+275 284 3004 establish VB
+285 286 3005 a DT
+287 299 3006 commonwealth NN
+300 302 3007 in IN
+303 312 3008 political JJ
+313 318 3009 union NN
+319 323 3010 with IN
+324 327 3011 the DT
+328 330 3012 US NNP COU https://en.wikipedia.org/wiki/United_States
+331 334 3013 was VBD
+335 343 3014 approved VBN
+344 346 3015 in IN
+347 351 3016 1975 CD
+351 352 3017 , ,
+353 356 3018 and CC
+357 361 3019 came VBD
+362 366 3020 into IN
+367 372 3021 force NN
+373 375 3022 on IN
+376 378 3023 24 CD
+379 384 3024 March NNP
+385 389 3025 1976 CD
+389 390 3026 . .
+391 392 4001 A DT
+393 396 4002 new JJ
+397 407 4003 government NN
+408 411 4004 and CC
+412 424 4005 constitution NN
+425 429 4006 went VBD
+430 434 4007 into IN
+435 441 4008 effect NN
+442 444 4009 in IN
+445 449 4010 1978 CD
+449 450 4011 . .

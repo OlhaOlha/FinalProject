@@ -1,0 +1,64 @@
+0 6 1001 Uganda NNP COU https://en.wikipedia.org/wiki/Uganda
+7 10 1002 has VBZ
+11 18 1003 dropped VBN
+19 27 1004 criminal JJ
+28 35 1005 charges NNS
+36 43 1006 against IN
+44 45 1007 a DT
+46 50 1008 U.S. NNP
+51 61 1009 evangelist NN
+62 65 1010 and CC
+66 69 1011 has VBZ
+70 77 1012 instead RB
+78 85 1013 ordered VBN
+86 89 1014 his PRP$
+90 101 1015 deportation NN
+101 102 1016 . .
+103 108 2001 Peter NNP PER NULL
+109 116 2002 Waldron NNP PER NULL
+117 120 2003 was VBD
+121 129 2004 arrested VBN
+130 132 2005 in IN
+133 141 2006 February NNP
+142 147 2007 after IN
+148 154 2008 police NN
+155 160 2009 found VBD
+161 168 2010 assault NN
+169 176 2011 weapons NNS
+177 180 2012 and CC
+181 191 2013 ammunition NN
+192 194 2014 in IN
+195 198 2015 his PRP$
+199 203 2016 home NN
+203 204 2017 . .
+205 207 3001 He PRP
+208 211 3002 was VBD
+212 219 3003 charged VBN
+220 224 3004 with IN
+225 232 3005 weapons NNS
+233 243 3006 possession NN
+244 249 3007 under IN
+250 253 3008 the DT
+254 261 3009 country NN COU https://en.wikipedia.org/wiki/Uganda
+261 263 3010 's POS
+264 273 3011 terrorism NN
+274 277 3012 law NN
+277 278 3013 . .
+279 286 4001 Waldron NNP PER NULL
+287 290 4002 has VBZ
+291 297 4003 denied VBN
+298 303 4004 being VBG
+304 305 4005 a DT
+306 315 4006 terrorist NN
+315 316 4007 . .
+317 328 5001 Prosecutors NNS
+329 333 5002 have VBP
+334 337 5003 not RB
+338 347 5004 disclosed VBN
+348 351 5005 the DT
+352 358 5006 reason NN
+359 362 5007 for IN
+363 371 5008 dropping VBG
+372 375 5009 the DT
+376 380 5010 case NN
+380 381 5011 . .

@@ -1,0 +1,27 @@
+1 6 1001 Nepal NNP ORG https://en.wikipedia.org/wiki/Government_of_Nepal
+6 8 1002 's POS ORG https://en.wikipedia.org/wiki/Government_of_Nepal
+9 19 1003 government NN ORG https://en.wikipedia.org/wiki/Government_of_Nepal
+20 23 1004 and CC
+24 27 1005 the DT
+28 32 1006 non- JJ
+33 39 1007 profit NN
+40 45 1008 World NNP ORG https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature
+46 54 1009 Wildlife NNP ORG https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature
+55 59 1010 fund NN ORG https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature
+60 63 1011 are VBP
+64 73 1012 launching VBG
+74 75 1013 a DT
+76 79 1014 new JJ
+80 86 1015 appeal NN
+87 89 1016 to TO
+90 94 1017 save VB
+95 98 1018 the DT
+99 109 1019 critically RB
+110 120 1020 endangered VBN
+121 131 1021 one-horned JJ ANI https://en.wikipedia.org/wiki/Indian_rhinoceros
+132 137 1022 rhino NN ANI https://en.wikipedia.org/wiki/Indian_rhinoceros
+137 138 1023 . .
+140 144 2001 Paul NNP PER NULL
+145 150 2002 Sisco NNP PER NULL
+151 158 2003 reports NNS
+158 159 2004 . .

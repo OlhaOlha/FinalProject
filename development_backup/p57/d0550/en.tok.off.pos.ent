@@ -1,0 +1,97 @@
+0 7 1001 Chinese JJ
+8 17 1002 officials NNS
+18 21 1003 say VBP
+22 23 1004 a DT
+24 27 1005 gas NN
+28 37 1006 explosion NN
+38 42 1007 that IN
+43 47 1008 tore VBD
+48 55 1009 through IN
+56 57 1010 a DT
+58 62 1011 mine NN
+63 68 1012 shaft NN
+69 71 1013 in IN
+72 80 1014 northern JJ
+81 86 1015 China NNP COU https://en.wikipedia.org/wiki/China
+87 90 1016 has VBZ
+91 97 1017 killed VBN
+98 100 1018 at IN
+101 106 1019 least JJS
+107 109 1020 16 CD
+110 116 1021 miners NNS
+117 120 1022 and CC
+121 125 1023 left VBD
+126 128 1024 at IN
+129 134 1025 least JJS
+135 140 1026 seven CD
+141 147 1027 others NNS
+148 155 1028 missing VBG
+155 156 1029 . .
+157 160 2001 The DT
+161 169 2002 official JJ
+170 176 2003 Xinhua NNP ENT https://en.wikipedia.org/wiki/Xinhua_News_Agency
+177 181 2004 news NN ENT https://en.wikipedia.org/wiki/Xinhua_News_Agency
+182 188 2005 agency NN ENT https://en.wikipedia.org/wiki/Xinhua_News_Agency
+189 193 2006 says VBZ
+194 196 2007 83 CD
+197 203 2008 miners NNS
+204 208 2009 were VBD
+209 211 2010 in IN
+212 215 2011 the DT
+216 220 2012 mine NN
+221 223 2013 at IN
+224 227 2014 the DT
+228 232 2015 time NN
+233 235 2016 of IN
+236 245 2017 Wednesday NNP
+245 247 2018 's POS
+248 257 2019 explosion NN
+258 260 2020 in IN
+261 267 2021 Shanxi NNP COU https://en.wikipedia.org/wiki/Shanxi
+268 276 2022 province NN
+276 277 2023 , ,
+278 281 2024 but CC
+282 284 2025 54 CD
+285 292 2026 escaped VBD
+292 293 2027 . .
+294 300 3001 Shanxi NNP COU https://en.wikipedia.org/wiki/Shanxi
+301 309 3002 province NN
+310 312 3003 is VBZ
+313 316 3004 one CD
+317 319 3005 of IN
+320 325 3006 China NNP COU https://en.wikipedia.org/wiki/China
+325 327 3007 's POS
+328 335 3008 biggest JJS
+336 350 3009 coal-producing NN
+351 358 3010 regions NNS
+358 359 3011 , ,
+360 363 3012 and CC
+364 370 3013 mining NN
+371 380 3014 accidents NNS
+381 384 3015 are VBP
+385 391 3016 common JJ
+391 392 3017 . .
+393 398 4001 China NNP COU https://en.wikipedia.org/wiki/China
+399 402 4002 has VBZ
+403 406 4003 the DT
+407 411 4004 most RBS
+412 421 4005 dangerous JJ
+422 428 4006 mining NN
+429 437 4007 industry NN
+438 440 4008 in IN
+441 444 4009 the DT
+445 450 4010 world NN
+450 451 4011 . .
+452 454 5001 At IN
+455 460 5002 least JJS
+461 466 5003 6,000 CD
+467 474 5004 Chinese JJ
+475 479 5005 mine NN
+480 487 5006 workers NNS
+488 492 5007 died VBD
+493 495 5008 on IN
+496 499 5009 the DT
+500 503 5010 job NN
+504 508 5011 last JJ
+509 513 5012 year NN
+513 514 5013 . .

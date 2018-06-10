@@ -1,0 +1,92 @@
+0 9 1001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+10 12 1002 in IN
+13 24 1003 Afghanistan NNP Class https://en.wikipedia.org/wiki/Afghanistan
+25 28 1004 say VB
+29 32 1005 two CD
+33 37 1006 NATO NNP Class https://en.wikipedia.org/wiki/NATO
+38 46 1007 soldiers NNS
+47 51 1008 have VB
+52 56 1009 been VBN
+57 64 1010 wounded VBD
+65 67 1011 in IN
+68 69 1012 a DT
+70 74 1013 bomb NN
+75 81 1014 attack NN
+82 84 1015 in IN
+85 88 1016 the DT
+89 94 1017 north NN
+95 97 1018 of IN
+98 101 1019 the DT
+102 109 1020 country NN
+109 110 1021 . .
+111 114 2001 The DT
+115 123 2002 roadside NN
+124 129 2003 blast NN
+130 133 2004 hit NN
+134 135 2005 a DT
+136 142 2006 convoy NN
+143 145 2007 of IN
+146 149 2008 the DT
+150 158 2009 NATO-led JJ
+159 172 2010 International NNP Class https://en.wikipedia.org/wiki/International
+173 181 2011 Security NN Class https://en.wikipedia.org/wiki/Security
+182 192 2012 Assistance NN Class
+193 198 2013 Force NN Class https://en.wikipedia.org/wiki/Force
+199 207 2014 Thursday NNP Class https://en.wikipedia.org/wiki/Thursday
+208 210 2015 in IN
+211 218 2016 Baghlan NN Class https://en.wikipedia.org/wiki/Baghlan
+219 227 2017 province NN
+227 228 2018 , ,
+229 232 2019 160 CD
+233 243 2020 kilometers NNS
+244 249 2021 north NN
+250 252 2022 of IN
+253 258 2023 Kabul NNP Class https://en.wikipedia.org/wiki/Kabul
+258 259 2024 . .
+260 265 3001 Local JJ
+266 275 3002 officials NNS
+276 279 3003 say VB
+280 283 3004 two CD
+284 289 3005 Dutch NN Class
+290 298 3006 soldiers NNS
+299 303 3007 were VBD
+304 311 3008 wounded VBD
+311 312 3009 . .
+313 320 4001 Taleban NN Class https://en.wikipedia.org/wiki/Taliban
+321 329 4002 fighters NNS
+330 334 4003 have VB
+335 339 4004 been VBN
+340 348 4005 involved VBN
+349 351 4006 in IN
+352 359 4007 clashes NNS
+360 364 4008 with IN
+365 369 4009 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+370 373 4010 and CC
+374 380 4011 Afghan NNP Class https://en.wikipedia.org/wiki/Afghan
+381 391 4012 government NN
+392 398 4013 troops NNS
+399 401 4014 in IN
+402 405 4015 the DT
+406 411 4016 south NN
+412 415 4017 and CC
+416 420 4018 east NN
+421 423 4019 of IN
+424 427 4020 the DT
+428 435 4021 country NN
+435 436 4022 . .
+437 446 5001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+447 450 5002 say VB
+451 455 5003 some DT
+456 471 5004 anti-government NN
+472 481 5005 militants NNS
+482 489 5006 operate NN
+490 492 5007 in IN
+493 496 5008 the DT
+497 502 5009 north NN
+502 503 5010 , ,
+504 507 5011 but CC
+508 515 5012 attacks NNS
+516 521 5013 there RB
+522 525 5014 are VBP
+526 530 5015 rare NN
+530 531 5016 . .

@@ -1,0 +1,99 @@
+0 11 1001 Authorities NNS Class https://en.wikipedia.org/wiki/Authority
+12 14 1002 in IN
+15 18 1003 the DT
+19 27 1004 northern JJ
+28 33 1005 Iraqi JJ
+34 38 1006 city NN
+39 41 1007 of IN
+42 47 1008 Mosul NNP Class https://en.wikipedia.org/wiki/Mosul
+48 51 1009 say VBP
+52 55 1010 two CD
+56 65 1011 Christian JJ
+66 74 1012 churches NNS
+75 79 1013 have VBP
+80 84 1014 been VBN
+85 88 1015 the DT
+89 95 1016 target NN
+96 98 1017 of IN
+99 105 1018 nearly RB
+106 118 1019 simultaneous JJ
+119 123 1020 bomb NN
+124 131 1021 attacks NNS
+131 132 1022 . .
+133 142 2001 Witnesses NNS Class https://en.wikipedia.org/wiki/Witness
+143 146 2002 say VBP
+147 153 2003 gunmen NNS
+154 161 2004 stormed VBD
+162 165 2005 the DT
+166 174 2006 Armenian JJ
+175 178 2007 and CC
+179 187 2008 Chaldean JJ
+188 196 2009 churches NNS
+197 204 2010 Tuesday NNP Class https://en.wikipedia.org/wiki/Tuesday
+204 205 2011 , ,
+206 214 2012 planting VBG
+215 225 2013 explosives NNS
+226 230 2014 that WDT
+231 240 2015 detonated VBD
+240 241 2016 , ,
+242 249 2017 setting VBG
+250 253 2018 the DT
+254 263 2019 buildings NNS
+264 266 2020 on IN
+267 271 2021 fire NN
+271 272 2022 . .
+274 276 3001 No CC
+277 287 3002 casualties NNS
+288 292 3003 have VBP
+293 297 3004 been VBN
+298 307 3005 confirmed VBN
+307 308 3006 . .
+309 313 4001 Iraq NNP Class https://en.wikipedia.org/wiki/Iraq
+313 315 4002 's POS
+316 324 4003 minority NN
+325 334 4004 Christian NNP Class https://en.wikipedia.org/wiki/Christian
+335 344 4005 community NN
+345 348 4006 has VBZ
+349 353 4007 been VBN
+354 357 4008 the DT
+358 364 4009 target NN
+365 367 4010 of IN
+368 375 4011 attacks NNS
+376 382 4012 before IN
+382 383 4013 , ,
+384 388 4014 most JJS
+389 397 4015 recently RB
+398 402 4016 last JJ
+403 408 4017 month NN
+409 413 4018 when WRB
+414 419 4019 three CD
+420 426 4020 people NNS
+427 431 4021 were VBD
+432 438 4022 killed VBN
+439 441 4023 in IN
+442 443 4024 a DT
+444 448 4025 bomb NN
+449 455 4026 attack NN
+456 458 4027 on IN
+459 460 4028 a DT
+461 468 4029 Baghdad NNP Class https://en.wikipedia.org/wiki/Baghdad
+469 475 4030 church NN
+475 476 4031 . .
+477 486 5001 Meanwhile RB
+486 487 5002 , ,
+488 491 5003 the DT
+492 496 5004 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+497 505 5005 military NNP
+506 510 5006 says VBZ
+511 513 5007 an DT
+514 522 5008 American JJ
+523 530 5009 soldier NN
+531 534 5010 was VBD
+535 541 5011 killed VBN
+542 549 5012 Tuesday NNP Class https://en.wikipedia.org/wiki/Tuesday
+550 555 5013 while IN
+556 558 5014 on IN
+559 565 5015 patrol NN
+566 568 5016 in IN
+569 576 5017 Baghdad NNP Class https://en.wikipedia.org/wiki/Baghdad
+576 577 5018 . .

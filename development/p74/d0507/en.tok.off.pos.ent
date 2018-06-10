@@ -1,0 +1,84 @@
+2 7 1001 There EX
+8 11 1002 may MD
+12 14 1003 be VB
+15 17 1004 an DT
+18 26 1005 economic JJ
+27 35 1006 slowdown NN
+36 38 1007 in IN
+39 42 1008 the DT
+43 49 1009 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
+50 56 1010 States NNPS Class https://en.wikipedia.org/wiki/Sovereign_state
+57 60 1011 now RB
+60 61 1012 , ,
+62 65 1013 but CC
+66 70 1014 some DT
+71 76 1015 areas NNS
+77 79 1016 of IN
+80 83 1017 the DT
+84 91 1018 country NN
+92 100 1019 continue VBP
+101 103 1020 to TO
+104 108 1021 boom VB
+108 109 1022 . .
+110 113 2001 One CD
+114 118 2002 such JJ
+119 124 2003 place NN
+125 127 2004 is VBZ
+128 131 2005 the DT
+132 139 2006 capital NN
+140 142 2007 of IN
+143 146 2008 the DT
+147 154 2009 western JJ
+155 160 2010 state NN
+161 163 2011 of IN
+164 169 2012 Texas NNP Class https://en.wikipedia.org/wiki/Texas
+169 170 2013 , ,
+171 177 2014 Austin NNP Class https://en.wikipedia.org/wiki/North_Burnet%E2%80%93Gateway,_Austin,_Texas
+177 178 2015 , ,
+179 184 2016 which WDT
+185 192 2017 remains VBZ
+193 200 2018 popular JJ
+201 205 2019 with IN
+206 210 2020 high JJ
+211 215 2021 tech NN
+216 225 2022 companies NNS
+226 228 2023 as RB
+229 233 2024 well RB
+234 236 2025 as IN
+237 244 2026 artists NNS
+244 245 2027 , ,
+246 255 2028 musicians NNS
+256 259 2029 and CC
+260 270 2030 filmmakers NNS
+270 271 2031 . .
+272 275 3001 But CC
+275 276 3002 , ,
+277 279 3003 as IN
+280 283 3004 VOA NNP Class https://en.wikipedia.org/wiki/Voice_of_America
+283 285 3005 's POS
+286 290 3006 Greg NNP Class https://en.wikipedia.org/wiki/Greg
+291 297 3007 Flakus NNP Class https://en.wikipedia.org/wiki/The_Essential_Stabbing_Westward
+298 305 3008 reports NNS
+306 310 3009 from IN
+311 317 3010 Austin NNP Class https://en.wikipedia.org/wiki/North_Burnet%E2%80%93Gateway,_Austin,_Texas
+317 318 3011 , ,
+319 323 3012 some DT
+324 332 3013 longtime JJ
+333 342 3014 residents NNS
+343 346 3015 are VBP
+347 354 3016 worried JJ
+355 359 3017 that IN
+360 363 3018 the DT
+364 369 3019 rapid JJ
+370 376 3020 growth NN
+377 386 3021 threatens VBZ
+387 388 3022 a DT
+389 396 3023 quality NN
+397 399 3024 of IN
+400 404 3025 life NN
+405 409 3026 they PRP
+410 414 3027 call VBP
+415 416 3028 " JJ
+416 421 3029 weird NN
+421 422 3030 . .
+422 423 3031 " NN

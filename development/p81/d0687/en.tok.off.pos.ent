@@ -1,0 +1,50 @@
+0 4 1001 This DT
+5 13 1002 isolated JJ
+14 20 1003 island NN
+21 24 1004 was VBD
+25 30 1005 named VBN
+31 34 1006 for IN
+35 39 1007 John NNP Class
+40 50 1008 CLIPPERTON NNP Class https://en.wikipedia.org/wiki/Clipperton_Island
+50 51 1009 , ,
+52 53 1010 a DT
+54 60 1011 pirate NN
+61 64 1012 who WP
+65 69 1013 made VBD
+70 72 1014 it PRP
+73 76 1015 his PRP$
+77 84 1016 hideout NN
+85 90 1017 early RB
+91 93 1018 in IN
+94 97 1019 the DT
+98 102 1020 18th JJ
+103 110 1021 century NN
+110 111 1022 . .
+112 119 2001 Annexed VBN
+120 122 2002 by IN
+123 129 2003 France NNP Class https://en.wikipedia.org/wiki/France
+130 132 2004 in IN
+133 137 2005 1855 CD
+137 138 2006 , ,
+139 141 2007 it PRP
+142 145 2008 was VBD
+146 152 2009 seized VBN
+153 155 2010 by IN
+156 162 2011 Mexico NNP Class https://en.wikipedia.org/wiki/Mexico
+163 165 2012 in IN
+166 170 2013 1897 CD
+170 171 2014 . .
+172 183 3001 Arbitration NNP Class https://en.wikipedia.org/wiki/Arbitration
+184 194 3002 eventually RB
+195 202 3003 awarded VBD
+203 206 3004 the DT
+207 213 3005 island NN
+214 216 3006 to TO
+217 223 3007 France NNP Class https://en.wikipedia.org/wiki/France
+223 224 3008 , ,
+225 230 3009 which WDT
+231 235 3010 took VBD
+236 246 3011 possession NN
+247 249 3012 in IN
+250 254 3013 1935 CD
+254 255 3014 . .

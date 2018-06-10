@@ -1,0 +1,76 @@
+0 2 1001 El NNP Class https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra
+3 11 1002 Salvador NNP Class
+12 14 1003 is VBZ
+15 24 1004 preparing VBG
+25 27 1005 to TO
+28 32 1006 send VB
+33 40 1007 another DT
+41 51 1008 contingent NN
+52 54 1009 of IN
+55 58 1010 380 CD
+59 67 1011 soldiers NNS
+68 70 1012 to TO
+71 75 1013 Iraq NNP Class https://en.wikipedia.org/wiki/Iraq
+75 76 1014 . .
+77 87 2001 Salvadoran NNP Class https://en.wikipedia.org/wiki/Salvadorans
+88 97 2002 President NNP Class https://en.wikipedia.org/wiki/President
+98 105 2003 Antonio NNP Class
+106 110 2004 Saca NNP Class https://en.wikipedia.org/wiki/Antonio_Saca
+111 115 2005 said VBD
+116 119 2006 the DT
+120 126 2007 troops NNS
+127 131 2008 will MD
+132 134 2009 be VB
+135 148 2010 participating VBG
+149 151 2011 in IN
+152 164 2012 humanitarian JJ
+165 175 2013 activities NNS
+176 180 2014 such JJ
+181 183 2015 as IN
+184 192 2016 building NN
+193 198 2017 water NN
+199 206 2018 systems NNS
+207 210 2019 and CC
+211 216 2020 other JJ
+217 231 2021 infrastructure NN
+232 240 2022 projects NNS
+240 241 2023 . .
+242 245 3001 The DT
+246 252 3002 French JJ
+253 257 3003 news NN
+258 264 3004 agency NN
+264 265 3005 , ,
+266 269 3006 AFP NNP Class
+269 270 3007 , ,
+271 278 3008 reports VBZ
+279 282 3009 the DT
+283 289 3010 latest JJS
+290 296 3011 troops NNS
+297 301 3012 will MD
+302 309 3013 relieve VB
+310 312 3014 an DT
+313 320 3015 earlier JJR
+321 331 3016 contingent NN
+332 341 3017 stationed VBD
+342 347 3018 about IN
+348 351 3019 100 CD
+352 362 3020 kilometers NNS
+363 368 3021 south RB
+369 371 3022 of IN
+372 379 3023 Baghdad NNP Class https://en.wikipedia.org/wiki/Baghdad
+379 380 3024 . .
+381 383 4001 El NNP Class https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra
+384 392 4002 Salvador NNP Class
+393 395 4003 is VBZ
+396 399 4004 the DT
+400 404 4005 only JJ
+405 410 4006 Latin JJ
+411 419 4007 American JJ
+420 427 4008 country NN
+428 433 4009 which WDT
+434 439 4010 still RB
+440 443 4011 has VBZ
+444 450 4012 troops VBN
+451 453 4013 in IN
+454 458 4014 Iraq NNP Class https://en.wikipedia.org/wiki/Iraq
+458 459 4015 . .

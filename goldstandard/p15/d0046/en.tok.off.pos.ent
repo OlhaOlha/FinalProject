@@ -1,0 +1,39 @@
+0 1 1001 A DT
+2 9 1002 leftist NN
+10 19 1003 Colombian JJ
+20 29 1004 guerrilla NN
+30 36 1005 leader NN
+37 40 1006 has VBZ
+41 45 1007 been VBN
+46 52 1008 killed VBN
+53 55 1009 in IN
+56 57 1010 a DT
+58 63 1011 clash NN
+64 68 1012 with IN
+69 77 1013 military JJ
+78 84 1014 troops NNS
+85 87 1015 in IN
+88 91 1016 the DT
+92 97 1017 South NNP
+98 106 1018 American JJ
+107 114 1019 country NN
+114 115 1020 . .
+116 125 2001 Officials NNS
+126 129 2002 say VB
+130 138 2003 Humberto NN PER https://en.wikipedia.org/wiki/Humberto_Valbuena
+139 147 2004 Valbuena NNS PER https://en.wikipedia.org/wiki/Humberto_Valbuena
+147 148 2005 , ,
+149 150 2006 a DT
+151 155 2007 unit NN
+156 165 2008 commander NN
+166 169 2009 for IN
+170 173 2010 the DT
+174 187 2011 Revolutionary JJ ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+188 193 2012 Armed VBN ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+194 200 2013 Forces NNS ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+201 203 2014 of IN ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+204 212 2015 Colombia NNP ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+212 213 2016 , ,
+214 216 2017 or CC
+217 221 2018 FARC NN ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+221 222 2019 , ,

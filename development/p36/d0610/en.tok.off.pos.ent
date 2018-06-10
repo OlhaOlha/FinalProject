@@ -1,0 +1,95 @@
+0 1 1001 A DT
+2 7 1002 group NN
+8 10 1003 of IN
+11 18 1004 leading VBG
+19 25 1005 Muslim NNP Class https://en.wikipedia.org/wiki/Muslim
+26 34 1006 scholars NNS
+35 38 1007 has VBZ
+39 43 1008 sent VBN
+44 51 1009 holiday NN
+52 61 1010 greetings NNS
+62 64 1011 to TO
+65 75 1012 Christians NNS Class https://en.wikipedia.org/wiki/Christian
+76 85 1013 worldwide VB
+85 86 1014 . .
+87 89 2001 In IN
+90 97 2002 wishing VBG
+98 99 2003 a DT
+100 106 2004 joyful NN
+107 110 2005 and CC
+111 119 2006 peaceful NN
+120 129 2007 Christmas NNP Class https://en.wikipedia.org/wiki/Christmas
+129 130 2008 , ,
+131 134 2009 the DT
+135 140 2010 group NN
+141 145 2011 also RB
+146 150 2012 gave VBD
+151 157 2013 thanks NNS
+158 161 2014 for IN
+162 166 2015 what WP
+167 169 2016 it PRP
+170 175 2017 calls VBZ
+176 179 2018 the DT
+180 181 2019 " NN
+181 190 2020 beautiful NN
+191 194 2021 and CC
+195 203 2022 gracious JJ
+203 204 2023 " NN
+205 213 2024 response NN
+214 216 2025 to TO
+217 220 2026 its PRP$
+221 225 2027 call NN
+226 229 2028 for IN
+230 234 2029 more JJR
+235 243 2030 openness NN
+244 251 2031 between IN
+252 255 2032 the DT
+256 262 2033 faiths NNS
+262 263 2034 . .
+264 267 3001 The DT
+268 273 3002 group NN
+274 278 3003 said VBD
+279 281 3004 it PRP
+282 287 3005 hopes VBZ
+288 291 3006 the DT
+292 298 3007 coming VBG
+299 303 3008 year NN
+304 308 3009 will MD
+309 311 3010 be VB
+312 315 3011 one CD
+316 318 3012 of IN
+319 330 3013 forgiveness NN
+331 334 3014 and CC
+335 340 3015 where WRB
+341 344 3016 the DT
+345 352 3017 dignity NN
+353 355 3018 of IN
+356 361 3019 human NN
+362 366 3020 life NN
+367 369 3021 is VBZ
+370 376 3022 upheld JJ
+376 377 3023 . .
+378 382 4001 Pope NN Class https://en.wikipedia.org/wiki/Pope
+383 391 4002 Benedict NNP Class
+392 396 4003 last JJ
+397 402 4004 month NN
+403 411 4005 accepted VBD
+412 414 4006 an DT
+415 425 4007 invitation NN
+426 428 4008 by IN
+429 432 4009 the DT
+433 436 4010 138 CD
+437 443 4011 Muslim NNP Class https://en.wikipedia.org/wiki/Muslim
+444 452 4012 scholars NNS
+453 455 4013 to TO
+456 460 4014 meet VB
+461 464 4015 and CC
+465 469 4016 talk VB
+470 475 4017 about IN
+476 480 4018 more JJR
+481 492 4019 cooperation NN
+493 500 4020 between IN
+501 508 4021 Muslims NNS Class https://en.wikipedia.org/wiki/Muslim
+509 512 4022 and CC
+513 523 4023 Christians NNPS Class https://en.wikipedia.org/wiki/Christian
+523 524 4024 . .

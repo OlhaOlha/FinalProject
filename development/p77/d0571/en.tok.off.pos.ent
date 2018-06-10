@@ -1,0 +1,90 @@
+0 8 1001 European JJ
+9 14 1002 Union NNP Class https://en.wikipedia.org/wiki/Soviet_Union
+15 22 1003 defense NN
+23 32 1004 ministers NNS
+33 36 1005 are VBP
+37 44 1006 meeting NN
+45 47 1007 in IN
+48 57 1008 Innsbruck NN Class https://en.wikipedia.org/wiki/Innsbruck
+57 58 1009 , ,
+59 66 1010 Austria NNS Class https://en.wikipedia.org/wiki/Austria
+67 73 1011 Monday NNP Class https://en.wikipedia.org/wiki/Monday,_Monday
+74 76 1012 to TO
+77 80 1013 try NN
+81 83 1014 to TO
+84 91 1015 bolster NN
+92 99 1016 support NN
+100 103 1017 for IN
+104 106 1018 an DT
+107 109 1019 EU NN Class https://en.wikipedia.org/wiki/European_Union
+110 118 1020 military JJ
+119 131 1021 peacekeeping VBG
+132 137 1022 force NN
+138 140 1023 in IN
+141 151 1024 Democratic JJ
+152 160 1025 Republic JJ
+161 163 1026 of IN
+164 169 1027 Congo NN Class
+169 170 1028 . .
+171 174 2001 The DT
+175 186 2002 strife-torn JJ
+187 194 2003 African JJ
+195 201 2004 nation NN
+202 204 2005 is VBZ
+205 214 2006 preparing VBG
+215 218 2007 for IN
+219 222 2008 its PRP$
+223 228 2009 first RB
+229 233 2010 free JJ
+234 243 2011 elections NNS
+244 249 2012 since IN
+250 252 2013 it PRP
+253 259 2014 gained VBN
+260 272 2015 independence NN
+273 277 2016 from IN
+278 285 2017 Belgium NN Class https://en.wikipedia.org/wiki/Belgium
+286 288 2018 in IN
+289 293 2019 1961 CD
+293 294 2020 . .
+295 298 3001 The DT
+299 305 3002 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
+306 313 3003 Nations NNS Class https://en.wikipedia.org/wiki/Nation
+314 317 3004 has VBZ
+318 323 3005 asked VBN
+324 327 3006 for IN
+328 329 3007 a DT
+330 333 3008 few JJ
+334 341 3009 hundred VBN
+342 350 3010 European JJ
+351 357 3011 troops NNS
+358 360 3012 to TO
+361 364 3013 add VB
+365 367 3014 to TO
+368 371 3015 the DT
+372 376 3016 U.N. NNP Class https://en.wikipedia.org/wiki/United_Nations
+377 389 3017 peacekeeping VBG
+390 397 3018 mission NN
+398 400 3019 in IN
+401 406 3020 Congo NN Class
+406 407 3021 . .
+408 415 4001 Several JJ
+416 424 4002 European JJ
+425 434 4003 countries NNS
+435 442 4004 support NN
+443 446 4005 the DT
+447 451 4006 idea NN
+451 452 4007 . .
+453 456 5001 but CC
+457 461 5002 have VB
+462 466 5003 been VBN
+467 476 5004 reluctant NN
+477 479 5005 to TO
+480 486 5006 commit NN
+487 493 5007 troops NNS
+494 501 5008 without IN
+502 510 5009 specific JJ
+511 521 5010 guidelines NNS
+522 525 5011 for IN
+526 531 5012 their PRP$
+532 535 5013 use NN
+535 536 5014 . .
