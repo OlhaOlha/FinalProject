@@ -163,7 +163,7 @@ def main():
     goldstandard_data = "goldstandard"
 
     # The most important - part that creates output .ent
-    # main_processing(development_data)
+    main_processing(development_data)
 
     # Kind of processing that must be in measures.py
 
