@@ -22,7 +22,7 @@
 128 135 1022 victims NNS
 136 138 1023 of IN
 139 148 1024 Hurricane NNP Class https://en.wikipedia.org/wiki/Tropical_cyclone
-149 156 1025 Katrina NNP Class https://en.wikipedia.org/wiki/Hurricane_Katrina
+149 156 1025 Katrina NNP Class
 156 157 1026 . .
 158 166 2001 Carnival NN Class https://en.wikipedia.org/wiki/Carnival
 167 176 2002 officials NNS
@@ -43,7 +43,7 @@
 244 250 2017 people NNS
 251 260 2018 displaced VBN
 261 263 2019 by IN
-264 271 2020 Katrina NNP Class https://en.wikipedia.org/wiki/Hurricane_Katrina
+264 271 2020 Katrina NNP Class
 271 272 2021 . .
 273 276 3001 Two CD
 277 279 3002 of IN

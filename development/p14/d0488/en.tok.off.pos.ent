@@ -45,7 +45,7 @@
 260 265 3005 place NN
 266 268 3006 in IN
 269 276 3007 western JJ
-277 282 3008 Farah NNP Class
+277 282 3008 Farah NNP Class https://en.wikipedia.org/wiki/Farah_Pahlavi
 283 291 3009 province NN
 291 292 3010 , ,
 293 298 3011 where WRB

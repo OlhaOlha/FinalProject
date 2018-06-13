@@ -9,7 +9,7 @@
 60 66 1009 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
 67 69 1010 in IN
 70 71 1011 a DT
-72 80 1012 McDonald NNP Class https://en.wikipedia.org/wiki/McDonald%27s
+72 80 1012 McDonald NNP Class https://en.wikipedia.org/wiki/Macdonald
 80 82 1013 's POS
 83 93 1014 restaurant NN
 94 96 1015 in IN
@@ -77,8 +77,8 @@
 432 439 6003 bombing NN
 440 442 6004 of IN
 443 444 6005 a DT
-445 451 6006 Moscow NNP Class https://en.wikipedia.org/wiki/MoSCoW_method
-452 460 6007 McDonald NNP Class https://en.wikipedia.org/wiki/McDonald%27s
+445 451 6006 Moscow NNP Class https://en.wikipedia.org/wiki/Moscow
+452 460 6007 McDonald NNP Class https://en.wikipedia.org/wiki/Macdonald
 460 462 6008 's POS
 463 465 6009 by IN
 466 472 6010 Muslim NNP Class https://en.wikipedia.org/wiki/Muslim

@@ -18,7 +18,7 @@
 106 108 1018 II NNP Class https://en.wikipedia.org/wiki/2
 109 123 1019 commemorations NNS
 124 126 1020 in IN
-127 133 1021 Moscow NNP Class https://en.wikipedia.org/wiki/MoSCoW_method
+127 133 1021 Moscow NNP Class https://en.wikipedia.org/wiki/Moscow
 133 134 1022 . .
 135 138 2001 The DT
 139 146 2002 Kremlin NNP Class https://en.wikipedia.org/wiki/Moscow_Kremlin_(Faberg%C3%A9_egg)
@@ -93,5 +93,5 @@
 538 541 5013 the DT
 542 548 5014 events NNS
 549 551 5015 in IN
-552 558 5016 Moscow NNP Class https://en.wikipedia.org/wiki/MoSCoW_method
+552 558 5016 Moscow NNP Class https://en.wikipedia.org/wiki/Moscow
 558 559 5017 . .

@@ -1,4 +1,4 @@
-0 2 1001 El NNP Class https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra
+0 2 1001 El NNP Class
 3 11 1002 Salvador NNP Class
 12 14 1003 is VBZ
 15 24 1004 preparing VBG
@@ -59,7 +59,7 @@
 369 371 3022 of IN
 372 379 3023 Baghdad NNP Class https://en.wikipedia.org/wiki/Baghdad
 379 380 3024 . .
-381 383 4001 El NNP Class https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra
+381 383 4001 El NNP Class
 384 392 4002 Salvador NNP Class
 393 395 4003 is VBZ
 396 399 4004 the DT

@@ -20,7 +20,7 @@
 119 123 1020 Iraq NNP Class https://en.wikipedia.org/wiki/Iraq
 123 124 1021 . .
 125 139 2001 Representative NNP Class
-140 143 2002 Jim NNP Class
+140 143 2002 Jim NNP Class https://en.wikipedia.org/wiki/Jim_Crow_laws
 144 151 2003 Clyburn NNP Class https://en.wikipedia.org/wiki/Jim_Clyburn
 152 156 2004 said VBD
 157 159 2005 in IN

@@ -46,8 +46,8 @@
 263 264 3014 . .
 265 268 4001 VOA NN Class https://en.wikipedia.org/wiki/Voice_of_America
 268 270 4002 's POS
-271 277 4003 Robert NNP Class https://en.wikipedia.org/wiki/Robert_Englund
-278 286 4004 Raffaele NN Class https://en.wikipedia.org/wiki/List_of_saints_canonized_by_Pope_Leo_XIII
+271 277 4003 Robert NNP Class https://en.wikipedia.org/wiki/Robert_Hooke
+278 286 4004 Raffaele NN Class https://en.wikipedia.org/wiki/Pope_Leo_XIII_and_Russia
 287 290 4005 has VBZ
 291 295 4006 more RBR
 295 296 4007 . .

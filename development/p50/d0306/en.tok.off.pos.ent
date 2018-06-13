@@ -67,7 +67,7 @@
 355 360 6002 five- JJ
 361 365 6003 time NN
 366 372 6004 Grammy NNP Class https://en.wikipedia.org/wiki/Grammy_Award
-373 378 6005 Award NNP Class https://en.wikipedia.org/wiki/Primetime_Emmy_Award
+373 378 6005 Award NNP Class https://en.wikipedia.org/wiki/Award
 379 385 6006 winner NN
 385 386 6007 , ,
 387 392 6008 Usher NNP Class

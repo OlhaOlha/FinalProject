@@ -33,13 +33,13 @@
 188 190 2015 of IN
 191 199 2016 Colombia NNP Class https://en.wikipedia.org/wiki/Colombia
 200 201 2017 ( (
-201 205 2018 FARC NN Class https://en.wikipedia.org/wiki/Alan_Jara
+201 205 2018 FARC NN Class https://en.wikipedia.org/wiki/Sigifredo_L%C3%B3pez
 205 206 2019 ) )
 207 212 2020 rebel NN
 213 218 2021 group NN
 218 219 2022 . .
 220 223 3001 The DT
-224 228 3002 FARC NN Class https://en.wikipedia.org/wiki/Alan_Jara
+224 228 3002 FARC NN Class https://en.wikipedia.org/wiki/Sigifredo_L%C3%B3pez
 229 235 3003 rebels NNS
 236 240 3004 have VB
 241 249 3005 declared VBN

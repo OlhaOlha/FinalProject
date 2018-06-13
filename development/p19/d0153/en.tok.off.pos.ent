@@ -8,7 +8,7 @@
 46 53 1008 Chinese JJ
 54 63 1009 President NNP Class https://en.wikipedia.org/wiki/President
 64 66 1010 Hu NNP Class
-67 73 1011 Jintao NNP Class https://en.wikipedia.org/wiki/Hu_Jintao
+67 73 1011 Jintao NNP Class https://en.wikipedia.org/wiki/Hu%E2%80%93Wen_Administration
 74 79 1012 plans VBZ
 80 82 1013 to TO
 83 88 1014 visit VB
@@ -36,7 +36,7 @@
 191 200 3007 Secretary NNP Class https://en.wikipedia.org/wiki/Secretary
 201 203 3008 of IN
 204 209 3009 State NNP Class https://en.wikipedia.org/wiki/Sovereign_state
-210 216 3010 Robert NNP Class https://en.wikipedia.org/wiki/Robert_Englund
+210 216 3010 Robert NNP Class https://en.wikipedia.org/wiki/Robert_Hooke
 217 225 3011 Zoellick NNP Class https://en.wikipedia.org/wiki/Robert_Zoellick
 226 228 3012 is VBZ
 229 231 3013 in IN
@@ -62,7 +62,7 @@
 354 361 4004 Chinese JJ
 362 369 4005 Premier NNP Class https://en.wikipedia.org/wiki/Premier
 370 373 4006 Wen NNP Class
-374 380 4007 Jiabao NNP Class https://en.wikipedia.org/wiki/Wen_Jiabao_(footballer)
+374 380 4007 Jiabao NNP Class https://en.wikipedia.org/wiki/Wen_Jiabao
 381 388 4008 Tuesday NNP Class https://en.wikipedia.org/wiki/Tuesday
 388 389 4009 , ,
 390 393 4010 and CC
@@ -74,7 +74,7 @@
 419 426 4016 Foreign NNP Class
 427 435 4017 Minister NNP Class
 436 438 4018 Li NNP Class
-439 447 4019 Zhaoxing NNP Class https://en.wikipedia.org/wiki/Zhaoxing_Town
+439 447 4019 Zhaoxing NNP Class https://en.wikipedia.org/wiki/Li_Zhaoxing
 447 448 4020 . .
 449 451 5001 As IN
 452 456 5002 part NN

@@ -1,10 +1,10 @@
-0 7 1001 Lucayan NNP Class
+0 7 1001 Lucayan NNP Class https://en.wikipedia.org/wiki/Lucayan_Archipelago
 8 15 1002 Indians NNPS Class
 16 25 1003 inhabited VBD
 26 29 1004 the DT
 30 37 1005 islands NNS
 38 42 1006 when WRB
-43 54 1007 Christopher NNP Class https://en.wikipedia.org/wiki/Christopher_Columbus
+43 54 1007 Christopher NNP Class https://en.wikipedia.org/wiki/Christopher
 55 63 1008 COLUMBUS NNP Class
 64 69 1009 first RB
 70 73 1010 set VBD

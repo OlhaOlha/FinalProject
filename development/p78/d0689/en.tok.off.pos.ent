@@ -10,7 +10,7 @@
 50 52 1010 of IN
 53 60 1011 Antigua NN Class https://en.wikipedia.org/wiki/Antigua
 61 64 1012 and CC
-65 72 1013 Barbuda NNP Class https://en.wikipedia.org/wiki/Antigua_and_Barbuda
+65 72 1013 Barbuda NNP Class https://en.wikipedia.org/wiki/Barbuda
 73 75 1014 in IN
 76 80 1015 2400 CD
 81 86 1016 B.C., NNP Class
@@ -74,7 +74,7 @@
 407 413 4007 within IN
 414 417 4008 the DT
 418 425 4009 British JJ
-426 438 4010 Commonwealth NN Class https://en.wikipedia.org/wiki/Commonwealth
+426 438 4010 Commonwealth NN Class https://en.wikipedia.org/wiki/Commonwealth_of_Nations
 439 441 4011 of IN
 442 449 4012 Nations NNS Class https://en.wikipedia.org/wiki/Nation
 450 452 4013 in IN

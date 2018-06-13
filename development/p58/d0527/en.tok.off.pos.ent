@@ -51,7 +51,7 @@
 287 289 2021 's POS
 290 297 2022 capital NN
 297 298 2023 . .
-299 302 3001 Jim NNP Class
+299 302 3001 Jim NNP Class https://en.wikipedia.org/wiki/Jim_Crow_laws
 303 309 3002 Bertel NNP Class https://en.wikipedia.org/wiki/Bertel
 310 318 3003 narrates NNS
 318 319 3004 . .
