@@ -5,13 +5,9 @@ txt_file_path = 'raw_text.text'
 with open(txt_file_path) as file:
     rawText = file.read()
 
-sentences = nltk.sent_tokenize(rawText)
-for s in sentences:
-    if 'U.N.' in s:
-        print(s, '\n')
-print(len(sentences))
 
-# print(sentences)
+sentences = nltk.sent_tokenize(rawText)
+
 for sent in sentences:
     print('Sentence: ', sent)
     rgx = re.compile(r'[A-Z][A-Za-z]*(?:[\s-][A-Z][A-Za-z]*)*')
