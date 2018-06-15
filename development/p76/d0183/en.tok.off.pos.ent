@@ -1,8 +1,8 @@
-0 7 1001 Doctors NNS Class
+0 7 1001 Doctors NNS
 8 10 1002 in IN
 11 14 1003 the DT
-15 21 1004 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-22 28 1005 States NNS Class https://en.wikipedia.org/wiki/Sovereign_state
+15 21 1004 United NNP COU https://en.wikipedia.org/wiki/United_States
+22 28 1005 States NNS COU https://en.wikipedia.org/wiki/United_States
 29 32 1006 are VBP
 33 40 1007 testing VBG
 41 42 1008 a DT
@@ -13,7 +13,7 @@
 79 84 1013 brain NN
 85 91 1014 cancer NN
 91 92 1015 . .
-93 101 2001 Scorpion NN Class https://en.wikipedia.org/wiki/Scorpion
+93 101 2001 Scorpion NN
 102 107 2002 venom NN
 108 111 2003 has VBZ
 112 116 2004 been VBN
@@ -41,11 +41,11 @@
 259 265 2026 normal JJ
 266 271 2027 cells NNS
 271 272 2028 . .
-274 279 3001 Steve NNP Class https://en.wikipedia.org/wiki/Steve_Martin
-280 284 3002 Mort NN Class https://en.wikipedia.org/wiki/Mort
+274 279 3001 Steve NNP PER https://en.wikipedia.org/wiki/Mort_Sahl
+280 284 3002 Mort NN PER https://en.wikipedia.org/wiki/Mort_Sahl
 285 292 3003 reports NNS
 293 296 3004 for IN
-297 300 3005 VOA NN Class https://en.wikipedia.org/wiki/Voice_of_America
+297 300 3005 VOA NN ORG https://en.wikipedia.org/wiki/Voice_of_America
 301 303 3006 on IN
 304 307 3007 one CD
 308 316 3008 clinical JJ
@@ -53,6 +53,6 @@
 330 335 3010 place NN
 336 338 3011 at IN
 339 340 3012 a DT
-341 348 3013 Florida NNP Class https://en.wikipedia.org/wiki/Florida
+341 348 3013 Florida NNP
 349 357 3014 hospital NN
 357 358 3015 . .

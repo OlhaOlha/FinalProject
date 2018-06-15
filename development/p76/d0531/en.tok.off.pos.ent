@@ -1,9 +1,9 @@
-0 9 1001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+0 9 1001 Officials NNS
 10 12 1002 in IN
-13 24 1003 Afghanistan NNP Class https://en.wikipedia.org/wiki/Afghanistan
+13 24 1003 Afghanistan NNP COU https://en.wikipedia.org/wiki/Afghanistan
 25 28 1004 say VB
 29 32 1005 two CD
-33 37 1006 NATO NNP Class https://en.wikipedia.org/wiki/NATO
+33 37 1006 NATO NNP ORG https://en.wikipedia.org/wiki/NATO
 38 46 1007 soldiers NNS
 47 51 1008 have VB
 52 56 1009 been VBN
@@ -28,31 +28,31 @@
 143 145 2007 of IN
 146 149 2008 the DT
 150 158 2009 NATO-led JJ
-159 172 2010 International NNP Class https://en.wikipedia.org/wiki/International
-173 181 2011 Security NN Class https://en.wikipedia.org/wiki/Security
-182 192 2012 Assistance NN Class
-193 198 2013 Force NN Class https://en.wikipedia.org/wiki/Force
-199 207 2014 Thursday NNP Class https://en.wikipedia.org/wiki/Thursday
+159 172 2010 International NNP
+173 181 2011 Security NN
+182 192 2012 Assistance NN
+193 198 2013 Force NN
+199 207 2014 Thursday NNP
 208 210 2015 in IN
-211 218 2016 Baghlan NN Class https://en.wikipedia.org/wiki/Baghlan
+211 218 2016 Baghlan NN
 219 227 2017 province NN
 227 228 2018 , ,
 229 232 2019 160 CD
 233 243 2020 kilometers NNS
 244 249 2021 north NN
 250 252 2022 of IN
-253 258 2023 Kabul NNP Class https://en.wikipedia.org/wiki/Kabul
+253 258 2023 Kabul NNP CIT https://en.wikipedia.org/wiki/Kabul
 258 259 2024 . .
 260 265 3001 Local JJ
 266 275 3002 officials NNS
 276 279 3003 say VB
 280 283 3004 two CD
-284 289 3005 Dutch NN Class
+284 289 3005 Dutch NN COU https://en.wikipedia.org/wiki/Netherlands
 290 298 3006 soldiers NNS
 299 303 3007 were VBD
 304 311 3008 wounded VBD
 311 312 3009 . .
-313 320 4001 Taleban NN Class https://en.wikipedia.org/wiki/Taliban
+313 320 4001 Taleban NN ORG https://en.wikipedia.org/wiki/Taliban
 321 329 4002 fighters NNS
 330 334 4003 have VB
 335 339 4004 been VBN
@@ -60,9 +60,9 @@
 349 351 4006 in IN
 352 359 4007 clashes NNS
 360 364 4008 with IN
-365 369 4009 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+365 369 4009 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
 370 373 4010 and CC
-374 380 4011 Afghan NNP Class https://en.wikipedia.org/wiki/Afghan
+374 380 4011 Afghan NNP PER https://en.wikipedia.org/wiki/Afghan
 381 391 4012 government NN
 392 398 4013 troops NNS
 399 401 4014 in IN
@@ -74,7 +74,7 @@
 424 427 4020 the DT
 428 435 4021 country NN
 435 436 4022 . .
-437 446 5001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+437 446 5001 Officials NNS
 447 450 5002 say VB
 451 455 5003 some DT
 456 471 5004 anti-government NN

@@ -1,6 +1,6 @@
-0 11 1001 Authorities NNS Class https://en.wikipedia.org/wiki/Authority
+0 11 1001 Authorities NNS
 12 14 1002 in IN
-15 20 1003 Haiti NNP Class https://en.wikipedia.org/wiki/Haiti
+15 20 1003 Haiti NNP COU https://en.wikipedia.org/wiki/Haiti
 21 24 1004 say VBP
 25 31 1005 gunmen NNS
 32 36 1006 shot VBN
@@ -12,15 +12,15 @@
 68 71 1012 and CC
 72 73 1013 a DT
 74 82 1014 civilian JJ
-83 89 1015 Monday NNP Class https://en.wikipedia.org/wiki/Monday,_Monday
+83 89 1015 Monday NNP
 90 92 1016 in IN
 93 95 1017 an DT
 96 104 1018 apparent JJ
 105 111 1019 ambush NN
 112 114 1020 in IN
-115 129 1021 Port-au-Prince NNP Class https://en.wikipedia.org/wiki/Port-au-Prince
+115 129 1021 Port-au-Prince NNP CIT https://en.wikipedia.org/wiki/Port-au-Prince
 129 130 1022 . .
-131 137 2001 Police NNP Class https://en.wikipedia.org/wiki/Police
+131 137 2001 Police NNP ORG https://en.wikipedia.org/wiki/United_Nations_Police
 138 141 2002 say VBP
 142 148 2003 gunman NN
 149 157 2004 attacked VBD
@@ -60,11 +60,11 @@
 357 361 3024 year NN
 361 362 3025 . .
 363 366 4001 The DT
-367 373 4002 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-374 381 4003 Nations NNPS Class https://en.wikipedia.org/wiki/Nation
+367 373 4002 United NNP ORG https://en.wikipedia.org/wiki/United_Nations_Police
+374 381 4003 Nations NNPS ORG https://en.wikipedia.org/wiki/United_Nations_Police
 382 389 4004 mission NN
 390 393 4005 and CC
-394 401 4006 Haitian JJ
+394 401 4006 Haitian JJ COU https://en.wikipedia.org/wiki/Haiti
 402 408 4007 police NNS
 409 413 4008 have VBP
 414 423 4009 struggled VBN
@@ -72,7 +72,7 @@
 427 434 4011 restore VB
 435 440 4012 order NN
 441 443 4013 to TO
-444 449 4014 Haiti NNP Class https://en.wikipedia.org/wiki/Haiti
+444 449 4014 Haiti NNP COU https://en.wikipedia.org/wiki/Haiti
 450 453 4015 for IN
 454 458 4016 more JJR
 459 463 4017 than IN
@@ -84,8 +84,8 @@
 481 486 4023 armed JJ
 487 495 4024 uprising NN
 496 502 4025 ousted VBN
-503 512 4026 President NNP Class https://en.wikipedia.org/wiki/President
-513 518 4027 Jean- NNP Class https://en.wikipedia.org/wiki/Jean_Piaget_University_of_Cape_Verde
-519 527 4028 Bertrand NNP Class https://en.wikipedia.org/wiki/Bertrand_Russell
-528 536 4029 Aristide NNP Class
+503 512 4026 President NNP
+513 518 4027 Jean- NNP
+519 527 4028 Bertrand NNP
+528 536 4029 Aristide NNP
 536 537 4030 . .

@@ -1,4 +1,4 @@
-0 5 1001 China NNP Class https://en.wikipedia.org/wiki/China
+0 5 1001 China NNP COU https://en.wikipedia.org/wiki/China
 6 10 1002 says VBZ
 11 12 1003 a DT
 13 17 1004 wild NN
@@ -6,28 +6,28 @@
 24 29 1006 found NN
 30 32 1007 in IN
 33 45 1008 northwestern JJ
-46 53 1009 Qinghai NN Class https://en.wikipedia.org/wiki/Qinghai
+46 53 1009 Qinghai NN PER https://en.wikipedia.org/wiki/Qinghai
 54 62 1010 province NN
 63 66 1011 has VBZ
 67 73 1012 tested VBN
 74 82 1013 positive JJ
 83 86 1014 for IN
 87 90 1015 the DT
-91 95 1016 H5N1 NN Class https://en.wikipedia.org/wiki/Influenza_Genome_Sequencing_Project
+91 95 1016 H5N1 NN
 96 102 1017 strain NN
 103 105 1018 of IN
 106 110 1019 bird NN
 111 114 1020 flu NN
 114 115 1021 . .
 116 119 2001 The DT
-120 131 2002 Agriculture NN Class https://en.wikipedia.org/wiki/Agriculture
-132 140 2003 Ministry NNP Class
+120 131 2002 Agriculture NN
+132 140 2003 Ministry NNP
 141 150 2004 announced VBD
-151 157 2005 Monday NNP Class https://en.wikipedia.org/wiki/Monday,_Monday
+151 157 2005 Monday NNP
 158 162 2006 that IN
 163 168 2007 tests NNS
 169 171 2008 on IN
-172 180 2009 Saturday NNP Class https://en.wikipedia.org/wiki/Saturday
+172 180 2009 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 181 190 2010 confirmed VBN
 191 194 2011 the DT
 195 200 2012 goose NN
@@ -36,9 +36,9 @@
 209 214 2015 avian JJ
 215 224 2016 influenza NN
 224 225 2017 . .
-226 235 3001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+226 235 3001 Officials NNS
 236 239 3002 say VB
-240 247 3003 Qinghai NN Class https://en.wikipedia.org/wiki/Qinghai
+240 247 3003 Qinghai NN PER https://en.wikipedia.org/wiki/Qinghai
 248 260 3004 agricultural JJ
 261 272 3005 authorities NNS
 273 277 3006 have VB
@@ -63,7 +63,7 @@
 369 377 4009 thousand NN
 378 383 4010 geese JJ
 384 386 4011 in IN
-387 394 4012 Qinghai NN Class https://en.wikipedia.org/wiki/Qinghai
+387 394 4012 Qinghai NN PER https://en.wikipedia.org/wiki/Qinghai
 395 403 4013 province NN
 404 408 4014 last JJ
 409 413 4015 year NN
@@ -81,7 +81,7 @@
 474 477 5011 for IN
 478 483 5012 birds NNS
 483 484 5013 . .
-485 496 6001 Researchers NNS Class https://en.wikipedia.org/wiki/Research
+485 496 6001 Researchers NNS NAT https://en.wikipedia.org/wiki/Research
 497 504 6002 believe VB
 505 509 6003 wild NN
 510 515 6004 birds NNS
@@ -97,5 +97,5 @@
 564 573 6014 migratory NN
 574 579 6015 paths NNS
 580 582 6016 to TO
-583 589 6017 Europe NNP Class https://en.wikipedia.org/wiki/Europe
+583 589 6017 Europe NNP
 589 590 6018 . .

@@ -1,4 +1,4 @@
-0 7 1001 Iranian JJ
+0 7 1001 Iranian JJ COU https://en.wikipedia.org/wiki/Iran
 8 12 1002 news NN
 13 18 1003 media NNS
 19 25 1004 report NN
@@ -34,14 +34,14 @@
 185 194 2015 abducting VBG
 195 198 2016 the DT
 199 206 2017 victims NNS
-207 213 2018 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+207 213 2018 Sunday NNP
 213 214 2019 . .
 215 218 3001 The DT
 219 227 3002 incident NN
 228 232 3003 took VBD
 233 238 3004 place NN
 239 241 3005 in IN
-242 260 3006 Sistan-Baluchestan JJ
+242 260 3006 Sistan-Baluchestan JJ CIT https://en.wikipedia.org/wiki/Nik_Shahr
 260 261 3007 . .
 262 265 4001 Few JJ
 266 271 4002 other JJ

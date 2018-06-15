@@ -1,4 +1,4 @@
-0 6 1001 Kenyan NNP Class https://en.wikipedia.org/wiki/Kenya
+0 6 1001 Kenyan NNP COU https://en.wikipedia.org/wiki/Kenya
 7 18 1002 authorities NNS
 19 25 1003 report VBP
 26 30 1004 that IN
@@ -19,7 +19,7 @@
 111 118 1019 abusing VBG
 119 124 1020 girls NNS
 124 125 1021 . .
-127 136 2001 Education NN Class https://en.wikipedia.org/wiki/Education
+127 136 2001 Education NN
 137 146 2002 officials NNS
 147 151 2003 said VBD
 152 155 2004 the DT
@@ -66,7 +66,7 @@
 401 403 4018 in IN
 404 410 4019 courts NNS
 410 411 4020 . .
-413 422 5001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+413 422 5001 Officials NNS
 423 427 5002 said VBD
 428 432 5003 more JJR
 433 437 5004 than IN

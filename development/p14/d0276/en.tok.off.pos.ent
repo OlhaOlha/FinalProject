@@ -1,20 +1,20 @@
 0 3 1001 The DT
-4 10 1002 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-11 17 1003 States NNPS Class https://en.wikipedia.org/wiki/Sovereign_state
+4 10 1002 United NNP COU https://en.wikipedia.org/wiki/United_States
+11 17 1003 States NNPS COU https://en.wikipedia.org/wiki/United_States
 18 21 1004 has VBZ
 22 31 1005 confirmed VBN
 32 36 1006 that IN
 37 40 1007 two CD
-41 45 1008 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+41 45 1008 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
 46 55 1009 officials NNS
 56 59 1010 met VBD
 60 64 1011 with IN
-65 70 1012 North JJ
-71 77 1013 Korean JJ
+65 70 1012 North JJ COU https://en.wikipedia.org/wiki/North_Korea
+71 77 1013 Korean JJ COU https://en.wikipedia.org/wiki/North_Korea
 78 87 1014 diplomats NNS
 88 90 1015 in IN
-91 94 1016 New NNP Class https://en.wikipedia.org/wiki/New_Zealand
-95 99 1017 York NNP Class https://en.wikipedia.org/wiki/York
+91 94 1016 New NNP COU https://en.wikipedia.org/wiki/New_York_(state)
+95 99 1017 York NNP COU https://en.wikipedia.org/wiki/New_York_(state)
 100 104 1018 last JJ
 105 109 1019 week NN
 109 110 1020 . .
@@ -22,11 +22,11 @@
 113 122 2002 spokesman NN
 123 126 2003 for IN
 127 130 2004 the DT
-131 135 2005 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+131 135 2005 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
 136 143 2006 embassy NN
 144 146 2007 in IN
-147 152 2008 Tokyo NNP Class https://en.wikipedia.org/wiki/Tokyo
-153 161 2009 Thursday NNP Class https://en.wikipedia.org/wiki/Thursday
+147 152 2008 Tokyo NNP
+153 161 2009 Thursday NNP
 162 166 2010 said VBD
 167 170 2011 the DT
 171 184 2012 working-level JJ
@@ -35,7 +35,7 @@
 197 201 2015 used VBN
 202 204 2016 to TO
 205 211 2017 convey VB
-212 216 2018 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+212 216 2018 U.S. NNP
 217 223 2019 policy NN
 223 224 2020 , ,
 225 228 2021 not RB
@@ -54,12 +54,12 @@
 286 295 3010 discussed VBN
 295 296 3011 . .
 297 300 4001 But CC
-301 311 4002 Washington NNP Class
+301 311 4002 Washington NNP
 312 315 4003 has VBZ
 316 320 4004 been VBN
 321 327 4005 urging VBG
-328 333 4006 North NNP Class https://en.wikipedia.org/wiki/North_Korea
-334 339 4007 Korea NNP Class https://en.wikipedia.org/wiki/Korea
+328 333 4006 North NNP COU https://en.wikipedia.org/wiki/North_Korea
+334 339 4007 Korea NNP COU https://en.wikipedia.org/wiki/North_Korea
 340 342 4008 to TO
 343 349 4009 return VB
 350 352 4010 to TO
@@ -78,11 +78,11 @@
 413 420 5005 stalled VBN
 421 426 5006 since IN
 427 431 5007 last JJ
-432 441 5008 September NNP Class https://en.wikipedia.org/wiki/September
+432 441 5008 September NNP
 441 442 5009 , ,
 443 446 5010 and CC
-447 452 5011 North NNP Class https://en.wikipedia.org/wiki/North_Korea
-453 458 5012 Korea NNP Class https://en.wikipedia.org/wiki/Korea
+447 452 5011 North NNP
+453 458 5012 Korea NNP
 459 462 5013 has VBZ
 463 472 5014 boycotted VBN
 473 480 5015 efforts NNS

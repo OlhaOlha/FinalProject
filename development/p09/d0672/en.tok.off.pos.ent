@@ -1,4 +1,4 @@
-0 5 1001 China NNP Class https://en.wikipedia.org/wiki/China
+0 5 1001 China NNP COU https://en.wikipedia.org/wiki/China
 5 7 1002 's POS
 8 13 1003 first JJ
 14 21 1004 private JJ
@@ -15,13 +15,13 @@
 72 73 1015 . .
 74 77 2001 The DT
 78 86 2002 official JJ
-87 93 2003 Xinhua NNP Class https://en.wikipedia.org/wiki/Xinhua_News_Agency_Macao_Branch
+87 93 2003 Xinhua NNP
 94 98 2004 news NN
 99 105 2005 agency NN
 106 110 2006 says VBZ
-111 117 2007 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
-118 122 2008 Okay NNP Class https://en.wikipedia.org/wiki/OK!
-123 130 2009 Airways NNP Class
+111 117 2007 Sunday NNP ORG https://en.wikipedia.org/wiki/Jet_Airways
+118 122 2008 Okay NNP ORG https://en.wikipedia.org/wiki/Jet_Airways
+123 130 2009 Airways NNP ORG https://en.wikipedia.org/wiki/Jet_Airways
 131 133 2010 is VBZ
 134 144 2011 undergoing VBG
 145 146 2012 a DT
@@ -37,20 +37,20 @@
 195 200 2022 begin VB
 201 211 2023 operations NNS
 212 217 2024 after IN
-218 222 2025 Nov. NNP Class https://en.wikipedia.org/wiki/November
+218 222 2025 Nov. NNP
 223 225 2026 20 CD
 225 226 2027 . .
-227 233 3001 Xinhua NN Class https://en.wikipedia.org/wiki/Xinhua_News_Agency_Macao_Branch
+227 233 3001 Xinhua NN
 234 238 3002 said VBD
 239 242 3003 the DT
-243 256 3004 Beijing-based JJ
+243 256 3004 Beijing-based JJ CIT https://en.wikipedia.org/wiki/Beijing
 257 264 3005 airline NN
 265 270 3006 plans NNS
 271 273 3007 to TO
 274 279 3008 lease VB
 280 283 3009 six CD
 284 293 3010 U.S.-made JJ
-294 300 3011 Boeing NNP Class https://en.wikipedia.org/wiki/Boeing
+294 300 3011 Boeing NNP
 301 304 3012 737 CD
 305 313 3013 aircraft NN
 314 317 3014 for IN
@@ -66,12 +66,12 @@
 374 381 4003 private JJ
 382 390 4004 airlines NNS
 390 391 4005 , ,
-392 398 4006 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-399 404 4007 Eagle NNP Class https://en.wikipedia.org/wiki/Eagle
-405 413 4008 Airlines NNPS Class https://en.wikipedia.org/wiki/Airline
+392 398 4006 United NNP ORG https://en.wikipedia.org/wiki/Chengdu_Airlines
+399 404 4007 Eagle NNP ORG https://en.wikipedia.org/wiki/Chengdu_Airlines
+405 413 4008 Airlines NNPS ORG https://en.wikipedia.org/wiki/Chengdu_Airlines
 414 417 4009 and CC
-418 421 4010 Air NNP Class https://en.wikipedia.org/wiki/Atmosphere_of_Earth
-422 428 4011 Spring NNP Class https://en.wikipedia.org/wiki/Arab_Spring
+418 421 4010 Air NNP
+422 428 4011 Spring NNP
 428 429 4012 , ,
 430 440 4013 reportedly RB
 441 445 4014 hope VBP
@@ -91,9 +91,9 @@
 512 521 4028 completed VBN
 522 524 4029 by IN
 525 528 4030 the DT
-529 534 4031 Civil NNP Class
-535 543 4032 Aviation NNP Class https://en.wikipedia.org/wiki/Aviation
-544 558 4033 Administration NNP Class
+529 534 4031 Civil NNP
+535 543 4032 Aviation NNP
+544 558 4033 Administration NNP
 559 561 4034 of IN
-562 567 4035 China NNP Class https://en.wikipedia.org/wiki/China
+562 567 4035 China NNP
 567 568 4036 . .

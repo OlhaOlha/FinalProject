@@ -2,14 +2,14 @@
 2 7 1002 group NN
 8 10 1003 of IN
 11 18 1004 leading VBG
-19 25 1005 Muslim NNP Class https://en.wikipedia.org/wiki/Muslim
+19 25 1005 Muslim NNP
 26 34 1006 scholars NNS
 35 38 1007 has VBZ
 39 43 1008 sent VBN
 44 51 1009 holiday NN
 52 61 1010 greetings NNS
 62 64 1011 to TO
-65 75 1012 Christians NNS Class https://en.wikipedia.org/wiki/Christian
+65 75 1012 Christians NNS
 76 85 1013 worldwide VB
 85 86 1014 . .
 87 89 2001 In IN
@@ -18,7 +18,7 @@
 100 106 2004 joyful NN
 107 110 2005 and CC
 111 119 2006 peaceful NN
-120 129 2007 Christmas NNP Class https://en.wikipedia.org/wiki/Christmas
+120 129 2007 Christmas NNP
 129 130 2008 , ,
 131 134 2009 the DT
 135 140 2010 group NN
@@ -69,8 +69,8 @@
 367 369 3021 is VBZ
 370 376 3022 upheld JJ
 376 377 3023 . .
-378 382 4001 Pope NN Class https://en.wikipedia.org/wiki/Pope
-383 391 4002 Benedict NNP Class
+378 382 4001 Pope NN PER https://en.wikipedia.org/wiki/Pope_Benedict_XVI
+383 391 4002 Benedict NNP PER https://en.wikipedia.org/wiki/Pope_Benedict_XVI
 392 396 4003 last JJ
 397 402 4004 month NN
 403 411 4005 accepted VBD
@@ -79,7 +79,7 @@
 426 428 4008 by IN
 429 432 4009 the DT
 433 436 4010 138 CD
-437 443 4011 Muslim NNP Class https://en.wikipedia.org/wiki/Muslim
+437 443 4011 Muslim NNP
 444 452 4012 scholars NNS
 453 455 4013 to TO
 456 460 4014 meet VB
@@ -89,7 +89,7 @@
 476 480 4018 more JJR
 481 492 4019 cooperation NN
 493 500 4020 between IN
-501 508 4021 Muslims NNS Class https://en.wikipedia.org/wiki/Muslim
+501 508 4021 Muslims NNS
 509 512 4022 and CC
-513 523 4023 Christians NNPS Class https://en.wikipedia.org/wiki/Christian
+513 523 4023 Christians NNPS
 523 524 4024 . .

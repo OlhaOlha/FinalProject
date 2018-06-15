@@ -1,9 +1,9 @@
-0 9 1001 Singapore NNP Class https://en.wikipedia.org/wiki/Singapore
+0 9 1001 Singapore NNP COU https://en.wikipedia.org/wiki/Singapore
 10 13 1002 was VBD
 14 21 1003 founded VBN
 22 24 1004 as IN
 25 26 1005 a DT
-27 34 1006 British JJ
+27 34 1006 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
 35 42 1007 trading NN
 43 49 1008 colony NN
 50 52 1009 in IN
@@ -12,8 +12,8 @@
 59 61 2001 It PRP
 62 68 2002 joined VBD
 69 72 2003 the DT
-73 82 2004 Malaysian JJ
-83 93 2005 Federation NN Class https://en.wikipedia.org/wiki/Federation
+73 82 2004 Malaysian JJ COU https://en.wikipedia.org/wiki/Malaysia
+83 93 2005 Federation NN COU https://en.wikipedia.org/wiki/Malaysia
 94 96 2006 in IN
 97 101 2007 1963 CD
 102 105 2008 but CC
@@ -25,7 +25,7 @@
 136 142 2014 became VBD
 143 154 2015 independent JJ
 154 155 2016 . .
-156 165 3001 Singapore NNP Class https://en.wikipedia.org/wiki/Singapore
+156 165 3001 Singapore NNP COU https://en.wikipedia.org/wiki/Singapore
 166 178 3002 subsequently RB
 179 185 3003 became VBD
 186 189 3004 one CD
@@ -61,7 +61,7 @@
 344 348 3034 with IN
 349 352 3035 per IN
 353 359 3036 capita NN
-360 363 3037 GDP NNP Class https://en.wikipedia.org/wiki/Gross_domestic_product
+360 363 3037 GDP NNP
 364 369 3038 equal JJ
 370 372 3039 to TO
 373 377 3040 that IN
@@ -71,5 +71,5 @@
 393 400 3044 nations NNS
 401 403 3045 of IN
 404 411 3046 Western JJ
-412 418 3047 Europe NNP Class https://en.wikipedia.org/wiki/Europe
+412 418 3047 Europe NNP
 418 419 3048 . .

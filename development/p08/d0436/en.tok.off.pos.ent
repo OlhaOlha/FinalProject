@@ -7,18 +7,18 @@
 28 39 1007 commodities NNS
 40 46 1008 traded VBN
 47 49 1009 in IN
-50 53 1010 New NNP Class https://en.wikipedia.org/wiki/New_Zealand
-54 58 1011 York NNP Class https://en.wikipedia.org/wiki/York
+50 53 1010 New NNP COU https://en.wikipedia.org/wiki/New_York_(state)
+54 58 1011 York NNP COU https://en.wikipedia.org/wiki/New_York_(state)
 58 59 1012 : :
 60 65 1013 Crude JJ
 66 69 1014 oil NN
 70 73 1015 for IN
-74 78 1016 June NNP Class https://en.wikipedia.org/wiki/June
+74 78 1016 June NNP
 79 87 1017 delivery NN
 88 92 1018 rose VBD
 93 94 1019 $ $
 95 98 1020 .70 JJ
-99 107 1021 Thursday NNP Class https://en.wikipedia.org/wiki/Thursday
+99 107 1021 Thursday NNP
 107 108 1022 , ,
 109 116 1023 closing VBG
 117 119 1024 at IN
@@ -28,9 +28,9 @@
 133 134 1028 a DT
 135 141 1029 barrel NN
 141 142 1030 . .
-145 151 2001 Coffee NNP Class https://en.wikipedia.org/wiki/Coffee
+145 151 2001 Coffee NNP
 152 155 2002 for IN
-156 159 2003 May NNP Class https://en.wikipedia.org/wiki/May
+156 159 2003 May NNP
 160 168 2004 delivery NN
 169 173 2005 fell VBD
 174 175 2006 a DT
@@ -47,9 +47,9 @@
 219 222 2017 per IN
 223 228 2018 pound NN
 228 229 2019 . .
-230 235 3001 Cocoa NNP Class
+230 235 3001 Cocoa NNP
 236 239 3002 for IN
-240 243 3003 May NNP Class https://en.wikipedia.org/wiki/May
+240 243 3003 May NNP
 244 252 3004 delivery NN
 253 257 3005 fell VBD
 258 259 3006 $ $
@@ -62,9 +62,9 @@
 280 283 3013 per IN
 284 287 3014 ton NN
 287 288 3015 . .
-289 295 4001 Copper NNP Class https://en.wikipedia.org/wiki/Copper
+289 295 4001 Copper NNP ORG https://en.wikipedia.org/wiki/Copper
 296 299 4002 for IN
-300 303 4003 May NNP Class https://en.wikipedia.org/wiki/May
+300 303 4003 May NNP
 304 312 4004 delivery NN
 313 320 4005 settled VBD
 321 323 4006 at IN

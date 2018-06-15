@@ -1,28 +1,28 @@
-0 7 1001 Chadian JJ
-8 13 1002 Prime NNP Class https://en.wikipedia.org/wiki/Prime_number
-14 22 1003 Minister NNP Class
-23 29 1004 Pascal NNP Class
-30 40 1005 Yoadimadji NNP Class https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
+0 7 1001 Chadian JJ PER https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
+8 13 1002 Prime NNP PER https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
+14 22 1003 Minister NNP PER https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
+23 29 1004 Pascal NNP PER https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
+30 40 1005 Yoadimadji NNP PER https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
 41 44 1006 has VBZ
 45 49 1007 died VBN
 50 52 1008 in IN
-53 58 1009 Paris NNP Class https://en.wikipedia.org/wiki/Paris
+53 58 1009 Paris NNP CIT https://en.wikipedia.org/wiki/Paris
 59 61 1010 at IN
 62 65 1011 the DT
 66 69 1012 age NN
 70 72 1013 of IN
 73 75 1014 56 CD
 75 76 1015 . .
-77 81 2001 Chad NNP Class https://en.wikipedia.org/wiki/Chad
+77 81 2001 Chad NNP COU https://en.wikipedia.org/wiki/Chad
 81 83 2002 's POS
 84 94 2003 ambassador NN
 95 97 2004 to TO
-98 104 2005 France NNP Class https://en.wikipedia.org/wiki/France
+98 104 2005 France NNP COU https://en.wikipedia.org/wiki/France
 105 109 2006 says VBZ
-110 113 2007 Mr. NNP Class https://en.wikipedia.org/wiki/Fred_Rogers
-114 125 2008 Yoadimnadji NNP Class https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
+110 113 2007 Mr. NNP PER https://en.wikipedia.org/wiki/Idriss_D%C3%A9by
+114 125 2008 Yoadimnadji NNP PER https://en.wikipedia.org/wiki/Idriss_D%C3%A9by
 126 130 2009 died VBD
-131 137 2010 Friday NNP Class https://en.wikipedia.org/wiki/Friday
+131 137 2010 Friday NNP
 138 142 2011 from IN
 143 144 2012 a DT
 145 150 2013 brain NN
@@ -34,7 +34,7 @@
 182 185 3004 was VBD
 186 191 3005 flown VBN
 192 194 3006 to TO
-195 200 3007 Paris NNP Class https://en.wikipedia.org/wiki/Paris
+195 200 3007 Paris NNP CIT https://en.wikipedia.org/wiki/Paris
 201 208 3008 earlier RB
 209 213 3009 this DT
 214 218 3010 week NN
@@ -44,8 +44,8 @@
 237 242 3014 heart NN
 243 249 3015 attack NN
 249 250 3016 . .
-251 254 4001 Mr. NNP Class https://en.wikipedia.org/wiki/Fred_Rogers
-255 266 4002 Yoadimnadji NNP Class https://en.wikipedia.org/wiki/Pascal_Yoadimnadji
+251 254 4001 Mr. NNP PER https://en.wikipedia.org/wiki/Idriss_D%C3%A9by
+255 266 4002 Yoadimnadji NNP PER https://en.wikipedia.org/wiki/Idriss_D%C3%A9by
 267 270 4003 was VBD
 271 276 4004 named VBN
 277 282 4005 prime JJ
@@ -54,9 +54,9 @@
 295 299 4008 2005 CD
 300 302 4009 by IN
 303 310 4010 Chadian JJ
-311 320 4011 President NNP Class https://en.wikipedia.org/wiki/President
-321 327 4012 Idriss NNP Class https://en.wikipedia.org/wiki/Idriss_D%C3%A9by
-328 332 4013 Deby NNP Class https://en.wikipedia.org/wiki/Idriss_D%C3%A9by
+311 320 4011 President NNP
+321 327 4012 Idriss NNP
+328 332 4013 Deby NNP
 332 333 4014 . .
 334 336 5001 He PRP
 337 340 5002 had VBD

@@ -1,4 +1,4 @@
-0 9 1001 Colombian JJ
+0 9 1001 Colombian JJ COU https://en.wikipedia.org/wiki/Colombia
 10 16 1002 police NNS
 17 20 1003 say VBP
 21 30 1004 suspected VBN
@@ -22,30 +22,30 @@
 136 139 1022 the DT
 140 147 1023 country NN
 147 148 1024 . .
-149 160 2001 Authorities NNS Class https://en.wikipedia.org/wiki/Authority
+149 160 2001 Authorities NNS
 161 164 2002 say VBP
 165 168 2003 the DT
 169 175 2004 attack NN
 176 179 2005 was VBD
 180 187 2006 carried VBN
 188 191 2007 out RP
-192 201 2008 Wednesday NNP Class https://en.wikipedia.org/wiki/Wednesday
+192 201 2008 Wednesday NNP
 202 204 2009 in IN
 205 208 2010 the DT
 209 217 2011 province NN
 218 220 2012 of IN
-221 227 2013 Narino NNP Class
+221 227 2013 Narino NNP
 228 230 2014 by IN
 231 237 2015 gunmen NNS
 238 242 2016 from IN
-243 256 2017 Revolutionary NNP Class https://en.wikipedia.org/wiki/Revolutionary
-257 262 2018 Armed NNP Class https://en.wikipedia.org/wiki/The_Armed
-263 269 2019 Forces NNS Class https://en.wikipedia.org/wiki/Force
+243 256 2017 Revolutionary NNP ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+257 262 2018 Armed NNP ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+263 269 2019 Forces NNS ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
 270 272 2020 of IN
-273 281 2021 Colombia NNP Class https://en.wikipedia.org/wiki/Colombia
+273 281 2021 Colombia NNP COU https://en.wikipedia.org/wiki/Colombia
 281 282 2022 , ,
 283 285 2023 or CC
-286 290 2024 FARC NNP Class https://en.wikipedia.org/wiki/Alan_Jara
+286 290 2024 FARC NNP ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
 290 291 2025 . .
 292 296 3001 They PRP
 297 300 3002 say VBP
@@ -74,7 +74,7 @@
 425 427 3025 of IN
 428 435 3026 cocaine NN
 435 436 3027 . .
-437 441 4001 FARC NNP Class https://en.wikipedia.org/wiki/Alan_Jara
+437 441 4001 FARC NNP ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
 442 451 4002 militants NNS
 452 456 4003 have VBP
 457 461 4004 been VBN
@@ -99,6 +99,6 @@
 578 587 4023 smuggling VBG
 588 594 4024 routes NNS
 595 597 4025 to TO
-598 605 4026 Central NNP Class https://en.wikipedia.org/wiki/Central_European_Time
-606 613 4027 America NNP Class https://en.wikipedia.org/wiki/United_States
+598 605 4026 Central NNP
+606 613 4027 America NNP
 613 614 4028 . .

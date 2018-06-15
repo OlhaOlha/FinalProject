@@ -4,21 +4,21 @@
 17 21 1004 1995 CD
 21 22 1005 , ,
 23 26 1006 the DT
-27 33 1007 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-34 40 1008 States NNPS Class https://en.wikipedia.org/wiki/Sovereign_state
-41 48 1009 Botanic NNP Class
-49 55 1010 Garden NNP Class https://en.wikipedia.org/wiki/Garden
+27 33 1007 United NNP
+34 40 1008 States NNPS
+41 48 1009 Botanic NNP
+49 55 1010 Garden NNP
 56 58 1011 in IN
-59 69 1012 Washington NNP Class
+59 69 1012 Washington NNP PER https://en.wikipedia.org/wiki/George_Washington
 69 70 1013 , ,
-71 73 1014 DC NNP Class
+71 73 1014 DC NNP
 73 74 1015 , ,
 75 78 1016 has VBZ
 79 88 1017 partnered VBN
 89 93 1018 with IN
 94 97 1019 the DT
 98 109 1020 Smithsonian JJ
-110 121 1021 Institution NNP Class https://en.wikipedia.org/wiki/Institution
+110 121 1021 Institution NNP
 122 124 1022 to TO
 125 130 1023 stage VB
 131 132 1024 a DT
@@ -28,10 +28,10 @@
 156 158 1028 of IN
 159 166 1029 orchids NNS
 166 167 1030 . .
-168 171 2001 VOA NNP Class https://en.wikipedia.org/wiki/Voice_of_America
+168 171 2001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
 171 173 2002 's POS
-174 180 2003 George NNP Class https://en.wikipedia.org/wiki/George_Washington
-181 186 2004 Dwyer NNP Class
+174 180 2003 George NNP PER https://en.wikipedia.org/wiki/George_Dwyer
+181 186 2004 Dwyer NNP PER https://en.wikipedia.org/wiki/George_Dwyer
 187 194 2005 reports VBZ
 195 197 2006 it PRP
 198 204 2007 offers VBZ
@@ -51,7 +51,7 @@
 287 289 2021 's POS
 290 297 2022 capital NN
 297 298 2023 . .
-299 302 3001 Jim NNP Class
-303 309 3002 Bertel NNP Class https://en.wikipedia.org/wiki/Bertel
+299 302 3001 Jim NNP
+303 309 3002 Bertel NNP
 310 318 3003 narrates NNS
 318 319 3004 . .

@@ -1,10 +1,10 @@
-0 5 1001 Today NN Class
+0 5 1001 Today NN
 5 6 1002 , ,
-7 12 1003 April NNP Class https://en.wikipedia.org/wiki/April
+7 12 1003 April NNP
 13 15 1004 22 CD
 16 18 1005 is VBZ
-19 24 1006 Earth NNP Class https://en.wikipedia.org/wiki/Earth
-25 28 1007 Day NNP Class https://en.wikipedia.org/wiki/Day
+19 24 1006 Earth NNP ORG https://en.wikipedia.org/wiki/Earth_Day
+25 28 1007 Day NNP ORG https://en.wikipedia.org/wiki/Earth_Day
 28 29 1008 , ,
 30 31 1009 a DT
 32 38 1010 global JJ
@@ -27,8 +27,8 @@
 120 133 1027 environmental JJ
 134 142 1028 movement NN
 142 143 1029 . .
-145 150 2001 Earth NNP Class https://en.wikipedia.org/wiki/Earth
-151 154 2002 Day NNP Class https://en.wikipedia.org/wiki/Day
+145 150 2001 Earth NNP ORG https://en.wikipedia.org/wiki/Earth_Day
+151 154 2002 Day NNP ORG https://en.wikipedia.org/wiki/Earth_Day
 155 159 2003 grew VBD
 160 164 2004 from IN
 165 167 2005 an DT
@@ -36,8 +36,8 @@
 175 180 2007 event NN
 181 183 2008 in IN
 184 187 2009 the DT
-188 194 2010 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-195 201 2011 States NNPS Class https://en.wikipedia.org/wiki/Sovereign_state
+188 194 2010 United NNP COU https://en.wikipedia.org/wiki/United_States
+195 201 2011 States NNPS COU https://en.wikipedia.org/wiki/United_States
 202 204 2012 to TO
 205 206 2013 a DT
 207 213 2014 global JJ
@@ -84,10 +84,10 @@
 436 443 3035 climate JJ
 444 450 3036 change NN
 450 451 3037 . .
-453 456 4001 VOA NNP Class https://en.wikipedia.org/wiki/Voice_of_America
+453 456 4001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
 456 458 4002 's POS
-459 463 4003 Paul NNP Class
-464 469 4004 Sisco NNP Class
+459 463 4003 Paul NNP
+464 469 4004 Sisco NNP
 470 473 4005 has VBZ
 474 478 4006 more JJR
 478 479 4007 . .

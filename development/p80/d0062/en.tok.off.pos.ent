@@ -1,9 +1,9 @@
-0 9 1001 Pakistani NNP Class https://en.wikipedia.org/wiki/Pakistanis
+0 9 1001 Pakistani NNP PER https://en.wikipedia.org/wiki/Pakistanis
 10 19 1002 warplanes NNS
 20 24 1003 have VBP
 25 31 1004 bombed VBN
 32 41 1005 suspected JJ
-42 49 1006 Taliban NNP Class https://en.wikipedia.org/wiki/Taliban
+42 49 1006 Taliban NNP ORG https://en.wikipedia.org/wiki/Taliban
 50 59 1007 positions NNS
 60 62 1008 in IN
 63 66 1009 the DT
@@ -11,7 +11,7 @@
 74 76 1011 's POS
 77 86 1012 northwest JJS
 86 87 1013 . .
-88 98 2001 Government NN Class https://en.wikipedia.org/wiki/Government
+88 98 2001 Government NN
 99 108 2002 officials NNS
 109 112 2003 say VBP
 113 115 2004 at IN
@@ -27,21 +27,21 @@
 166 169 3004 the DT
 170 173 3005 air NN
 174 181 3006 strikes NNS
-182 188 3007 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+182 188 3007 Sunday NNP
 189 197 3008 targeted VBD
 198 207 3009 insurgent JJ
 208 216 3010 hideouts NNS
 217 219 3011 in IN
 220 223 3012 the DT
-224 231 3013 Orakzai NNP Class https://en.wikipedia.org/wiki/Orakzai_Agency
+224 231 3013 Orakzai NNP
 232 238 3014 tribal JJ
 239 245 3015 region NN
 246 250 3016 near IN
 251 254 3017 the DT
-255 261 3018 Afghan NNP Class https://en.wikipedia.org/wiki/Afghan
+255 261 3018 Afghan NNP PER https://en.wikipedia.org/wiki/Afghan
 262 268 3019 border NN
 268 269 3020 . .
-270 281 4001 Independent JJ
+270 281 4001 Independent JJ ENT https://en.wikipedia.org/wiki/The_Independent
 282 294 4002 confirmation NN
 295 297 4003 of IN
 298 301 4004 the DT
@@ -58,9 +58,9 @@
 365 375 4015 restricted VBN
 375 376 4016 . .
 377 382 5001 Since IN
-383 388 5002 March NNP Class https://en.wikipedia.org/wiki/March
+383 388 5002 March NNP ENT https://en.wikipedia.org/wiki/The_Independent
 388 389 5003 , ,
-390 399 5004 Pakistani NNP Class https://en.wikipedia.org/wiki/Pakistanis
+390 399 5004 Pakistani NNP PER https://en.wikipedia.org/wiki/Pakistanis
 400 406 5005 forces NNS
 407 411 5006 have VBP
 412 416 5007 been VBN
@@ -70,7 +70,7 @@
 433 445 5011 anti-Taliban JJ
 446 455 5012 offensive NN
 456 458 5013 in IN
-459 466 5014 Orakzai NNP Class https://en.wikipedia.org/wiki/Orakzai_Agency
+459 466 5014 Orakzai NNP
 467 469 5015 to TO
 470 476 5016 target VB
 477 486 5017 militants NNS
@@ -82,6 +82,6 @@
 512 519 5023 earlier RBR
 520 529 5024 offensive JJ
 530 532 5025 in IN
-533 538 5026 South NNP Class https://en.wikipedia.org/wiki/South_Africa
-539 549 5027 Waziristan NNP Class https://en.wikipedia.org/wiki/Waziristan
+533 538 5026 South NNP
+539 549 5027 Waziristan NNP
 549 550 5028 . .

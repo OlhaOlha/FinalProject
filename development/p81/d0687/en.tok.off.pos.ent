@@ -4,8 +4,8 @@
 21 24 1004 was VBD
 25 30 1005 named VBN
 31 34 1006 for IN
-35 39 1007 John NNP Class
-40 50 1008 CLIPPERTON NNP Class https://en.wikipedia.org/wiki/Clipperton_Island
+35 39 1007 John NNP NAT https://en.wikipedia.org/wiki/Clipperton_Island
+40 50 1008 CLIPPERTON NNP NAT https://en.wikipedia.org/wiki/Clipperton_Island
 50 51 1009 , ,
 52 53 1010 a DT
 54 60 1011 pirate NN
@@ -22,7 +22,7 @@
 110 111 1022 . .
 112 119 2001 Annexed VBN
 120 122 2002 by IN
-123 129 2003 France NNP Class https://en.wikipedia.org/wiki/France
+123 129 2003 France NNP COU https://en.wikipedia.org/wiki/France
 130 132 2004 in IN
 133 137 2005 1855 CD
 137 138 2006 , ,
@@ -30,17 +30,17 @@
 142 145 2008 was VBD
 146 152 2009 seized VBN
 153 155 2010 by IN
-156 162 2011 Mexico NNP Class https://en.wikipedia.org/wiki/Mexico
+156 162 2011 Mexico NNP COU https://en.wikipedia.org/wiki/Mexico
 163 165 2012 in IN
 166 170 2013 1897 CD
 170 171 2014 . .
-172 183 3001 Arbitration NNP Class https://en.wikipedia.org/wiki/Arbitration
+172 183 3001 Arbitration NNP
 184 194 3002 eventually RB
 195 202 3003 awarded VBD
 203 206 3004 the DT
 207 213 3005 island NN
 214 216 3006 to TO
-217 223 3007 France NNP Class https://en.wikipedia.org/wiki/France
+217 223 3007 France NNP
 223 224 3008 , ,
 225 230 3009 which WDT
 231 235 3010 took VBD

@@ -1,4 +1,4 @@
-0 7 1001 Russian JJ
+0 7 1001 Russian JJ PER https://en.wikipedia.org/wiki/Russians
 8 14 1002 police NN
 15 22 1003 confirm NN
 23 27 1004 that IN
@@ -6,15 +6,15 @@
 30 45 1006 shrapnel-packed JJ
 46 50 1007 bomb NN
 51 59 1008 exploded VBD
-60 66 1009 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+60 66 1009 Sunday NNP
 67 69 1010 in IN
 70 71 1011 a DT
-72 80 1012 McDonald NNP Class https://en.wikipedia.org/wiki/McDonald%27s
+72 80 1012 McDonald NNP PER https://en.wikipedia.org/wiki/Richard_and_Maurice_McDonald
 80 82 1013 's POS
 83 93 1014 restaurant NN
 94 96 1015 in IN
-97 100 1016 St. NNP Class https://en.wikipedia.org/wiki/Order_of_St_Michael_and_St_George
-101 111 1017 Petersburg NNP Class
+97 100 1016 St. NNP CIT https://en.wikipedia.org/wiki/Saint_Petersburg
+101 111 1017 Petersburg NNP CIT https://en.wikipedia.org/wiki/Saint_Petersburg
 111 112 1018 , ,
 113 121 1019 injuring VBG
 122 125 1020 six CD
@@ -31,14 +31,14 @@
 185 187 2009 to TO
 188 196 2010 collapse NN
 196 197 2011 . .
-198 202 3001 None NN Class
+198 202 3001 None NN
 203 205 3002 of IN
 206 209 3003 the DT
 210 218 3004 injuries NNS
 219 222 3005 was VBD
 223 230 3006 serious JJ
 230 231 3007 . .
-232 245 4001 Investigators NNS Class
+232 245 4001 Investigators NNS NAT https://en.wikipedia.org/wiki/Clinical_investigator
 246 249 4002 say VBP
 250 253 4003 the DT
 254 258 4004 bomb NN
@@ -53,16 +53,16 @@
 294 298 4013 food NN
 299 309 4014 restaurant NN
 310 315 4015 along IN
-316 322 4016 Nevsky NNP Class https://en.wikipedia.org/wiki/Alexander_Nevsky
-323 331 4017 Prospekt NNP Class
+316 322 4016 Nevsky NNP
+323 331 4017 Prospekt NNP
 331 332 4018 , ,
-333 336 4019 St. NNP Class https://en.wikipedia.org/wiki/Order_of_St_Michael_and_St_George
-337 347 4020 Petersburg NNP Class
+333 336 4019 St. NNP CIT https://en.wikipedia.org/wiki/Saint_Petersburg
+337 347 4020 Petersburg NNP CIT https://en.wikipedia.org/wiki/Saint_Petersburg
 347 349 4021 's POS
 350 354 4022 main JJ
 355 361 4023 street NN
 361 362 4024 . .
-363 374 5001 Authorities NNS Class https://en.wikipedia.org/wiki/Authority
+363 374 5001 Authorities NNS
 375 379 5002 have VBP
 380 383 5003 not RB
 384 388 5004 said VBD
@@ -77,11 +77,11 @@
 432 439 6003 bombing NN
 440 442 6004 of IN
 443 444 6005 a DT
-445 451 6006 Moscow NNP Class https://en.wikipedia.org/wiki/MoSCoW_method
-452 460 6007 McDonald NNP Class https://en.wikipedia.org/wiki/McDonald%27s
+445 451 6006 Moscow NNP ORG https://en.wikipedia.org/wiki/McDonald%27s
+452 460 6007 McDonald NNP ORG https://en.wikipedia.org/wiki/McDonald%27s
 460 462 6008 's POS
 463 465 6009 by IN
-466 472 6010 Muslim NNP Class https://en.wikipedia.org/wiki/Muslim
+466 472 6010 Muslim NNP
 473 483 6011 extremists NNS
 484 486 6012 in IN
 487 491 6013 2002 CD

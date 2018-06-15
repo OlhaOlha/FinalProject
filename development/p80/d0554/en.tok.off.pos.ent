@@ -1,12 +1,12 @@
-1 6 1001 Nepal NNP Class https://en.wikipedia.org/wiki/Nepal
+1 6 1001 Nepal NNP COU https://en.wikipedia.org/wiki/Nepal
 6 8 1002 's POS
 9 19 1003 government NN
 20 23 1004 and CC
 24 27 1005 the DT
 28 32 1006 non- JJ
 33 39 1007 profit NN
-40 45 1008 World NNP Class https://en.wikipedia.org/wiki/World
-46 54 1009 Wildlife NNP Class https://en.wikipedia.org/wiki/Wildlife
+40 45 1008 World NNP ORG https://en.wikipedia.org/wiki/WWF-India
+46 54 1009 Wildlife NNP ORG https://en.wikipedia.org/wiki/WWF-India
 55 59 1010 fund NN
 60 63 1011 are VBP
 64 73 1012 launching VBG
@@ -21,7 +21,7 @@
 121 131 1021 one-horned JJ
 132 137 1022 rhino NN
 137 138 1023 . .
-140 144 2001 Paul NNP Class
-145 150 2002 Sisco NNP Class
+140 144 2001 Paul NNP
+145 150 2002 Sisco NNP
 151 158 2003 reports NNS
 158 159 2004 . .

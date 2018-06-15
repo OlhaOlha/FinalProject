@@ -1,4 +1,4 @@
-1 8 1001 America NNP Class https://en.wikipedia.org/wiki/United_States
+1 8 1001 America NNP COU https://en.wikipedia.org/wiki/United_States
 9 12 1002 has VBZ
 13 17 1003 more JJR
 18 22 1004 than IN
@@ -34,16 +34,16 @@
 154 159 2010 doors NNS
 160 162 2011 in IN
 163 171 2012 downtown JJ
-172 181 2013 Manhattan NNP Class https://en.wikipedia.org/wiki/Manhattan
+172 181 2013 Manhattan NNP NAT https://en.wikipedia.org/wiki/Manhattan
 181 182 2014 . .
 183 186 3001 Its PRP$
 187 195 3002 location NN
 196 200 3003 near IN
 201 204 3004 the DT
 205 211 3005 former JJ
-212 217 3006 World NNP Class https://en.wikipedia.org/wiki/World
-218 223 3007 Trade NNP Class https://en.wikipedia.org/wiki/Trade
-224 230 3008 Center NNP Class https://en.wikipedia.org/wiki/Center_(basketball)
+212 217 3006 World NNP CIT https://en.wikipedia.org/wiki/Lists_of_tenants_in_the_World_Trade_Center_(1973%E2%80%932001)
+218 223 3007 Trade NNP CIT https://en.wikipedia.org/wiki/Lists_of_tenants_in_the_World_Trade_Center_(1973%E2%80%932001)
+224 230 3008 Center NNP CIT https://en.wikipedia.org/wiki/Lists_of_tenants_in_the_World_Trade_Center_(1973%E2%80%932001)
 231 235 3009 site NN
 236 238 3010 is VBZ
 239 243 3011 part NN
@@ -59,7 +59,7 @@
 306 315 3021 depressed VBN
 316 321 3022 after IN
 322 325 3023 the DT
-326 335 3024 September NNP Class https://en.wikipedia.org/wiki/September
+326 335 3024 September NNP
 336 338 3025 11 CD
 338 339 3026 , ,
 340 344 3027 2001 CD
@@ -67,10 +67,10 @@
 355 362 3029 attacks NNS
 363 365 3030 on IN
 366 369 3031 the DT
-370 374 3032 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
-375 378 3033 VOA NNP Class https://en.wikipedia.org/wiki/Voice_of_America
+370 374 3032 U.S. NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+375 378 3033 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
 378 380 3034 's POS
-381 387 3035 Nathan NNP Class
-388 392 3036 King NNP Class https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)
+381 387 3035 Nathan NNP
+388 392 3036 King NNP
 393 400 3037 reports NNS
 400 401 3038 . .

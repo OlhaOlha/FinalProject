@@ -1,4 +1,4 @@
-0 7 1001 Turkish JJ
+0 7 1001 Turkish JJ COU https://en.wikipedia.org/wiki/Turkey
 8 19 1002 authorities NNS
 20 23 1003 say VBP
 24 26 1004 20 CD
@@ -15,18 +15,18 @@
 73 79 1015 resort NN
 80 82 1016 in IN
 83 90 1017 western JJ
-91 97 1018 Turkey NNP Class https://en.wikipedia.org/wiki/Turkey
+91 97 1018 Turkey NNP COU https://en.wikipedia.org/wiki/Turkey
 97 98 1019 . .
 99 102 2001 The DT
 103 112 2002 explosion NN
 113 121 2003 occurred VBD
-122 128 2004 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+122 128 2004 Sunday NNP
 129 131 2005 in IN
 132 135 2006 the DT
-136 142 2007 Aegean NNP Class https://en.wikipedia.org/wiki/Aegean_Sea
+136 142 2007 Aegean NNP ORG https://en.wikipedia.org/wiki/Aegean_Airlines
 143 150 2008 coastal JJ
 151 155 2009 town NN
-156 161 2010 Cesme NNP Class https://en.wikipedia.org/wiki/%C3%87e%C5%9Fme
+156 161 2010 Cesme NNP CIT https://en.wikipedia.org/wiki/%C3%87e%C5%9Fme
 161 162 2011 , ,
 163 164 2012 a DT
 165 172 2013 popular JJ
@@ -37,7 +37,7 @@
 202 206 2018 port JJ
 207 211 2019 city NN
 212 214 2020 of IN
-215 220 2021 Izmir NNP Class https://en.wikipedia.org/wiki/%C4%B0zmir
+215 220 2021 Izmir NNP CIT https://en.wikipedia.org/wiki/%C4%B0zmir
 220 221 2022 . .
 222 227 3001 There EX
 228 231 3002 has VBZ
@@ -69,7 +69,7 @@
 372 385 4017 nationalities NNS
 385 386 4018 . .
 387 389 5001 In IN
-390 395 5002 April NNP Class https://en.wikipedia.org/wiki/April
+390 395 5002 April NNP CIT https://en.wikipedia.org/wiki/%C4%B0zmir
 395 396 5003 , ,
 397 398 5004 a DT
 399 403 5005 bomb NN
@@ -79,7 +79,7 @@
 418 424 5009 nearby JJ
 425 431 5010 resort NN
 432 436 5011 town NN
-437 446 5012 Ksusadasi NNP Class
+437 446 5012 Ksusadasi NNP
 447 451 5013 left VBD
 452 453 5014 a DT
 454 460 5015 police JJ

@@ -1,4 +1,4 @@
-0 7 1001 Chinese JJ
+0 7 1001 Chinese JJ COU https://en.wikipedia.org/wiki/China
 8 17 1002 officials NNS
 18 21 1003 say VBP
 22 23 1004 a DT
@@ -12,7 +12,7 @@
 63 68 1012 shaft NN
 69 71 1013 in IN
 72 80 1014 northern JJ
-81 86 1015 China NNP Class https://en.wikipedia.org/wiki/China
+81 86 1015 China NNP COU https://en.wikipedia.org/wiki/China
 87 90 1016 has VBZ
 91 97 1017 killed VBN
 98 100 1018 at IN
@@ -29,7 +29,7 @@
 155 156 1029 . .
 157 160 2001 The DT
 161 169 2002 official JJ
-170 176 2003 Xinhua NNP Class https://en.wikipedia.org/wiki/Xinhua_News_Agency_Macao_Branch
+170 176 2003 Xinhua NNP
 177 181 2004 news NN
 182 188 2005 agency NN
 189 193 2006 says VBZ
@@ -43,23 +43,23 @@
 224 227 2014 the DT
 228 232 2015 time NN
 233 235 2016 of IN
-236 245 2017 Wednesday NNP Class https://en.wikipedia.org/wiki/Wednesday
+236 245 2017 Wednesday NNP
 245 247 2018 's POS
 248 257 2019 explosion NN
 258 260 2020 in IN
-261 267 2021 Shanxi NNP Class https://en.wikipedia.org/wiki/Shanxi
+261 267 2021 Shanxi NNP PER https://en.wikipedia.org/wiki/Shanxi
 268 276 2022 province NN
 276 277 2023 , ,
 278 281 2024 but CC
 282 284 2025 54 CD
 285 292 2026 escaped VBD
 292 293 2027 . .
-294 300 3001 Shanxi NNP Class https://en.wikipedia.org/wiki/Shanxi
+294 300 3001 Shanxi NNP PER https://en.wikipedia.org/wiki/Shanxi
 301 309 3002 province NN
 310 312 3003 is VBZ
 313 316 3004 one CD
 317 319 3005 of IN
-320 325 3006 China NNP Class https://en.wikipedia.org/wiki/China
+320 325 3006 China NNP COU https://en.wikipedia.org/wiki/China
 325 327 3007 's POS
 328 335 3008 biggest JJS
 336 350 3009 coal-producing NN
@@ -71,7 +71,7 @@
 381 384 3015 are VBP
 385 391 3016 common JJ
 391 392 3017 . .
-393 398 4001 China NNP Class https://en.wikipedia.org/wiki/China
+393 398 4001 China NNP COU https://en.wikipedia.org/wiki/China
 399 402 4002 has VBZ
 403 406 4003 the DT
 407 411 4004 most RBS

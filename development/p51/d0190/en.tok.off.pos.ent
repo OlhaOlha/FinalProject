@@ -27,10 +27,10 @@
 133 140 2005 genetic JJ
 141 148 2006 testing NN
 148 149 2007 . .
-153 156 3001 VOA NNP Class https://en.wikipedia.org/wiki/Voice_of_America
+153 156 3001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
 156 158 3002 's POS
-159 164 3003 Carol NNP Class
-165 172 3004 Pearson NNP Class
+159 164 3003 Carol NNP
+165 172 3004 Pearson NNP
 173 176 3005 has VBZ
 177 181 3006 more JJR
 181 182 3007 . .

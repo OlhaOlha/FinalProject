@@ -1,12 +1,12 @@
 0 3 1001 The DT
-4 8 1002 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+4 8 1002 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
 9 19 1003 government NN
 20 23 1004 has VBZ
 24 33 1005 chartered VBN
 34 39 1006 three CD
 40 42 1007 of IN
-43 51 1008 Carnival NNP Class https://en.wikipedia.org/wiki/Carnival
-52 58 1009 Cruise NNP Class
+43 51 1008 Carnival NNP ORG https://en.wikipedia.org/wiki/Carnival_Cruise_Line
+52 58 1009 Cruise NNP ORG https://en.wikipedia.org/wiki/Carnival_Cruise_Line
 59 64 1010 lines NNS
 65 70 1011 ships NNS
 71 74 1012 for IN
@@ -21,10 +21,10 @@
 124 127 1021 for IN
 128 135 1022 victims NNS
 136 138 1023 of IN
-139 148 1024 Hurricane NNP Class https://en.wikipedia.org/wiki/Tropical_cyclone
-149 156 1025 Katrina NNP Class https://en.wikipedia.org/wiki/Hurricane_Katrina
+139 148 1024 Hurricane NNP NAT https://en.wikipedia.org/wiki/Hurricane_Katrina
+149 156 1025 Katrina NNP NAT https://en.wikipedia.org/wiki/Hurricane_Katrina
 156 157 1026 . .
-158 166 2001 Carnival NN Class https://en.wikipedia.org/wiki/Carnival
+158 166 2001 Carnival NN
 167 176 2002 officials NNS
 177 180 2003 say VBP
 181 184 2004 the DT
@@ -43,7 +43,7 @@
 244 250 2017 people NNS
 251 260 2018 displaced VBN
 261 263 2019 by IN
-264 271 2020 Katrina NNP Class https://en.wikipedia.org/wiki/Hurricane_Katrina
+264 271 2020 Katrina NNP NAT https://en.wikipedia.org/wiki/Hurricane_Katrina
 271 272 2021 . .
 273 276 3001 Two CD
 277 279 3002 of IN
@@ -54,9 +54,9 @@
 303 305 3007 be VB
 306 311 3008 based VBN
 312 314 3009 in IN
-315 324 3010 Galveston NNP Class https://en.wikipedia.org/wiki/Rosenberg_Library
+315 324 3010 Galveston NNP
 324 325 3011 , ,
-326 331 3012 Texas NNP Class https://en.wikipedia.org/wiki/Texas
+326 331 3012 Texas NNP COU https://en.wikipedia.org/wiki/Texas
 332 335 3013 and CC
 336 339 3014 the DT
 340 345 3015 other JJ
@@ -65,7 +65,7 @@
 358 360 3018 be VB
 361 367 3019 docked VBN
 368 370 3020 in IN
-371 377 3021 Mobile NNP Class
+371 377 3021 Mobile NNP PER https://en.wikipedia.org/wiki/Smartphone
 377 378 3022 , ,
-379 386 3023 Alabama NNP Class https://en.wikipedia.org/wiki/Alabama
+379 386 3023 Alabama NNP
 386 387 3024 . .

@@ -1,5 +1,5 @@
 1 3 1001 An DT
-4 14 1002 Australian JJ
+4 14 1002 Australian JJ COU https://en.wikipedia.org/wiki/Australia
 15 18 1003 man NN
 19 22 1004 has VBZ
 23 27 1005 been VBN
@@ -21,19 +21,19 @@
 115 117 1021 in IN
 118 119 1022 a DT
 120 126 1023 global JJ
-127 135 1024 Internet NNP Class https://en.wikipedia.org/wiki/Internet
+127 135 1024 Internet NNP SPO https://en.wikipedia.org/wiki/Internet
 136 140 1025 scam NN
 140 141 1026 . .
-142 146 2001 Nick NNP Class https://en.wikipedia.org/wiki/Nick
-147 157 2002 Marinellis NNP Class https://en.wikipedia.org/wiki/Marinelli
+142 146 2001 Nick NNP
+147 157 2002 Marinellis NNP
 158 165 2003 pleaded VBD
 166 172 2004 guilty JJ
-173 184 2005 Mondayinthe NNP Class
-185 188 2006 New NNP Class https://en.wikipedia.org/wiki/New_Zealand
-189 194 2007 South NNP Class https://en.wikipedia.org/wiki/South_Africa
-195 200 2008 Wales NNP Class https://en.wikipedia.org/wiki/Wales
-201 209 2009 District NNP Class https://en.wikipedia.org/wiki/District
-210 215 2010 Court NNP Class https://en.wikipedia.org/wiki/Court
+173 184 2005 Mondayinthe NNP
+185 188 2006 New NNP
+189 194 2007 South NNP
+195 200 2008 Wales NNP
+201 209 2009 District NNP
+210 215 2010 Court NNP
 216 218 2011 to TO
 219 221 2012 10 CD
 222 228 2013 counts NNS
@@ -47,8 +47,8 @@
 259 263 2021 hoax NN
 264 270 2022 called VBN
 271 274 2023 the DT
-275 283 2024 Nigerian JJ
-284 288 2025 Scam NNP Class https://en.wikipedia.org/wiki/Salting_(confidence_trick)
+275 283 2024 Nigerian JJ NAT https://en.wikipedia.org/wiki/Advance-fee_scam
+284 288 2025 Scam NNP NAT https://en.wikipedia.org/wiki/Advance-fee_scam
 288 289 2026 . .
 290 293 3001 The DT
 294 303 3002 deception NN
@@ -56,7 +56,7 @@
 313 319 3004 people NNS
 320 328 3005 millions NNS
 329 333 3006 from IN
-334 342 3007 Nigerian JJ
+334 342 3007 Nigerian JJ PER https://en.wikipedia.org/wiki/Nigerians
 343 347 3008 bank NN
 348 356 3009 accounts NNS
 357 359 3010 in IN
@@ -68,9 +68,9 @@
 390 393 3016 fee NN
 393 394 3017 . .
 394 395 3018 " JJ
-396 407 4001 Prosecutors NNS Class https://en.wikipedia.org/wiki/Prosecutor
+396 407 4001 Prosecutors NNS NAT https://en.wikipedia.org/wiki/Prosecutor
 408 411 4002 say VBP
-412 422 4003 Marinellis NNP Class https://en.wikipedia.org/wiki/Marinelli
+412 422 4003 Marinellis NNP
 423 430 4004 fleeced VBD
 431 434 4005 his PRP$
 435 442 4006 victims NNS

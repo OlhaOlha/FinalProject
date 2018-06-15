@@ -1,14 +1,14 @@
-0 9 1001 Witnesses NNS Class https://en.wikipedia.org/wiki/Witness
+0 9 1001 Witnesses NNS
 10 12 1002 in IN
-13 20 1003 Somalia NNP Class https://en.wikipedia.org/wiki/Somalia
+13 20 1003 Somalia NNP COU https://en.wikipedia.org/wiki/Somalia
 21 24 1004 say VBP
 25 30 1005 heavy JJ
 31 39 1006 fighting NN
 40 47 1007 between IN
-48 56 1008 Islamist NNP Class https://en.wikipedia.org/wiki/Islamism
+48 56 1008 Islamist NNP
 57 67 1009 insurgents NNS
 68 71 1010 and CC
-72 81 1011 Ethiopian JJ
+72 81 1011 Ethiopian JJ COU https://en.wikipedia.org/wiki/Ethiopia
 82 88 1012 troops NN
 89 92 1013 has VBZ
 93 99 1014 killed VBN
@@ -25,17 +25,17 @@
 149 157 2003 fighting NN
 158 163 2004 began VBD
 164 169 2005 after IN
-170 177 2006 Islamic NNP Class https://en.wikipedia.org/wiki/Islam
+170 177 2006 Islamic NNP ORG https://en.wikipedia.org/wiki/Islam
 178 184 2007 rebels NNS
 185 193 2008 attacked VBD
 194 196 2009 an DT
-197 206 2010 Ethiopian JJ
+197 206 2010 Ethiopian JJ COU https://en.wikipedia.org/wiki/Ethiopia
 207 215 2011 military JJ
 216 220 2012 base NN
 221 223 2013 in IN
-224 233 2014 Mogadishu NNP Class https://en.wikipedia.org/wiki/Mogadishu
+224 233 2014 Mogadishu NNP CIT https://en.wikipedia.org/wiki/Mogadishu
 233 234 2015 . .
-236 245 3001 Witnesses NNS Class https://en.wikipedia.org/wiki/Witness
+236 245 3001 Witnesses NNS
 246 249 3002 say VBP
 250 257 3003 several JJ
 258 267 3004 civilians NNS
@@ -48,10 +48,10 @@
 301 307 3011 mortar NN
 308 312 3012 fire NN
 312 313 3013 . .
-315 324 4001 Ethiopian JJ
+315 324 4001 Ethiopian JJ COU https://en.wikipedia.org/wiki/Ethiopia
 325 331 4002 troops NNS
 332 339 4003 entered VBD
-340 347 4004 Somalia NNP Class https://en.wikipedia.org/wiki/Somalia
+340 347 4004 Somalia NNP COU https://en.wikipedia.org/wiki/Somalia
 348 351 4005 two CD
 352 357 4006 years NNS
 358 361 4007 ago RB
@@ -62,7 +62,7 @@
 382 392 4012 government NN
 393 398 4013 fight VBD
 399 401 4014 an DT
-402 410 4015 Islamist NNP Class https://en.wikipedia.org/wiki/Islamism
+402 410 4015 Islamist NNP
 411 419 4016 movement NN
 420 424 4017 that WDT
 425 428 4018 was VBD
@@ -73,7 +73,7 @@
 454 457 4023 the DT
 458 465 4024 country NN
 465 466 4025 . .
-468 475 5001 Somalia NNP Class https://en.wikipedia.org/wiki/Somalia
+468 475 5001 Somalia NNP COU https://en.wikipedia.org/wiki/Somalia
 476 479 5002 has VBZ
 480 484 5003 been VBN
 485 497 5004 continuously RB
@@ -85,9 +85,9 @@
 525 529 5010 fall NN
 530 532 5011 of IN
 533 541 5012 dictator NN
-542 549 5013 Mohamed NNP Class
-550 554 5014 Siad NNP Class https://en.wikipedia.org/wiki/Craiva
-555 560 5015 Barre NNP Class
+542 549 5013 Mohamed NNP
+550 554 5014 Siad NNP
+555 560 5015 Barre NNP
 561 563 5016 in IN
 564 568 5017 1991 CD
 568 569 5018 . .

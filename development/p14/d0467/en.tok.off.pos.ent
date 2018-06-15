@@ -1,6 +1,6 @@
-0 9 1001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+0 9 1001 Officials NNS
 10 12 1002 in IN
-13 18 1003 Burma NNP Class https://en.wikipedia.org/wiki/Myanmar
+13 18 1003 Burma NNP COU https://en.wikipedia.org/wiki/Myanmar
 19 22 1004 say VBP
 23 24 1005 a DT
 25 28 1006 new JJ
@@ -19,18 +19,18 @@
 97 105 1019 district NN
 106 110 1020 near IN
 111 114 1021 the DT
-115 122 1022 Chinese JJ
+115 122 1022 Chinese JJ COU https://en.wikipedia.org/wiki/China
 123 129 1023 border NN
 129 130 1024 . .
 131 134 2001 The DT
 135 144 2002 state-run JJ
-145 148 2003 New NNP Class https://en.wikipedia.org/wiki/New_Zealand
-149 154 2004 Light NNP Class https://en.wikipedia.org/wiki/Light
+145 148 2003 New NNP
+149 154 2004 Light NNP
 155 157 2005 of IN
-158 165 2006 Myanmar NNP Class https://en.wikipedia.org/wiki/Myanmar
+158 165 2006 Myanmar NNP COU https://en.wikipedia.org/wiki/Myanmar
 166 175 2007 newspaper NN
 176 180 2008 said VBD
-181 189 2009 Saturday NNP Class https://en.wikipedia.org/wiki/Saturday
+181 189 2009 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 190 194 2010 that IN
 195 198 2011 the DT
 199 207 2012 outbreak NN
@@ -40,14 +40,14 @@
 221 222 2016 a DT
 223 227 2017 farm NN
 228 230 2018 in IN
-231 238 2019 Kentung NNP Class https://en.wikipedia.org/wiki/Kengtung
+231 238 2019 Kentung NNP
 239 247 2020 township NN
 248 250 2021 in IN
 251 258 2022 eastern JJ
-259 263 2023 Shan NNP Class
+259 263 2023 Shan NNP
 264 269 2024 state NN
 270 272 2025 on IN
-273 281 2026 November NNP Class https://en.wikipedia.org/wiki/November
+273 281 2026 November NNP
 282 285 2027 18, CD
 286 291 2028 after IN
 292 293 2029 a DT
@@ -62,7 +62,7 @@
 341 344 2038 his PRP$
 345 353 2039 chickens NNS
 353 354 2040 . .
-355 364 3001 Officials NNS Class https://en.wikipedia.org/wiki/Official
+355 364 3001 Officials NNS
 365 371 3002 culled VBD
 372 374 3003 an DT
 375 382 3004 unknown JJ
@@ -77,11 +77,11 @@
 414 423 4002 statement NN
 424 428 4003 from IN
 429 432 4004 the DT
-433 440 4005 Myanmar NNP Class https://en.wikipedia.org/wiki/Myanmar
-441 450 4006 Livestock NNP Class https://en.wikipedia.org/wiki/Livestock
+433 440 4005 Myanmar NNP ORG https://en.wikipedia.org/wiki/List_of_banks_in_Myanmar
+441 450 4006 Livestock NNP ORG https://en.wikipedia.org/wiki/List_of_banks_in_Myanmar
 451 454 4007 and CC
-455 465 4008 Veterinary NNP Class https://en.wikipedia.org/wiki/Veterinary_medicine
-466 476 4009 Department NNP Class
+455 465 4008 Veterinary NNP
+466 476 4009 Department NNP
 477 482 4010 urged VBD
 483 489 4011 people NNS
 490 492 4012 to TO
@@ -96,5 +96,5 @@
 537 548 4021 neighboring VBG
 549 558 4022 countries NNS
 559 563 4023 into IN
-564 569 4024 Burma NNP Class https://en.wikipedia.org/wiki/Myanmar
+564 569 4024 Burma NNP
 569 570 4025 . .

@@ -1,5 +1,5 @@
 0 1 1001 A DT
-2 8 1002 French JJ
+2 8 1002 French JJ COU https://en.wikipedia.org/wiki/France
 9 19 1003 investment NN
 20 26 1004 banker NN
 26 27 1005 , ,
@@ -8,23 +8,23 @@
 41 45 1008 with IN
 46 55 1009 disgraced JJ
 56 65 1010 financier NN
-66 73 1011 Bernard NNP Class https://en.wikipedia.org/wiki/Bernard
-74 80 1012 Madoff NNP Class https://en.wikipedia.org/wiki/Bernard_Madoff
+66 73 1011 Bernard NNP PER https://en.wikipedia.org/wiki/Bernard_Madoff
+74 80 1012 Madoff NNP PER https://en.wikipedia.org/wiki/Bernard_Madoff
 80 81 1013 , ,
 82 86 1014 took VBD
 87 90 1015 his PRP$
 91 94 1016 own JJ
 95 99 1017 life NN
 100 102 1018 in IN
-103 106 1019 New NNP Class https://en.wikipedia.org/wiki/New_Zealand
-107 111 1020 York NNP Class https://en.wikipedia.org/wiki/York
+103 106 1019 New NNP COU https://en.wikipedia.org/wiki/New_York_(state)
+107 111 1020 York NNP COU https://en.wikipedia.org/wiki/New_York_(state)
 112 116 1021 this DT
 117 121 1022 week NN
 121 122 1023 . .
-124 127 2001 VOA NNP Class https://en.wikipedia.org/wiki/Voice_of_America
+124 127 2001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
 127 129 2002 's POS
-130 135 2003 Barry NNP Class
-136 140 2004 Wood NNP Class https://en.wikipedia.org/wiki/Wood
+130 135 2003 Barry NNP
+136 140 2004 Wood NNP
 141 148 2005 reports NNS
 149 153 2006 that IN
 154 157 2007 the DT
@@ -32,7 +32,7 @@
 166 168 2009 50 CD
 169 176 2010 billion CD
 177 183 2011 dollar NN
-184 190 2012 Madoff NNP Class https://en.wikipedia.org/wiki/Bernard_Madoff
+184 190 2012 Madoff NNP PER https://en.wikipedia.org/wiki/Bernard_Madoff
 191 196 2013 fraud NN
 197 199 2014 is VBZ
 200 204 2015 only RB
@@ -82,7 +82,7 @@
 439 441 4014 in IN
 442 445 4015 the DT
 446 452 4016 latest JJS
-453 456 4017 New NNP Class https://en.wikipedia.org/wiki/New_Zealand
-457 461 4018 York NNP Class https://en.wikipedia.org/wiki/York
+453 456 4017 New NNP
+457 461 4018 York NNP
 462 469 4019 scandal NN
 469 470 4020 . .

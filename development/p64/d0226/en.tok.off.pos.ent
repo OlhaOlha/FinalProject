@@ -1,4 +1,4 @@
-0 10 1001 Mauritania NNP Class https://en.wikipedia.org/wiki/Mauritania
+0 10 1001 Mauritania NNP COU https://en.wikipedia.org/wiki/Mauritania
 11 14 1002 has VBZ
 15 20 1003 asked VBN
 21 24 1004 for IN
@@ -29,13 +29,13 @@
 165 172 2004 finance NN
 173 181 2005 minister NN
 181 182 2006 , ,
-183 194 2007 Abderahmane NNP Class https://en.wikipedia.org/wiki/Abderahmane_Hachoud
-195 199 2008 Ould NNP Class https://en.wikipedia.org/wiki/List_of_former_Presidents_of_Oxford_University_Liberal_Club_and_Oxford_University_Liberal_Democrats
-200 205 2009 Hamma NNP Class https://en.wikipedia.org/wiki/Hamma_Hamma_River
-206 212 2010 Vezzaz NNP Class
+183 194 2007 Abderahmane NNP
+195 199 2008 Ould NNP
+200 205 2009 Hamma NNP
+206 212 2010 Vezzaz NNP
 212 213 2011 , ,
 214 218 2012 said VBD
-219 225 2013 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+219 225 2013 Sunday NNP
 226 231 2014 about IN
 232 238 2015 10,000 CD
 239 245 2016 people NNS
@@ -45,7 +45,7 @@
 260 263 2020 the DT
 264 268 2021 town NN
 269 271 2022 of IN
-272 279 2023 Tintane NNP Class https://en.wikipedia.org/wiki/Tintane
+272 279 2023 Tintane NNP
 280 284 2024 were VBD
 285 289 2025 left VBN
 290 298 2026 homeless NN
@@ -74,13 +74,13 @@
 421 425 3015 town NN
 426 428 3016 in IN
 429 441 3017 southeastern JJ
-442 452 3018 Mauritania NNP Class https://en.wikipedia.org/wiki/Mauritania
+442 452 3018 Mauritania NNP COU https://en.wikipedia.org/wiki/Mauritania
 452 453 3019 , ,
 454 458 3020 near IN
 459 462 3021 the DT
 463 469 3022 border NN
 470 474 3023 with IN
-475 479 3024 Mali NNP Class https://en.wikipedia.org/wiki/Mali
+475 479 3024 Mali NNP
 479 480 3025 . .
 481 483 4001 At IN
 484 489 4002 least JJS

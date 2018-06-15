@@ -6,8 +6,8 @@
 27 35 1006 slowdown NN
 36 38 1007 in IN
 39 42 1008 the DT
-43 49 1009 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-50 56 1010 States NNPS Class https://en.wikipedia.org/wiki/Sovereign_state
+43 49 1009 United NNP COU https://en.wikipedia.org/wiki/United_States
+50 56 1010 States NNPS COU https://en.wikipedia.org/wiki/United_States
 57 60 1011 now RB
 60 61 1012 , ,
 62 65 1013 but CC
@@ -31,9 +31,9 @@
 147 154 2009 western JJ
 155 160 2010 state NN
 161 163 2011 of IN
-164 169 2012 Texas NNP Class https://en.wikipedia.org/wiki/Texas
+164 169 2012 Texas NNP COU https://en.wikipedia.org/wiki/Texas
 169 170 2013 , ,
-171 177 2014 Austin NNP Class https://en.wikipedia.org/wiki/North_Burnet%E2%80%93Gateway,_Austin,_Texas
+171 177 2014 Austin NNP
 177 178 2015 , ,
 179 184 2016 which WDT
 185 192 2017 remains VBZ
@@ -54,13 +54,13 @@
 272 275 3001 But CC
 275 276 3002 , ,
 277 279 3003 as IN
-280 283 3004 VOA NNP Class https://en.wikipedia.org/wiki/Voice_of_America
+280 283 3004 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
 283 285 3005 's POS
-286 290 3006 Greg NNP Class https://en.wikipedia.org/wiki/Greg
-291 297 3007 Flakus NNP Class https://en.wikipedia.org/wiki/The_Essential_Stabbing_Westward
+286 290 3006 Greg NNP
+291 297 3007 Flakus NNP
 298 305 3008 reports NNS
 306 310 3009 from IN
-311 317 3010 Austin NNP Class https://en.wikipedia.org/wiki/North_Burnet%E2%80%93Gateway,_Austin,_Texas
+311 317 3010 Austin NNP
 317 318 3011 , ,
 319 323 3012 some DT
 324 332 3013 longtime JJ

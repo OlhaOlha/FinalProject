@@ -1,14 +1,14 @@
-0 6 1001 Police NNS Class https://en.wikipedia.org/wiki/Police
+0 6 1001 Police NNS
 7 9 1002 in IN
-10 13 1003 Sri NN Class https://en.wikipedia.org/wiki/Sri
-14 19 1004 Lanka NN Class https://en.wikipedia.org/wiki/Lanka
+10 13 1003 Sri NN COU https://en.wikipedia.org/wiki/Sri_Lanka
+14 19 1004 Lanka NN COU https://en.wikipedia.org/wiki/Sri_Lanka
 20 23 1005 say VB
 24 27 1006 300 CD
 28 37 1007 prisoners NNS
 38 42 1008 took VBD
 43 52 1009 advantage NN
 53 55 1010 of IN
-56 62 1011 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+56 62 1011 Sunday NNP
 62 64 1012 's POS
 65 72 1013 massive JJ
 73 83 1014 earthquake NN
@@ -21,7 +21,7 @@
 112 125 1021 high-security NN
 126 130 1022 jail NN
 130 131 1023 . .
-132 143 2001 Authorities NNS Class https://en.wikipedia.org/wiki/Authority
+132 143 2001 Authorities NNS
 144 147 2002 say VB
 148 151 2003 the DT
 152 159 2004 inmates NNS
@@ -48,9 +48,9 @@
 265 273 2025 southern JJ
 274 281 2026 coastal NN
 282 286 2027 town NN
-287 293 2028 Matara NN Class
+287 293 2028 Matara NN
 293 294 2029 . .
-295 302 3001 Reuters NNS Class https://en.wikipedia.org/wiki/Reuters
+295 302 3001 Reuters NNS ORG https://en.wikipedia.org/wiki/Reuters
 303 307 3002 news NN
 308 314 3003 agency NN
 315 322 3004 reports NNS
@@ -59,12 +59,12 @@
 333 339 3007 prison NN
 340 345 3008 break NN
 346 348 3009 in IN
-349 358 3010 Indonesia NN Class https://en.wikipedia.org/wiki/Indonesia
+349 358 3010 Indonesia NN COU https://en.wikipedia.org/wiki/Indonesia
 358 360 3011 's POS
-361 365 3012 Aceh NN Class https://en.wikipedia.org/wiki/Aceh
+361 365 3012 Aceh NN ORG https://en.wikipedia.org/wiki/Aceh
 366 374 3013 province NN
 374 375 3014 . .
-376 382 4001 Police NNS Class https://en.wikipedia.org/wiki/Police
+376 382 4001 Police NNS
 383 388 4002 there RB
 389 392 4003 say VB
 393 396 4004 200 CD

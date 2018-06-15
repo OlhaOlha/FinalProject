@@ -1,4 +1,4 @@
-0 6 1001 Dozens NNS Class https://en.wikipedia.org/wiki/Dozen
+0 6 1001 Dozens NNS
 7 9 1002 of IN
 10 20 1003 commercial JJ
 21 26 1004 truck NN
@@ -10,9 +10,9 @@
 57 61 1010 they PRP
 62 69 1011 circled VBD
 70 73 1012 the DT
-74 78 1013 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
-79 86 1014 Capitol NNP Class
-87 95 1015 Thursday NNP Class https://en.wikipedia.org/wiki/Thursday
+74 78 1013 U.S. NNP
+79 86 1014 Capitol NNP
+87 95 1015 Thursday NNP
 96 98 1016 to TO
 99 106 1017 protest VB
 107 110 1018 the DT
@@ -27,11 +27,11 @@
 151 157 2003 looped VBD
 158 164 2004 around IN
 165 168 2005 the DT
-169 177 2006 National NNP Class https://en.wikipedia.org/wiki/National_service
-178 182 2007 Mall NNP Class
+169 177 2006 National NNP
+178 182 2007 Mall NNP
 183 185 2008 in IN
-186 196 2009 Washington NNP Class
-197 201 2010 D.C. NNP Class
+186 196 2009 Washington NNP
+197 201 2010 D.C. NNP
 202 204 2011 to TO
 205 209 2012 draw VB
 210 219 2013 attention NN
@@ -47,7 +47,7 @@
 268 269 2023 . .
 270 273 3001 The DT
 274 281 3002 average JJ
-282 286 3003 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
+282 286 3003 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
 287 292 3004 price NN
 293 295 3005 of IN
 296 302 3006 diesel NN
@@ -80,8 +80,8 @@
 417 425 5008 gasoline NN
 426 428 5009 in IN
 429 432 5010 the DT
-433 439 5011 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-440 446 5012 States NNPS Class https://en.wikipedia.org/wiki/Sovereign_state
+433 439 5011 United NNP
+440 446 5012 States NNPS
 447 449 5013 is VBZ
 450 452 5014 88 CD
 453 458 5015 cents NNS

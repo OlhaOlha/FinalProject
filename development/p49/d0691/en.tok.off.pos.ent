@@ -1,25 +1,25 @@
-0 7 1001 Lucayan NNP Class
-8 15 1002 Indians NNPS Class
+0 7 1001 Lucayan NNP PER https://en.wikipedia.org/wiki/Indian_people
+8 15 1002 Indians NNPS PER https://en.wikipedia.org/wiki/Indian_people
 16 25 1003 inhabited VBD
 26 29 1004 the DT
 30 37 1005 islands NNS
 38 42 1006 when WRB
-43 54 1007 Christopher NNP Class https://en.wikipedia.org/wiki/Christopher_Columbus
-55 63 1008 COLUMBUS NNP Class
+43 54 1007 Christopher NNP PER https://en.wikipedia.org/wiki/Christopher_Columbus
+55 63 1008 COLUMBUS NNP PER https://en.wikipedia.org/wiki/Christopher_Columbus
 64 69 1009 first RB
 70 73 1010 set VBD
 74 78 1011 foot NN
 79 81 1012 in IN
 82 85 1013 the DT
-86 89 1014 New NNP Class https://en.wikipedia.org/wiki/New_Zealand
-90 95 1015 World NNP Class https://en.wikipedia.org/wiki/World
+86 89 1014 New NNP NAT https://en.wikipedia.org/wiki/New_World
+90 95 1015 World NNP NAT https://en.wikipedia.org/wiki/New_World
 96 98 1016 on IN
-99 102 1017 San NNP Class
-103 111 1018 Salvador NNP Class
+99 102 1017 San NNP
+103 111 1018 Salvador NNP
 112 114 1019 in IN
 115 119 1020 1492 CD
 119 120 1021 . .
-121 128 2001 British JJ
+121 128 2001 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
 129 139 2002 settlement NN
 140 142 2003 of IN
 143 146 2004 the DT
@@ -41,12 +41,12 @@
 223 235 3003 independence NN
 236 240 3004 from IN
 241 244 3005 the DT
-245 247 3006 UK NNP Class https://en.wikipedia.org/wiki/United_Kingdom
+245 247 3006 UK NNP
 248 250 3007 in IN
 251 255 3008 1973 CD
 255 256 3009 , ,
 257 260 3010 The DT
-261 268 3011 Bahamas NNP Class https://en.wikipedia.org/wiki/The_Bahamas
+261 268 3011 Bahamas NNP
 269 272 3012 has VBZ
 273 282 3013 prospered VBN
 283 290 3014 through IN
@@ -78,9 +78,9 @@
 453 462 4018 shipments NNS
 463 465 4019 to TO
 466 469 4020 the DT
-470 472 4021 US NNP Class
+470 472 4021 US NNP NAT https://en.wikipedia.org/wiki/United_States_dollar
 473 476 4022 and CC
-477 483 4023 Europe NNP Class https://en.wikipedia.org/wiki/Europe
+477 483 4023 Europe NNP
 483 484 4024 , ,
 485 488 4025 and CC
 489 492 4026 its PRP$
@@ -93,5 +93,5 @@
 533 541 4033 migrants NNS
 542 546 4034 into IN
 547 550 4035 the DT
-551 553 4036 US NNP Class
+551 553 4036 US NNP
 553 554 4037 . .

@@ -1,5 +1,5 @@
-0 2 1001 El NNP Class https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra
-3 11 1002 Salvador NNP Class
+0 2 1001 El NNP COU https://en.wikipedia.org/wiki/El_Salvador
+3 11 1002 Salvador NNP COU https://en.wikipedia.org/wiki/El_Salvador
 12 14 1003 is VBZ
 15 24 1004 preparing VBG
 25 27 1005 to TO
@@ -10,12 +10,12 @@
 55 58 1010 380 CD
 59 67 1011 soldiers NNS
 68 70 1012 to TO
-71 75 1013 Iraq NNP Class https://en.wikipedia.org/wiki/Iraq
+71 75 1013 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
 75 76 1014 . .
-77 87 2001 Salvadoran NNP Class https://en.wikipedia.org/wiki/Salvadorans
-88 97 2002 President NNP Class https://en.wikipedia.org/wiki/President
-98 105 2003 Antonio NNP Class
-106 110 2004 Saca NNP Class https://en.wikipedia.org/wiki/Antonio_Saca
+77 87 2001 Salvadoran NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
+88 97 2002 President NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
+98 105 2003 Antonio NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
+106 110 2004 Saca NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
 111 115 2005 said VBD
 116 119 2006 the DT
 120 126 2007 troops NNS
@@ -36,11 +36,11 @@
 232 240 2022 projects NNS
 240 241 2023 . .
 242 245 3001 The DT
-246 252 3002 French JJ
+246 252 3002 French JJ PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
 253 257 3003 news NN
 258 264 3004 agency NN
 264 265 3005 , ,
-266 269 3006 AFP NNP Class
+266 269 3006 AFP NNP
 269 270 3007 , ,
 271 278 3008 reports VBZ
 279 282 3009 the DT
@@ -57,10 +57,10 @@
 352 362 3020 kilometers NNS
 363 368 3021 south RB
 369 371 3022 of IN
-372 379 3023 Baghdad NNP Class https://en.wikipedia.org/wiki/Baghdad
+372 379 3023 Baghdad NNP CIT https://en.wikipedia.org/wiki/Baghdad
 379 380 3024 . .
-381 383 4001 El NNP Class https://en.wikipedia.org/wiki/El_Mahalla_El_Kubra
-384 392 4002 Salvador NNP Class
+381 383 4001 El NNP COU https://en.wikipedia.org/wiki/El_Salvador
+384 392 4002 Salvador NNP COU https://en.wikipedia.org/wiki/El_Salvador
 393 395 4003 is VBZ
 396 399 4004 the DT
 400 404 4005 only JJ
@@ -72,5 +72,5 @@
 440 443 4011 has VBZ
 444 450 4012 troops VBN
 451 453 4013 in IN
-454 458 4014 Iraq NNP Class https://en.wikipedia.org/wiki/Iraq
+454 458 4014 Iraq NNP
 458 459 4015 . .

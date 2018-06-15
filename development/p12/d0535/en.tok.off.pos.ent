@@ -1,4 +1,4 @@
-1 12 1001 Leatherback NNP Class https://en.wikipedia.org/wiki/Pandermochelys
+1 12 1001 Leatherback NNP NAT https://en.wikipedia.org/wiki/Dermochelyoidae
 13 20 1002 turtles NNS
 21 30 1003 fascinate VBP
 31 36 1004 ocean JJ
@@ -22,7 +22,7 @@
 126 133 2016 coastal JJ
 134 141 2017 regions NNS
 141 142 2018 . .
-143 153 3001 Scientists NNS Class https://en.wikipedia.org/wiki/Scientist
+143 153 3001 Scientists NNS
 154 157 3002 say VBP
 158 170 3003 leatherbacks NNS
 171 175 3004 have VBP
@@ -56,12 +56,12 @@
 319 320 4018 . .
 321 329 5001 Recently RB
 329 330 5002 , ,
-331 335 5003 U.S. NNP Class https://en.wikipedia.org/wiki/United_States
-336 344 5004 National NNP Class https://en.wikipedia.org/wiki/National_service
-345 352 5005 Oceanic NNP Class
+331 335 5003 U.S. NNP
+336 344 5004 National NNP
+345 352 5005 Oceanic NNP
 353 356 5006 and CC
-357 368 5007 Atmospheric NNP Class https://en.wikipedia.org/wiki/Atmosphere
-369 383 5008 Administration NNP Class
+357 368 5007 Atmospheric NNP ORG https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration
+369 383 5008 Administration NNP ORG https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration
 384 394 5009 scientists NNS
 395 403 5010 strapped VBD
 404 405 5011 a DT
@@ -76,8 +76,8 @@
 449 453 5020 they PRP
 454 459 5021 found VBD
 459 460 5022 . .
-461 465 6001 Paul NNP Class
-466 471 6002 Sisco NNP Class
+461 465 6001 Paul NNP
+466 471 6002 Sisco NNP
 472 475 6003 has VBZ
 476 480 6004 more JJR
 480 481 6005 . .

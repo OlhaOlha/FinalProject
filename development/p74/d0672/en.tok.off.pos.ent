@@ -1,4 +1,4 @@
-0 7 1001 Iranian JJ
+0 7 1001 Iranian JJ COU https://en.wikipedia.org/wiki/Iran
 8 18 1002 television NN
 19 21 1003 is VBZ
 22 31 1004 reporting VBG
@@ -15,9 +15,9 @@
 92 96 1015 port NN
 97 101 1016 city NN
 102 104 1017 of IN
-105 111 1018 Daylam NNP Class https://en.wikipedia.org/wiki/Daylam
+105 111 1018 Daylam NNP
 112 114 1019 in IN
-115 122 1020 Bushehr NNP Class https://en.wikipedia.org/wiki/Bushehr
+115 122 1020 Bushehr NNP CIT https://en.wikipedia.org/wiki/Bushehr
 123 131 1021 province NN
 131 132 1022 . .
 133 135 2001 It PRP
@@ -38,7 +38,7 @@
 218 226 2016 aircraft NN
 227 235 2017 overhead NN
 235 236 2018 . .
-237 242 3001 State NNP Class https://en.wikipedia.org/wiki/Sovereign_state
+237 242 3001 State NNP
 243 253 3002 television NN
 254 258 3003 says VBZ
 259 262 3004 the DT
@@ -54,19 +54,19 @@
 309 317 3014 dropping VBG
 318 322 3015 from IN
 323 325 3016 an DT
-326 333 3017 Iranian JJ
+326 333 3017 Iranian JJ COU https://en.wikipedia.org/wiki/Iran
 334 342 3018 airplane NN
 342 343 3019 . .
-344 348 4001 Iran NNP Class https://en.wikipedia.org/wiki/Iran
+344 348 4001 Iran NNP COU https://en.wikipedia.org/wiki/Iran
 349 352 4002 and CC
-353 359 4003 Russia NNP Class https://en.wikipedia.org/wiki/Russia
+353 359 4003 Russia NNP COU https://en.wikipedia.org/wiki/Russia
 360 363 4004 are VBP
 364 372 4005 building VBG
 373 374 4006 a DT
 375 382 4007 nuclear JJ
 383 390 4008 reactor NN
 391 393 4009 in IN
-394 401 4010 Bushehr NNP Class https://en.wikipedia.org/wiki/Bushehr
+394 401 4010 Bushehr NNP CIT https://en.wikipedia.org/wiki/Bushehr
 401 402 4011 , ,
 403 408 4012 about RB
 409 412 4013 150 CD
@@ -74,7 +74,7 @@
 424 429 4015 south RB
 430 432 4016 of IN
 433 438 4017 where WRB
-439 448 4018 Wednesday NNP Class https://en.wikipedia.org/wiki/Wednesday
+439 448 4018 Wednesday NNP
 448 450 4019 's POS
 451 460 4020 explosion NN
 461 469 4021 occurred VBD

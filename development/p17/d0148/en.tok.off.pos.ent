@@ -1,16 +1,16 @@
-0 10 1001 Organizers NNS Class
+0 10 1001 Organizers NNS
 11 13 1002 of IN
 14 17 1003 the DT
 18 22 1004 vote NN
 23 25 1005 by IN
-26 31 1006 Iraqi JJ
+26 31 1006 Iraqi JJ COU https://en.wikipedia.org/wiki/Iraq
 32 43 1007 expatriates NNS
 44 47 1008 say VBP
 48 52 1009 some DT
 53 63 1010 two-thirds NNS
 64 66 1011 of IN
 67 75 1012 eligable JJ
-76 82 1013 Iraqis NNP Class https://en.wikipedia.org/wiki/Iraqis
+76 82 1013 Iraqis NNP
 83 89 1014 living NN
 90 96 1015 abroad RB
 97 101 1016 have VBP
@@ -23,32 +23,32 @@
 143 146 1023 far RB
 146 147 1024 . .
 148 151 2001 The DT
-152 165 2002 International NNP Class https://en.wikipedia.org/wiki/International
-166 178 2003 Organization NNP Class https://en.wikipedia.org/wiki/Organization
+152 165 2002 International NNP
+166 178 2003 Organization NNP
 179 182 2004 for IN
-183 192 2005 Migration NNP Class
+183 192 2005 Migration NNP ANI https://en.wikipedia.org/wiki/Migration_(ecology)
 193 197 2006 said VBD
-198 204 2007 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+198 204 2007 Sunday NNP
 205 209 2008 more JJR
 210 214 2009 than IN
 215 222 2010 186,000 CD
-223 229 2011 Iraqis NNP Class https://en.wikipedia.org/wiki/Iraqis
+223 229 2011 Iraqis NNP PER https://en.wikipedia.org/wiki/Iraqis
 230 235 2012 voted VBD
-236 242 2013 Friday NNP Class https://en.wikipedia.org/wiki/Friday
+236 242 2013 Friday NNP
 243 246 2014 and CC
-247 255 2015 Saturday NNP Class https://en.wikipedia.org/wiki/Saturday
+247 255 2015 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 256 258 2016 in IN
 259 262 2017 the DT
-263 269 2018 Middle NNP Class
-270 274 2019 East NNP Class
+263 269 2018 Middle NNP
+270 274 2019 East NNP
 274 275 2020 , ,
-276 281 2021 North NNP Class https://en.wikipedia.org/wiki/North_Korea
-282 289 2022 America NNP Class https://en.wikipedia.org/wiki/United_States
+276 281 2021 North NNP
+282 289 2022 America NNP
 289 290 2023 , ,
-291 300 2024 Australia NNP Class https://en.wikipedia.org/wiki/Australia
+291 300 2024 Australia NNP COU https://en.wikipedia.org/wiki/Australia
 301 304 2025 and CC
-305 312 2026 Western NNP Class
-313 319 2027 Europe NNP Class https://en.wikipedia.org/wiki/Europe
+305 312 2026 Western NNP
+313 319 2027 Europe NNP
 319 320 2028 . .
 321 324 3001 The DT
 325 334 3002 three-day JJ
@@ -58,7 +58,7 @@
 354 357 3006 the DT
 358 361 3007 end NN
 362 364 3008 of IN
-365 371 3009 Sunday NNP Class https://en.wikipedia.org/wiki/Sunday
+365 371 3009 Sunday NNP
 372 378 3010 across IN
 379 381 3011 36 CD
 382 388 3012 cities NNS
@@ -67,36 +67,36 @@
 395 402 3015 nations NNS
 402 403 3016 , ,
 404 413 3017 including VBG
-414 423 3018 Australia NNP Class https://en.wikipedia.org/wiki/Australia
+414 423 3018 Australia NNP COU https://en.wikipedia.org/wiki/Australia
 423 424 3019 , ,
-425 432 3020 Britain NNP Class
+425 432 3020 Britain NNP COU https://en.wikipedia.org/wiki/United_Kingdom
 432 433 3021 , ,
-434 440 3022 Canada NNP Class https://en.wikipedia.org/wiki/Canada
+434 440 3022 Canada NNP COU https://en.wikipedia.org/wiki/Canada
 440 441 3023 , ,
-442 449 3024 Denmark NNP Class https://en.wikipedia.org/wiki/Denmark
+442 449 3024 Denmark NNP COU https://en.wikipedia.org/wiki/Denmark
 449 450 3025 , ,
-451 457 3026 France NNP Class https://en.wikipedia.org/wiki/France
+451 457 3026 France NNP COU https://en.wikipedia.org/wiki/France
 457 458 3027 , ,
-459 466 3028 Germany NNP Class https://en.wikipedia.org/wiki/Germany
+459 466 3028 Germany NNP COU https://en.wikipedia.org/wiki/Germany
 466 467 3029 , ,
-468 472 3030 Iran NNP Class https://en.wikipedia.org/wiki/Iran
+468 472 3030 Iran NNP COU https://en.wikipedia.org/wiki/Iran
 472 473 3031 , ,
-474 480 3032 Jordan NNP Class https://en.wikipedia.org/wiki/Jordan
+474 480 3032 Jordan NNP COU https://en.wikipedia.org/wiki/Jordan
 480 481 3033 , ,
 482 485 3034 the DT
-486 497 3035 Netherlands NNP Class https://en.wikipedia.org/wiki/Netherlands
+486 497 3035 Netherlands NNP COU https://en.wikipedia.org/wiki/Netherlands
 497 498 3036 , ,
-499 505 3037 Sweden NNP Class https://en.wikipedia.org/wiki/Sweden
+499 505 3037 Sweden NNP COU https://en.wikipedia.org/wiki/Sweden
 505 506 3038 , ,
-507 512 3039 Syria NNP Class https://en.wikipedia.org/wiki/Syria
+507 512 3039 Syria NNP COU https://en.wikipedia.org/wiki/Syria
 512 513 3040 , ,
-514 520 3041 Turkey NNP Class https://en.wikipedia.org/wiki/Turkey
+514 520 3041 Turkey NNP COU https://en.wikipedia.org/wiki/Turkey
 520 521 3042 , ,
-522 528 3043 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-529 533 3044 Arab NNP Class https://en.wikipedia.org/wiki/Arabs
-534 542 3045 Emirates NNP Class https://en.wikipedia.org/wiki/Emirate
+522 528 3043 United NNP COU https://en.wikipedia.org/wiki/United_Arab_Emirates
+529 533 3044 Arab NNP COU https://en.wikipedia.org/wiki/United_Arab_Emirates
+534 542 3045 Emirates NNP COU https://en.wikipedia.org/wiki/United_Arab_Emirates
 543 546 3046 and CC
 547 550 3047 the DT
-551 557 3048 United NNP Class https://en.wikipedia.org/wiki/United_Kingdom
-558 564 3049 States NNPS Class https://en.wikipedia.org/wiki/Sovereign_state
+551 557 3048 United NNP
+558 564 3049 States NNPS
 564 565 3050 . .

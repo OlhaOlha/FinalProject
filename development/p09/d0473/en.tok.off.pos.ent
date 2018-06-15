@@ -1,22 +1,22 @@
 0 2 1001 An DT
-3 10 1002 Israeli NNP Class https://en.wikipedia.org/wiki/Israel
+3 10 1002 Israeli NNP COU https://en.wikipedia.org/wiki/Israel
 11 20 1003 airstrike NN
 21 24 1004 has VBZ
 25 31 1005 killed VBN
 32 36 1006 five CD
-37 48 1007 Palestinian JJ
+37 48 1007 Palestinian JJ PER https://en.wikipedia.org/wiki/Palestinians
 49 58 1008 militants NNS
 59 61 1009 in IN
 62 65 1010 the DT
-66 70 1011 Gaza NNP Class https://en.wikipedia.org/wiki/Gaza_Strip
-71 76 1012 Strip NNP Class
+66 70 1011 Gaza NNP
+71 76 1012 Strip NNP
 76 77 1013 . .
-79 86 2001 Israeli JJ
+79 86 2001 Israeli JJ COU https://en.wikipedia.org/wiki/Israel
 87 95 2002 military JJ
 96 105 2003 officials NNS
 106 110 2004 said VBD
 111 113 2005 on IN
-114 122 2006 Saturday NNP Class https://en.wikipedia.org/wiki/Saturday
+114 122 2006 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 123 126 2007 the DT
 127 131 2008 five CD
 132 136 2009 were VBD
@@ -28,7 +28,7 @@
 166 172 2015 attack NN
 173 180 2016 against IN
 181 189 2017 southern JJ
-190 197 2018 Israeli JJ
+190 197 2018 Israeli JJ COU https://en.wikipedia.org/wiki/Israel
 198 209 2019 communities NNS
 210 214 2020 when WRB
 215 219 2021 they PRP
@@ -48,15 +48,15 @@
 294 295 3011 . .
 297 300 4001 The DT
 301 309 4002 militant JJ
-310 321 4003 Palestinian NNP Class https://en.wikipedia.org/wiki/Palestinians
+310 321 4003 Palestinian NNP PER https://en.wikipedia.org/wiki/Palestinians
 322 327 4004 group NN
-328 333 4005 Hamas NNP Class https://en.wikipedia.org/wiki/Hamas
+328 333 4005 Hamas NNP ORG https://en.wikipedia.org/wiki/Hamas
 334 342 4006 controls VBZ
 343 346 4007 the DT
-347 351 4008 Gaza NNP Class https://en.wikipedia.org/wiki/Gaza_Strip
-352 357 4009 Strip NNP Class
+347 351 4008 Gaza NNP
+352 357 4009 Strip NNP
 358 363 4010 where WRB
-364 370 4011 Israel NNP Class https://en.wikipedia.org/wiki/Israel
+364 370 4011 Israel NNP
 371 374 4012 has VBZ
 375 384 4013 routinely RB
 385 393 4014 targeted VBN
