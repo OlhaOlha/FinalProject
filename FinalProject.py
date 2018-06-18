@@ -211,7 +211,7 @@ def topCategory(syn):
 
 # The most important processing
 def main_processing(dev_data):
-    target = ['VBG', 'NNPS', 'VBN', 'NN', 'NNP', 'JJ', 'NNS'] #, 'VB']
+    target = ['VBG', 'NNPS', 'VBN', 'NN', 'NNP', 'JJ', 'NNS'] # 'IN'?
     # Simple work with input file en.tok.off.pos and output en.tok.off.pos.my.ent
     for root, dirs, files in os.walk(dev_data):
         for file in files:
@@ -237,16 +237,57 @@ def main_processing(dev_data):
 
                             splitnstrip_plus = splitnstrip[:]
 
+                            if pos in target:
+                                if word[0].isupper():
 
-                            if pos in target and str(word)[0].isupper():
+                                    if file_lines != []:
 
-                                if file_lines != [] and str(file_lines[-1][3][0]).isupper():
-                                    splitnstrip_plus.append(str(count))
-                                else:
-                                    count += 1
-                                    splitnstrip_plus.append(str(count))
+                                        prev_word = str(file_lines[-1][3])
+
+                                        if prev_word[0].isupper():
+                                            splitnstrip_plus.append(str(count))
+                                        else:
+                                            count += 1
+                                            splitnstrip_plus.append(str(count))
+                                    else:
+                                        count += 1
+                                        splitnstrip_plus.append(str(count))
+
+                                else:  # lowercase word
+                                    if file_lines != []:
+                                        prev_word = str(file_lines[-1][3])
+                                        prev_pos = file_lines[-1][4]
+                                        if prev_word[0].isupper():
+                                            if "NN" in pos and "JJ" == prev_pos:
+                                                splitnstrip_plus.append(str(count))
+                                            # elif pos == "IN"
+                                            else:
+                                                splitnstrip_plus.append(None)
+                                        else:
+                                            splitnstrip_plus.append(None)
+                                    else:
+                                        splitnstrip_plus.append(None)
                             else:
                                 splitnstrip_plus.append(None)
+
+
+
+                            # if pos in target and str(word)[0].isupper():
+                            #
+                            #     if file_lines != []:
+                            #
+                            #         prev_word = str(file_lines[-1][3])
+                            #
+                            #         if prev_word[0].isupper():
+                            #             splitnstrip_plus.append(str(count))
+                            #         else:
+                            #             count += 1
+                            #             splitnstrip_plus.append(str(count))
+                            #     else:
+                            #         count += 1
+                            #         splitnstrip_plus.append(str(count))
+                            # else:
+                            #     splitnstrip_plus.append(None)
 
 
                             file_lines.append(splitnstrip_plus)
@@ -335,21 +376,50 @@ def main_processing(dev_data):
                         current_class = None
 
                         if tag_list != []:
-                            if "PERSON" == tag_list[0]:  # or?
-                                current_class = "PER"
-                            elif "ORGANIZATION" == tag_list[0]:
-                                current_class = "ORG"
+
+                            per_count = 0
+                            org_count = 0
+                            loc_count = 0
+                            for cur_tag in tag_list:
+                                if cur_tag == "PERSON":
+                                    per_count += 1
+                                elif cur_tag == "ORGANIZATION":
+                                    org_count += 1
+                                elif cur_tag == "LOCATION":
+                                    loc_count += 1
+                            print("\nPER, ORG, LOC", per_count, org_count, loc_count, "\n")
+
+                            if per_count != 0 or org_count != 0 or loc_count != 0:
+                                max_num = max(per_count, org_count, loc_count)
+                                if per_count == max_num:
+                                    current_class = "PER"
+                                elif org_count == max_num:
+                                    current_class = "ORG"
+                                elif loc_count == max_num:
+                                    # current_class = "LOC"
+                                    current_class = get_class(page)
+                                    if current_class != "CIT" and current_class != "COU":
+                                        current_class = "NAT"
                             elif "Synset('animal.n.01')" in tag_list:
-                                current_class = "ANI"
+                                    current_class = "ANI"
+                            else:
+                                current_class = get_class(page)
+
+                            # if "PERSON" == tag_list[0]:  # or?
+                            #     current_class = "PER"
+                            # elif "ORGANIZATION" == tag_list[0]:
+                            #     current_class = "ORG"
+                            # if "Synset('animal.n.01')" in tag_list:
+                            #     current_class = "ANI"
                             # elif "Synset('???.n.01')" in tag_list:
                             #     current_class = "NAT"
 
-                            elif "LOCATION" in tag_list:
-                                current_class = get_class(page)
-                                if current_class != "CIT" and current_class != "COU":
-                                    current_class = "NAT"
-                            else:
-                                current_class = get_class(page)
+                            # if current_class == "LOC":
+                            #     current_class = get_class(page)
+                            #     if current_class != "CIT" and current_class != "COU":
+                            #         current_class = "NAT"
+                            # else:
+                            #     current_class = get_class(page)
                         else:
                             current_class = get_class(page)
 
@@ -359,8 +429,15 @@ def main_processing(dev_data):
                         #     current_class = "NO"
 
                         if current_link is not None and current_class is not None:
-                        # if current_class:
                             class_link_nums.append([current_class, current_link, num_list])
+                        # elif current_class is not None:
+                        #     class_link_nums.append([current_class, "NO", num_list])
+                        elif current_link is not None:
+                            class_link_nums.append(["NO", current_link, num_list])
+                        # if
+                        # else:
+                        #     class_link_nums.append(["NO", current_link, num_list])
+
 
                         # returned_object = get_class_link(ent_str)
                         # if returned_object is not None:
@@ -370,7 +447,7 @@ def main_processing(dev_data):
                         #     #     if sublist[2] in num_list:
                         #
                         #     class_link_nums.append([current_class, current_link, num_list])
-                print(class_link_nums)
+                print("\n", class_link_nums, "\n")
 
 
                 with open(os.path.join(root, file), 'r') as pos_file, open(os.path.join(root, file) + '.ent', 'w') as ent_file:
@@ -432,6 +509,9 @@ def get_classes_links(folder_data):
 
 # Comparision with gold standard
 def compare(gold_standard, comp, gold_links, dev_links):
+
+    print("gold_links", len(gold_links))
+    print("dev_links", len(dev_links))
 
     # # Do not need it actually, but it can be used to get information
     # true_positives = nltk.Counter()
