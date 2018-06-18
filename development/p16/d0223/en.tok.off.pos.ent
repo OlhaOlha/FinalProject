@@ -1,5 +1,5 @@
 0 8 1001 Egyptian JJ COU https://en.wikipedia.org/wiki/Egypt
-9 20 1002 authorities NNS
+9 20 1002 authorities NNS COU https://en.wikipedia.org/wiki/Egypt
 21 24 1003 say VB
 25 26 1004 a DT
 27 39 1005 construction NN
@@ -17,7 +17,7 @@
 97 98 1017 a DT
 99 106 1018 busload NN
 107 109 1019 of IN
-110 117 1020 workers NNS
+110 117 1020 workers NNS ANI https://en.wikipedia.org/wiki/Workforce
 117 118 1021 , ,
 119 126 1022 killing VBG
 127 130 1023 six CD
@@ -28,14 +28,14 @@
 152 156 1028 near IN
 157 162 1029 Cairo NN CIT https://en.wikipedia.org/wiki/Cairo
 162 163 1030 . .
-165 173 2001 Egyptian JJ COU https://en.wikipedia.org/wiki/Egypt
-174 186 2002 construction NN
+165 173 2001 Egyptian JJ NO https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques
+174 186 2002 construction NN NO https://en.wikipedia.org/wiki/Egyptian_pyramid_construction_techniques
 187 191 2003 firm NN
 192 196 2004 Arab NN ORG https://en.wikipedia.org/wiki/Arab_Contractors
 197 208 2005 Contractors NNS ORG https://en.wikipedia.org/wiki/Arab_Contractors
 209 213 2006 says VBZ
-214 221 2007 Mahmoud NN
-222 229 2008 Sweilam NN
+214 221 2007 Mahmoud NN PER https://en.wikipedia.org/wiki/National_reactions_to_the_Gaza_flotilla_raid
+222 229 2008 Sweilam NN PER https://en.wikipedia.org/wiki/National_reactions_to_the_Gaza_flotilla_raid
 229 230 2009 , ,
 231 232 2010 a DT
 233 240 2011 20-year JJ
@@ -50,11 +50,11 @@
 287 293 2020 deadly RB
 294 301 2021 rampage NN
 302 307 2022 early RB
-308 315 2023 Tuesday NNP
+308 315 2023 Tuesday NNP NO https://en.wikipedia.org/wiki/Tuesday
 315 316 2024 . .
-320 331 3001 Authorities NNS
+320 331 3001 Authorities NNS NO https://en.wikipedia.org/wiki/Authority
 332 335 3002 say VB
-336 343 3003 Sweilam NN
+336 343 3003 Sweilam NN NO https://en.wikipedia.org/wiki/North_Sinai_Governorate
 344 347 3004 was VBD
 348 355 3005 driving VBG
 356 360 3006 more RBR
@@ -82,7 +82,7 @@
 474 483 3028 automatic JJ
 484 489 3029 rifle NN
 489 490 3030 . .
-492 498 4001 Police NNS
+492 498 4001 Police NNS NO https://en.wikipedia.org/wiki/Police
 499 502 4002 are VBP
 503 508 4003 still RB
 509 522 4004 investigating VBG

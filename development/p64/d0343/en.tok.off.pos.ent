@@ -1,5 +1,5 @@
-0 4 1001 U.S. NNP
-5 14 1002 Secretary NNP
+0 4 1001 U.S. NNP NAT https://en.wikipedia.org/wiki/United_States_Secretary_of_State
+5 14 1002 Secretary NNP NAT https://en.wikipedia.org/wiki/United_States_Secretary_of_State
 15 17 1003 of IN
 18 23 1004 State NNP PER https://en.wikipedia.org/wiki/Condoleezza_Rice
 24 35 1005 Condoleezza NNP PER https://en.wikipedia.org/wiki/Condoleezza_Rice
@@ -28,13 +28,13 @@
 133 135 2002 an DT
 136 145 2003 interview NN
 146 150 2004 with IN
-151 155 2005 Time NNP
+151 155 2005 Time NNP ORG https://en.wikipedia.org/wiki/Time
 156 164 2006 magazine NN
 165 174 2007 published VBN
-175 181 2008 Sunday NNP
+175 181 2008 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 181 182 2009 , ,
-183 186 2010 Ms. NNP
-187 191 2011 Rice NNP
+183 186 2010 Ms. NNP PER https://en.wikipedia.org/wiki/Hareraiser
+187 191 2011 Rice NNP PER https://en.wikipedia.org/wiki/Hareraiser
 192 196 2012 said VBD
 197 200 2013 she PRP
 201 209 2014 believes VBZ
@@ -59,8 +59,8 @@
 314 319 2033 moves NNS
 320 327 2034 forward RB
 327 328 2035 . .
-329 332 3001 Ms. NNP
-333 337 3002 Rice NNP
+329 332 3001 Ms. NNP PER https://en.wikipedia.org/wiki/Hareraiser
+333 337 3002 Rice NNP PER https://en.wikipedia.org/wiki/Hareraiser
 338 342 3003 also RB
 343 349 3004 argued VBD
 350 354 3005 that IN
@@ -80,7 +80,7 @@
 418 422 3019 what WP
 423 426 3020 she PRP
 427 433 3021 called VBD
-434 438 3022 Iraq NNP
+434 438 3022 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
 438 440 3023 's POS
 441 442 3024 " NN
 442 448 3025 rather RB

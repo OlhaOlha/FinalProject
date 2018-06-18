@@ -14,12 +14,12 @@
 86 89 1014 his PRP$
 90 101 1015 deportation NN
 101 102 1016 . .
-103 108 2001 Peter NNP PER https://en.wikipedia.org/wiki/Charles_Bourke
-109 116 2002 Waldron NNP PER https://en.wikipedia.org/wiki/Charles_Bourke
+103 108 2001 Peter NNP PER https://en.wikipedia.org/wiki/Terrorism_in_Uganda
+109 116 2002 Waldron NNP PER https://en.wikipedia.org/wiki/Terrorism_in_Uganda
 117 120 2003 was VBD
 121 129 2004 arrested VBN
 130 132 2005 in IN
-133 141 2006 February NNP
+133 141 2006 February NNP NO https://en.wikipedia.org/wiki/February
 142 147 2007 after IN
 148 154 2008 police NN
 155 160 2009 found VBD
@@ -44,14 +44,14 @@
 264 273 3011 terrorism NN
 274 277 3012 law NN
 277 278 3013 . .
-279 286 4001 Waldron NNP
+279 286 4001 Waldron NNP PER https://en.wikipedia.org/wiki/Waldron_(surname)
 287 290 4002 has VBZ
 291 297 4003 denied VBN
 298 303 4004 being VBG
 304 305 4005 a DT
 306 315 4006 terrorist NN
 315 316 4007 . .
-317 328 5001 Prosecutors NNS
+317 328 5001 Prosecutors NNS NAT https://en.wikipedia.org/wiki/Prosecutor
 329 333 5002 have VBP
 334 337 5003 not RB
 338 347 5004 disclosed VBN

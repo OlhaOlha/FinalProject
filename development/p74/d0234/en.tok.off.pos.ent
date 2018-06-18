@@ -1,5 +1,5 @@
-0 12 1001 Israeli-Arab JJ
-13 21 1002 lawmaker NN
+0 12 1001 Israeli-Arab JJ PER https://en.wikipedia.org/wiki/List_of_Arab_citizens_of_Israel
+13 21 1002 lawmaker NN PER https://en.wikipedia.org/wiki/List_of_Arab_citizens_of_Israel
 22 26 1003 Azmi NNP PER https://en.wikipedia.org/wiki/Azmi_Bishara
 27 34 1004 Bishara NNP PER https://en.wikipedia.org/wiki/Azmi_Bishara
 35 38 1005 has VBZ
@@ -8,7 +8,7 @@
 53 64 1008 resignation NN
 65 69 1009 from IN
 70 73 1010 the DT
-74 81 1011 Knesset NNP
+74 81 1011 Knesset NNP ORG https://en.wikipedia.org/wiki/Knesset
 82 87 1012 after IN
 88 95 1013 leaving VBG
 96 99 1014 the DT
@@ -18,17 +18,17 @@
 115 121 1018 police NN
 122 135 1019 investigation NN
 135 136 1020 . .
-137 144 2001 Bishara NNP ENT https://en.wikipedia.org/wiki/Joseph_Bishara
+137 144 2001 Bishara NNP PER https://en.wikipedia.org/wiki/Joseph_Bishara
 145 149 2002 says VBZ
 150 152 2003 he PRP
 153 161 2004 tendered VBD
 162 165 2005 has VBZ
 166 177 2006 resignation NN
-178 184 2007 Sunday NNP
+178 184 2007 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 185 187 2008 at IN
 188 191 2009 the DT
-192 198 2010 Israel NNP
-199 206 2011 Embassy NNP
+192 198 2010 Israel NNP ORG https://en.wikipedia.org/wiki/Foreign_Affairs_and_Defense_Committee
+199 206 2011 Embassy NNP ORG https://en.wikipedia.org/wiki/Foreign_Affairs_and_Defense_Committee
 207 209 2012 in IN
 210 215 2013 Egypt NNP COU https://en.wikipedia.org/wiki/Egypt
 215 216 2014 . .
@@ -40,7 +40,7 @@
 252 256 3006 move NN
 256 257 3007 , ,
 258 264 3008 saying VBG
-265 272 3009 Bishara NNP ENT https://en.wikipedia.org/wiki/Joseph_Bishara
+265 272 3009 Bishara NNP PER https://en.wikipedia.org/wiki/Joseph_Bishara
 273 276 3010 had VBD
 277 283 3011 handed VBN
 284 287 3012 his PRP$
@@ -52,15 +52,15 @@
 327 329 3018 at IN
 330 331 3019 a DT
 332 339 3020 meeting NN
-340 346 3021 Sunday NNP
+340 346 3021 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 347 354 3022 morning NN
 354 355 3023 . .
-356 362 4001 Police NNP
+356 362 4001 Police NNP NO https://en.wikipedia.org/wiki/Police
 363 372 4002 announced VBD
 373 377 4003 last JJ
 378 382 4004 week NN
 383 387 4005 that IN
-388 395 4006 Bishara NNP ENT https://en.wikipedia.org/wiki/Joseph_Bishara
+388 395 4006 Bishara NNP PER https://en.wikipedia.org/wiki/Joseph_Bishara
 396 398 4007 is VBZ
 399 404 4008 being VBG
 405 417 4009 investigated VBN
@@ -72,7 +72,7 @@
 439 443 4015 give VB
 444 451 4016 details NNS
 451 452 4017 . .
-453 460 5001 Bishara NNP ENT https://en.wikipedia.org/wiki/Joseph_Bishara
+453 460 5001 Bishara NNP PER https://en.wikipedia.org/wiki/Joseph_Bishara
 461 464 5002 has VBZ
 465 469 5003 been VBN
 470 472 5004 an DT
@@ -85,8 +85,8 @@
 506 512 5011 Israel NNP COU https://en.wikipedia.org/wiki/Israel
 513 516 5012 and CC
 517 520 5013 its PRP$
-521 532 5014 Palestinian JJ
-533 541 5015 policies NNS
+521 532 5014 Palestinian JJ NO https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict
+533 541 5015 policies NNS NO https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict
 541 542 5016 . .
 543 545 6001 He PRP
 546 549 6002 has VBZ

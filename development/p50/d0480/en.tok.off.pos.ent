@@ -1,12 +1,12 @@
 0 2 1001 At IN
 3 8 1002 least JJS
 9 14 1003 seven CD
-15 21 1004 Indian JJ PER https://en.wikipedia.org/wiki/Indian_people
-22 28 1005 police NN
+15 21 1004 Indian JJ NO https://en.wikipedia.org/wiki/Indian_Police_Service
+22 28 1005 police NN NO https://en.wikipedia.org/wiki/Indian_Police_Service
 29 37 1006 officers NNS
 38 42 1007 were VBD
 43 49 1008 killed VBN
-50 56 1009 Sunday NNP
+50 56 1009 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 57 61 1010 when WRB
 62 67 1011 their PRP$
 68 75 1012 vehicle NN
@@ -21,7 +21,7 @@
 119 122 1021 the DT
 123 130 1022 country NN
 130 131 1023 . .
-133 142 2001 Officials NNS
+133 142 2001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 143 146 2002 say VBP
 147 151 2003 they PRP
 152 159 2004 suspect VBP
@@ -37,7 +37,7 @@
 206 212 3002 attack NN
 213 216 3003 was VBD
 217 219 3004 in IN
-220 226 3005 Orissa NNP
+220 226 3005 Orissa NNP NAT https://en.wikipedia.org/wiki/Odisha
 227 232 3006 state NN
 232 233 3007 , ,
 234 240 3008 nearly RB
@@ -50,8 +50,8 @@
 275 282 3015 capital NN
 283 295 3016 Bhubaneshwar NNP CIT https://en.wikipedia.org/wiki/Bhubaneswar
 295 296 3017 . .
-298 304 4001 Indian JJ PER https://en.wikipedia.org/wiki/Indian_people
-305 314 4002 officials NNS
+298 304 4001 Indian JJ PER https://en.wikipedia.org/wiki/Zakiur_Rehman_Lakhvi
+305 314 4002 officials NNS PER https://en.wikipedia.org/wiki/Zakiur_Rehman_Lakhvi
 315 318 4003 say VBP
 319 322 4004 the DT
 323 335 4005 long-running JJ
@@ -84,7 +84,7 @@
 466 467 5003 , ,
 468 472 5004 also RB
 473 479 5005 called VBD
-480 489 5006 Naxalites NNS
+480 489 5006 Naxalites NNS ORG https://en.wikipedia.org/wiki/Naxalite
 489 490 5007 , ,
 491 494 5008 are VBP
 495 504 5009 demanding VBG

@@ -7,9 +7,9 @@ import operator
 
 from nltk.wsd import lesk
 
-# from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import wordnet
-# lemmatizer = WordNetLemmatizer()
+lemmatizer = WordNetLemmatizer()
 
 from nltk.tag import StanfordNERTagger
 
@@ -74,8 +74,8 @@ def get_class(page):
         ANI_count = 0  #category_count(categories_str, ANI_list)
         PER_list = ['person', 'persons', 'people']  # 'names'
         PER_count = category_count(categories_str, PER_list)
-        SPO_list = ['sport', 'sports', 'ball games']
-        SPO_count = category_count(categories_str, SPO_list)
+        SPO_list = []  #['sport', 'sports', 'ball games']
+        SPO_count = 0  #category_count(categories_str, SPO_list)
         # 'Geography of' NAT - Natural places
         ORG_list = ['organization', 'organization', 'organisations', 'organisation', 'companies', 'company']
         ORG_count = category_count(categories_str, ORG_list)
@@ -223,7 +223,7 @@ def hypernymOf(synset1, synset2):
 
 # The most important processing
 def main_processing(dev_data):
-    target = ['VBG', 'NNPS', 'VBN', 'NN', 'NNP', 'JJ', 'NNS'] # 'IN'?
+    target = ['VBG', 'NNPS', 'VBN', 'NN', 'NNP', 'JJ', 'NNS']
     # Simple work with input file en.tok.off.pos and output en.tok.off.pos.my.ent
     for root, dirs, files in os.walk(dev_data):
         for file in files:
@@ -304,8 +304,12 @@ def main_processing(dev_data):
 
                             file_lines.append(splitnstrip_plus)
 
+                    context_lemmas= []
+                    for word in context:
+                        context_lemmas.append(lemmatizer.lemmatize(word))
+
                     # Lesk
-                    context_str = ' '.join(context)
+                    context_str = ' '.join(context_lemmas)
 
                     # print(context_str)
                     for line in file_lines:
@@ -322,7 +326,7 @@ def main_processing(dev_data):
 
                     tagger = StanfordNERTagger(model, jar, encoding='utf-8')
 
-                    words_tags = tagger.tag(context)
+                    words_tags = tagger.tag(context_lemmas)
                     # print(words_tags)
 
                     for i in range(len(file_lines)):
@@ -366,8 +370,8 @@ def main_processing(dev_data):
                                     line.append(syn)
                                     line.append("SPO")
                             elif str(tag) == "Synset('animal.n.01')":
-                                print("\nLALALLALALALALALALAL\n")
-                                print(line)
+                                # print("\nLALALLALALALALALALAL\n")
+                                # print(line)
                                 currrent_max_num += 1
                                 line.pop(7)
                                 line.pop(6)
@@ -422,6 +426,7 @@ def main_processing(dev_data):
                             per_count = 0
                             org_count = 0
                             loc_count = 0
+                            ani_count = 0
                             for cur_tag in tag_list:
                                 if cur_tag == "PERSON":
                                     per_count += 1
@@ -429,10 +434,12 @@ def main_processing(dev_data):
                                     org_count += 1
                                 elif cur_tag == "LOCATION":
                                     loc_count += 1
-                            print("\nPER, ORG, LOC", per_count, org_count, loc_count, "\n")
+                                elif cur_tag == "ANI":
+                                    ani_count += 1
+                            print("\nPER, ORG, LOC ANI", per_count, org_count, loc_count, ani_count, "\n")
 
-                            if per_count != 0 or org_count != 0 or loc_count != 0:
-                                max_num = max(per_count, org_count, loc_count)
+                            if per_count != 0 or org_count != 0 or loc_count != 0 or ani_count != 0:
+                                max_num = max(per_count, org_count, loc_count, ani_count)
                                 if per_count == max_num:
                                     current_class = "PER"
                                 elif org_count == max_num:
@@ -442,8 +449,10 @@ def main_processing(dev_data):
                                     current_class = get_class(page)
                                     if current_class != "CIT" and current_class != "COU":
                                         current_class = "NAT"
-                            elif "ANI" == tag_list[0]:
+                                elif ani_count == max_num:
                                     current_class = "ANI"
+                            # elif "ANI" == tag_list[0]:
+                            #         current_class = "ANI"
                             elif "SPO" == tag_list[0]:
                                     current_class = "SPO"
                             else:
@@ -568,10 +577,9 @@ def compare(gold_standard, comp, gold_links, dev_links):
     correct_num = 0
     count_all = 0
     for i in range(len(gold_standard)):
-        if gold_links[i] != "NO" and dev_links[i] != "NO":
-            count_all += 1
-            if gold_links[i] == dev_links[i]:
-                correct_num += 1
+        count_all += 1
+        if gold_links[i] == dev_links[i]:
+            correct_num += 1
 
     links_accuracy = correct_num / count_all  # len(gold_standard)
 
@@ -594,7 +602,7 @@ def main():
     # print(link, page)
 
     # The most important - part that creates output .ent
-    main_processing(development_data)
+    # main_processing(development_data)
 
     # measures.py Preprocessing before the comparision with gold standard - get two lists of classes and links
     dev_list, links = get_classes_links(development_data)

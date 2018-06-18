@@ -1,5 +1,5 @@
-0 6 1001 Polish JJ COU https://en.wikipedia.org/wiki/Poland
-7 13 1002 police NNS
+0 6 1001 Polish JJ NO https://en.wikipedia.org/wiki/Policja
+7 13 1002 police NNS NO https://en.wikipedia.org/wiki/Policja
 14 18 1003 have VB
 19 27 1004 arrested VBN
 28 32 1005 more RBR
@@ -14,7 +14,7 @@
 77 79 1014 of IN
 80 81 1015 a DT
 82 88 1016 Polish JJ COU https://en.wikipedia.org/wiki/Poland
-89 97 1017 football NN
+89 97 1017 football NN SPO https://en.wikipedia.org/wiki/Football
 98 102 1018 team NN
 103 107 1019 went VBD
 108 110 1020 on IN
@@ -37,8 +37,8 @@
 197 199 2008 as IN
 200 204 2009 fans NNS
 205 207 2010 of IN
-208 213 2011 Legia NN SPO https://en.wikipedia.org/wiki/Legia_Warsaw
-214 220 2012 Warsaw NNP SPO https://en.wikipedia.org/wiki/Legia_Warsaw
+208 213 2011 Legia NN ORG https://en.wikipedia.org/wiki/Legia_Warsaw
+214 220 2012 Warsaw NNP ORG https://en.wikipedia.org/wiki/Legia_Warsaw
 221 228 2013 smashed VBN
 229 231 2014 up RB
 232 237 2015 shops NNS
@@ -49,8 +49,8 @@
 259 262 2020 the DT
 263 270 2021 capital NN
 270 272 2022 's POS
-273 276 2023 Old NN
-277 281 2024 Town NN
+273 276 2023 Old NN NAT https://en.wikipedia.org/wiki/Old_town
+277 281 2024 Town NN NAT https://en.wikipedia.org/wiki/Old_town
 282 289 2025 quarter NN
 290 294 2026 that IN
 295 297 2027 is VBZ
@@ -58,7 +58,7 @@
 306 310 2029 with IN
 311 319 2030 tourists NNS
 319 320 2031 . .
-321 328 3001 Drunken NNP
+321 328 3001 Drunken NNP NO https://en.wikipedia.org/wiki/Alcohol_intoxication
 329 333 3002 fans NNS
 334 340 3003 hurled VBN
 341 347 3004 stones NNS
@@ -74,8 +74,8 @@
 391 396 3014 water NN
 397 403 3015 cannon NN
 403 404 3016 . .
-405 421 4001 Football-related JJ PER https://en.wikipedia.org/wiki/Omar_Borr%C3%A1s
-422 430 4002 violence NN
+405 421 4001 Football-related JJ PER https://en.wikipedia.org/wiki/Pieter_Rumaropen
+422 430 4002 violence NN PER https://en.wikipedia.org/wiki/Pieter_Rumaropen
 431 434 4003 has VBZ
 435 439 4004 been VBN
 440 441 4005 a DT
@@ -87,8 +87,8 @@
 469 478 4011 prompting VBG
 479 487 4012 concerns NNS
 488 492 4013 that IN
-493 499 4014 Polish JJ COU https://en.wikipedia.org/wiki/Poland
-500 504 4015 fans NNS
+493 499 4014 Polish JJ NO https://en.wikipedia.org/wiki/Legia_Warsaw
+500 504 4015 fans NNS NO https://en.wikipedia.org/wiki/Legia_Warsaw
 505 510 4016 could MD
 511 516 4017 cause NN
 517 524 4018 trouble NN
@@ -96,8 +96,8 @@
 528 532 4020 next JJ
 533 538 4021 month NN
 538 540 4022 's POS
-541 546 4023 World NN SPO https://en.wikipedia.org/wiki/World_Cup
-547 550 4024 Cup NN SPO https://en.wikipedia.org/wiki/World_Cup
+541 546 4023 World NN NO https://en.wikipedia.org/wiki/World_Cup
+547 550 4024 Cup NN NO https://en.wikipedia.org/wiki/World_Cup
 551 553 4025 in IN
-554 561 4026 Germany NNP
+554 561 4026 Germany NNP COU https://en.wikipedia.org/wiki/Germany
 561 562 4027 . .

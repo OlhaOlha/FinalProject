@@ -1,7 +1,7 @@
 0 1 1001 A DT
 2 9 1002 leftist NN
-10 19 1003 Colombian JJ COU https://en.wikipedia.org/wiki/Colombia
-20 29 1004 guerrilla NN
+10 19 1003 Colombian JJ NO https://en.wikipedia.org/wiki/Guerrilla_movements_in_Colombia
+20 29 1004 guerrilla NN NO https://en.wikipedia.org/wiki/Guerrilla_movements_in_Colombia
 30 36 1005 leader NN
 37 40 1006 has VBZ
 41 45 1007 been VBN
@@ -14,26 +14,26 @@
 78 84 1014 troops NNS
 85 87 1015 in IN
 88 91 1016 the DT
-92 97 1017 South NNP
-98 106 1018 American JJ
-107 114 1019 country NN
+92 97 1017 South NNP COU https://en.wikipedia.org/wiki/List_of_South_American_countries_by_population
+98 106 1018 American JJ COU https://en.wikipedia.org/wiki/List_of_South_American_countries_by_population
+107 114 1019 country NN COU https://en.wikipedia.org/wiki/List_of_South_American_countries_by_population
 114 115 1020 . .
-116 125 2001 Officials NNS
+116 125 2001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 126 129 2002 say VB
-130 138 2003 Humberto NN
-139 147 2004 Valbuena NNS
+130 138 2003 Humberto NN PER https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_%E2%80%93_UEFA_Group_I
+139 147 2004 Valbuena NNS PER https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_qualification_%E2%80%93_UEFA_Group_I
 147 148 2005 , ,
 149 150 2006 a DT
 151 155 2007 unit NN
 156 165 2008 commander NN
 166 169 2009 for IN
 170 173 2010 the DT
-174 187 2011 Revolutionary JJ ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
-188 193 2012 Armed VBN ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
-194 200 2013 Forces NNS ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+174 187 2011 Revolutionary JJ ORG https://en.wikipedia.org/wiki/George_Bond_Howes
+188 193 2012 Armed VBN ORG https://en.wikipedia.org/wiki/George_Bond_Howes
+194 200 2013 Forces NNS ORG https://en.wikipedia.org/wiki/George_Bond_Howes
 201 203 2014 of IN
-204 212 2015 Colombia NNP COU https://en.wikipedia.org/wiki/Colombia
+204 212 2015 Colombia NNP ORG https://en.wikipedia.org/wiki/Colombia
 212 213 2016 , ,
 214 216 2017 or CC
-217 221 2018 FARC NN
+217 221 2018 FARC NN ORG https://en.wikipedia.org/wiki/George_Bond_Howes
 221 222 2019 , ,

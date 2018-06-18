@@ -3,7 +3,7 @@
 7 13 1003 people NNS
 14 20 1004 aboard IN
 21 22 1005 a DT
-23 31 1006 Sudanese JJ COU https://en.wikipedia.org/wiki/South_Sudan
+23 31 1006 Sudanese JJ COU https://en.wikipedia.org/wiki/Sudan
 32 40 1007 military JJ
 41 46 1008 plane NN
 47 51 1009 were VBD
@@ -19,7 +19,7 @@
 104 106 1019 on IN
 107 115 1020 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 115 116 1021 . .
-117 126 2001 Officials NNS
+117 126 2001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 127 131 2002 with IN
 132 137 2003 Sudan NNP COU https://en.wikipedia.org/wiki/Sudan
 137 139 2004 's POS
@@ -60,7 +60,7 @@
 311 321 3013 kilometers NNS
 322 331 3014 southwest NN
 332 334 3015 of IN
-335 343 3016 Khartoum NNP
+335 343 3016 Khartoum NNP CIT https://en.wikipedia.org/wiki/Khartoum
 343 344 3017 . .
 345 350 4001 There EX
 351 355 4002 were VBD

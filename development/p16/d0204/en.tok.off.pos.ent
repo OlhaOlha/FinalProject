@@ -1,12 +1,12 @@
-0 4 1001 Last JJ ENT https://en.wikipedia.org/wiki/At_Last
-5 10 1002 month NN
+0 4 1001 Last JJ NO https://en.wikipedia.org/wiki/Month
+5 10 1002 month NN NO https://en.wikipedia.org/wiki/Month
 10 11 1003 , ,
 12 13 1004 a DT
 14 20 1005 United NNP ORG https://en.wikipedia.org/wiki/United_Nations
 21 28 1006 Nations NNS ORG https://en.wikipedia.org/wiki/United_Nations
 29 39 1007 conference NN
 40 42 1008 in IN
-43 47 1009 Rome NN
+43 47 1009 Rome NN NAT https://en.wikipedia.org/wiki/Miss_Philippines_Earth_2018
 48 57 1010 discussed VBN
 58 61 1011 the DT
 62 67 1012 world NN
@@ -56,9 +56,9 @@
 284 289 3022 highs NNS
 289 290 3023 . .
 293 296 4001 The DT
-297 308 4002 Philippines NNS
+297 308 4002 Philippines NNS NAT https://en.wikipedia.org/wiki/Miss_Philippines_Earth_2018
 309 312 4003 and CC
-313 318 4004 Haiti NNP
+313 318 4004 Haiti NNP NAT https://en.wikipedia.org/wiki/2010_Haiti_earthquake
 318 319 4005 , ,
 320 325 4006 among IN
 326 331 4007 other JJ
@@ -69,10 +69,10 @@
 353 361 4012 hard-hit NN
 361 362 4013 . .
 363 367 5001 Some DT
-368 376 5002 Filipino NN
+368 376 5002 Filipino NN NAT https://en.wikipedia.org/wiki/2010_Haiti_earthquake
 377 380 5003 and CC
-381 388 5004 Haitian JJ COU https://en.wikipedia.org/wiki/Haiti
-389 399 5005 immigrants NNS
+381 388 5004 Haitian JJ PER https://en.wikipedia.org/wiki/Haitian_Americans
+389 399 5005 immigrants NNS PER https://en.wikipedia.org/wiki/Haitian_Americans
 400 402 5006 in IN
 403 406 5007 the DT
 407 413 5008 United NNP COU https://en.wikipedia.org/wiki/United_States
@@ -86,7 +86,7 @@
 456 460 5016 back RB
 461 465 5017 home NN
 465 466 5018 . .
-468 471 6001 VOA NN ORG https://en.wikipedia.org/wiki/Voice_of_America
+468 471 6001 VOA NN ORG https://en.wikipedia.org/wiki/Special_English
 471 473 6002 's POS
 474 481 6003 Deborah NN
 482 487 6004 Block NN

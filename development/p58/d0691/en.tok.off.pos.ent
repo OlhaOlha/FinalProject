@@ -4,8 +4,8 @@
 19 26 1004 between IN
 27 33 1005 France NNP COU https://en.wikipedia.org/wiki/France
 34 37 1006 and CC
-38 43 1007 Great NNP
-44 51 1008 Britain NNP
+38 43 1007 Great NNP NAT https://en.wikipedia.org/wiki/Great_Britain
+44 51 1008 Britain NNP NAT https://en.wikipedia.org/wiki/Great_Britain
 52 55 1009 for IN
 56 59 1010 the DT
 60 67 1011 islands NNS
@@ -21,13 +21,13 @@
 107 110 1021 the DT
 111 117 1022 latter NN
 117 118 1023 . .
-119 131 2001 Independence NN
+119 131 2001 Independence NN NO https://en.wikipedia.org/wiki/Independence
 132 136 2002 came VBD
 137 139 2003 in IN
 140 144 2004 1976 CD
 144 145 2005 . .
-146 155 3001 Socialist JJ CIT https://en.wikipedia.org/wiki/Socialism
-156 160 3002 rule NN
+146 155 3001 Socialist JJ NO https://en.wikipedia.org/wiki/Socialist_state
+156 160 3002 rule NN NO https://en.wikipedia.org/wiki/Socialist_state
 161 164 3003 was VBD
 165 172 3004 brought VBN
 173 175 3005 to TO
@@ -74,7 +74,7 @@
 385 395 5008 presidency NN
 396 399 5009 and CC
 400 402 5010 in IN
-403 407 5011 July NNP
+403 407 5011 July NNP NO https://en.wikipedia.org/wiki/July
 408 412 5012 2006 CD
 413 416 5013 was VBD
 417 424 5014 elected VBN

@@ -1,6 +1,6 @@
 0 1 1001 A DT
 2 8 1002 French JJ COU https://en.wikipedia.org/wiki/France
-9 19 1003 investment NN
+9 19 1003 investment NN COU https://en.wikipedia.org/wiki/France
 20 26 1004 banker NN
 26 27 1005 , ,
 28 31 1006 who WP
@@ -21,10 +21,10 @@
 112 116 1021 this DT
 117 121 1022 week NN
 121 122 1023 . .
-124 127 2001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+124 127 2001 VOA NNP ORG https://en.wikipedia.org/wiki/Special_English
 127 129 2002 's POS
-130 135 2003 Barry NNP
-136 140 2004 Wood NNP
+130 135 2003 Barry NNP PER https://en.wikipedia.org/wiki/Barry_Wood_(bishop)
+136 140 2004 Wood NNP PER https://en.wikipedia.org/wiki/Barry_Wood_(bishop)
 141 148 2005 reports NNS
 149 153 2006 that IN
 154 157 2007 the DT
@@ -82,7 +82,7 @@
 439 441 4014 in IN
 442 445 4015 the DT
 446 452 4016 latest JJS
-453 456 4017 New NNP
-457 461 4018 York NNP
+453 456 4017 New NNP COU https://en.wikipedia.org/wiki/New_York_(state)
+457 461 4018 York NNP COU https://en.wikipedia.org/wiki/New_York_(state)
 462 469 4019 scandal NN
 469 470 4020 . .

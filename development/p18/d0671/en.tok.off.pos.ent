@@ -1,5 +1,5 @@
 0 3 1001 Two CD
-4 11 1002 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
+4 11 1002 British JJ
 12 21 1003 lawmakers NNS
 22 26 1004 have VBP
 27 33 1005 called VBN
@@ -21,20 +21,20 @@
 124 136 1021 intelligence NN
 137 141 1022 from IN
 142 149 1023 British JJ ENT https://en.wikipedia.org/wiki/The_Guardian
-150 156 1024 troops NNS
+150 156 1024 troops NNS ENT https://en.wikipedia.org/wiki/The_Guardian
 156 157 1025 . .
 158 161 2001 The DT
 162 170 2002 Guardian JJ ENT https://en.wikipedia.org/wiki/The_Guardian
-171 180 2003 newspaper NN
+171 180 2003 newspaper NN ENT https://en.wikipedia.org/wiki/The_Guardian
 181 185 2004 says VBZ
 186 189 2005 the DT
 190 199 2006 lawmakers NNS
 200 204 2007 want VBP
 205 208 2008 the DT
-209 216 2009 Foreign NNP
+209 216 2009 Foreign NNP NO https://en.wikipedia.org/wiki/Foreign_accent_syndrome
 217 220 2010 and CC
-221 233 2011 Commonwealth NNP CIT https://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office
-234 240 2012 Office NNP CIT https://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office
+221 233 2011 Commonwealth NNP ORG https://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office
+234 240 2012 Office NNP ORG https://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office
 241 243 2013 to TO
 244 255 2014 investigate VB
 256 263 2015 whether IN
@@ -48,8 +48,8 @@
 308 316 2023 withhold VB
 317 328 2024 information NN
 329 333 2025 from IN
-334 341 2026 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
-342 348 2027 forces NNS
+334 341 2026 British JJ NO https://en.wikipedia.org/wiki/British_Armed_Forces
+342 348 2027 forces NNS NO https://en.wikipedia.org/wiki/British_Armed_Forces
 348 349 2028 . .
 350 353 3001 The DT
 354 359 3002 probe JJ
@@ -61,8 +61,8 @@
 393 397 3008 that IN
 398 399 3009 a DT
 400 406 3010 former JJ
-407 414 3011 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
-415 424 3012 policeman NN
+407 414 3011 British JJ PER https://en.wikipedia.org/wiki/Nipper_Read
+415 424 3012 policeman NN PER https://en.wikipedia.org/wiki/Nipper_Read
 425 432 3013 working VBG
 433 435 3014 in IN
 436 440 3015 2004 CD
@@ -86,14 +86,14 @@
 538 544 3033 visits NNS
 545 547 3034 to TO
 548 553 3035 local JJ
-554 559 3036 Iraqi JJ COU https://en.wikipedia.org/wiki/Iraq
-560 566 3037 police NN
+554 559 3036 Iraqi JJ NO https://en.wikipedia.org/wiki/Iraqi_Police
+560 566 3037 police NN NO https://en.wikipedia.org/wiki/Iraqi_Police
 567 575 3038 stations NNS
 575 576 3039 . .
 577 580 4001 The DT
 581 587 4002 report NN
 588 592 4003 says VBZ
-593 603 4004 ArmorGroup NNP
+593 603 4004 ArmorGroup NNP ORG https://en.wikipedia.org/wiki/ArmorGroup
 604 607 4005 has VBZ
 608 609 4006 " VBN
 609 619 4007 vigorously RB

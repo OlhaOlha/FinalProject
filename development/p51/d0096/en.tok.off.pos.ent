@@ -14,13 +14,13 @@
 56 57 1014 a DT
 58 64 1015 barrel NN
 65 67 1016 in IN
-68 75 1017 Tuesday NNP
+68 75 1017 Tuesday NNP NO https://en.wikipedia.org/wiki/Tuesday
 75 77 1018 's POS
 78 81 1019 New NNP COU https://en.wikipedia.org/wiki/New_York_(state)
 82 86 1020 York NNP COU https://en.wikipedia.org/wiki/New_York_(state)
 87 94 1021 trading NN
 94 95 1022 . .
-96 102 2001 Prices NNS
+96 102 2001 Prices NNS NO https://en.wikipedia.org/wiki/Price
 103 107 2002 rose VBD
 108 112 2003 more JJR
 113 117 2004 than IN
@@ -36,7 +36,7 @@
 146 147 2014 a DT
 148 154 2015 barrel NN
 154 155 2016 . .
-156 162 3001 Prices NNS
+156 162 3001 Prices NNS NO https://en.wikipedia.org/wiki/Price
 163 167 3002 have VBP
 168 174 3003 soared VBN
 175 177 3004 on IN
@@ -68,15 +68,15 @@
 338 341 3030 oil NN
 342 350 3031 exporter NN
 350 351 3032 . .
-352 360 4001 Tensions NNS
+352 360 4001 Tensions NNS NO https://en.wikipedia.org/wiki/Surface_tension
 361 363 4002 in IN
 364 368 4003 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
 369 372 4004 and CC
 373 380 4005 between IN
-381 388 4006 Western JJ
-389 396 4007 nations NNS
+381 388 4006 Western JJ NO https://en.wikipedia.org/wiki/Western_world
+389 396 4007 nations NNS NO https://en.wikipedia.org/wiki/Western_world
 397 400 4008 and CC
-401 405 4009 Iran NNP
+401 405 4009 Iran NNP COU https://en.wikipedia.org/wiki/Iran
 406 416 4010 reinforced VBD
 417 423 4011 supply NN
 424 431 4012 worries NNS

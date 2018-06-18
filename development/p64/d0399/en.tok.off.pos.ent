@@ -1,6 +1,6 @@
-0 5 1001 Today NN
+0 5 1001 Today NN NO https://en.wikipedia.org/wiki/Present
 5 6 1002 , ,
-7 12 1003 April NNP
+7 12 1003 April NNP NO https://en.wikipedia.org/wiki/April
 13 15 1004 22 CD
 16 18 1005 is VBZ
 19 24 1006 Earth NNP ORG https://en.wikipedia.org/wiki/Earth_Day
@@ -84,10 +84,10 @@
 436 443 3035 climate JJ
 444 450 3036 change NN
 450 451 3037 . .
-453 456 4001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+453 456 4001 VOA NNP ORG https://en.wikipedia.org/wiki/Special_English
 456 458 4002 's POS
-459 463 4003 Paul NNP
-464 469 4004 Sisco NNP
+459 463 4003 Paul NNP PER https://en.wikipedia.org/wiki/Out_of_Sight
+464 469 4004 Sisco NNP PER https://en.wikipedia.org/wiki/Out_of_Sight
 470 473 4005 has VBZ
 474 478 4006 more JJR
 478 479 4007 . .

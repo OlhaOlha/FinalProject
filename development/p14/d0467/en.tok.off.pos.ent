@@ -1,4 +1,4 @@
-0 9 1001 Officials NNS
+0 9 1001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 10 12 1002 in IN
 13 18 1003 Burma NNP COU https://en.wikipedia.org/wiki/Myanmar
 19 22 1004 say VBP
@@ -19,13 +19,13 @@
 97 105 1019 district NN
 106 110 1020 near IN
 111 114 1021 the DT
-115 122 1022 Chinese JJ COU https://en.wikipedia.org/wiki/China
-123 129 1023 border NN
+115 122 1022 Chinese JJ NO https://en.wikipedia.org/wiki/Borders_of_China
+123 129 1023 border NN NO https://en.wikipedia.org/wiki/Borders_of_China
 129 130 1024 . .
 131 134 2001 The DT
 135 144 2002 state-run JJ
-145 148 2003 New NNP
-149 154 2004 Light NNP
+145 148 2003 New NNP NO https://en.wikipedia.org/wiki/Old_and_New_Light
+149 154 2004 Light NNP NO https://en.wikipedia.org/wiki/Old_and_New_Light
 155 157 2005 of IN
 158 165 2006 Myanmar NNP COU https://en.wikipedia.org/wiki/Myanmar
 166 175 2007 newspaper NN
@@ -40,14 +40,14 @@
 221 222 2016 a DT
 223 227 2017 farm NN
 228 230 2018 in IN
-231 238 2019 Kentung NNP
+231 238 2019 Kentung NNP NAT https://en.wikipedia.org/wiki/Kengtung
 239 247 2020 township NN
 248 250 2021 in IN
 251 258 2022 eastern JJ
-259 263 2023 Shan NNP
+259 263 2023 Shan NNP NO https://en.wikipedia.org/wiki/Shan_(surname)
 264 269 2024 state NN
 270 272 2025 on IN
-273 281 2026 November NNP
+273 281 2026 November NNP NO https://en.wikipedia.org/wiki/November
 282 285 2027 18, CD
 286 291 2028 after IN
 292 293 2029 a DT
@@ -62,7 +62,7 @@
 341 344 2038 his PRP$
 345 353 2039 chickens NNS
 353 354 2040 . .
-355 364 3001 Officials NNS
+355 364 3001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 365 371 3002 culled VBD
 372 374 3003 an DT
 375 382 3004 unknown JJ
@@ -80,8 +80,8 @@
 433 440 4005 Myanmar NNP ORG https://en.wikipedia.org/wiki/List_of_banks_in_Myanmar
 441 450 4006 Livestock NNP ORG https://en.wikipedia.org/wiki/List_of_banks_in_Myanmar
 451 454 4007 and CC
-455 465 4008 Veterinary NNP
-466 476 4009 Department NNP
+455 465 4008 Veterinary NNP NO https://en.wikipedia.org/wiki/List_of_schools_of_veterinary_medicine
+466 476 4009 Department NNP NO https://en.wikipedia.org/wiki/List_of_schools_of_veterinary_medicine
 477 482 4010 urged VBD
 483 489 4011 people NNS
 490 492 4012 to TO
@@ -89,12 +89,12 @@
 501 504 4014 the DT
 505 510 4015 entry NN
 511 513 4016 of IN
-514 521 4017 poultry NN
+514 521 4017 poultry NN ANI https://en.wikipedia.org/wiki/Poultry
 522 525 4018 and CC
 526 531 4019 birds NNS
 532 536 4020 from IN
 537 548 4021 neighboring VBG
 549 558 4022 countries NNS
 559 563 4023 into IN
-564 569 4024 Burma NNP
+564 569 4024 Burma NNP COU https://en.wikipedia.org/wiki/Myanmar
 569 570 4025 . .

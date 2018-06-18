@@ -1,5 +1,5 @@
-0 2 1001 El NNP COU https://en.wikipedia.org/wiki/El_Salvador
-3 11 1002 Salvador NNP COU https://en.wikipedia.org/wiki/El_Salvador
+0 2 1001 El NNP NAT https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
+3 11 1002 Salvador NNP NAT https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
 12 20 1003 achieved VBD
 21 33 1004 independence NN
 34 38 1005 from IN
@@ -9,9 +9,9 @@
 53 56 1009 and CC
 57 61 1010 from IN
 62 65 1011 the DT
-66 73 1012 Central JJ
-74 82 1013 American JJ
-83 93 1014 Federation NNP
+66 73 1012 Central JJ NAT https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Federal_Republic_of_Central_America
+74 82 1013 American JJ NAT https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Federal_Republic_of_Central_America
+83 93 1014 Federation NNP NAT https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Federal_Republic_of_Central_America
 94 96 1015 in IN
 97 101 1016 1839 CD
 101 102 1017 . .

@@ -6,24 +6,24 @@
 24 29 1006 found NN
 30 32 1007 in IN
 33 45 1008 northwestern JJ
-46 53 1009 Qinghai NN PER https://en.wikipedia.org/wiki/Qinghai
+46 53 1009 Qinghai NN NAT https://en.wikipedia.org/wiki/Qinghai
 54 62 1010 province NN
 63 66 1011 has VBZ
 67 73 1012 tested VBN
 74 82 1013 positive JJ
 83 86 1014 for IN
 87 90 1015 the DT
-91 95 1016 H5N1 NN
+91 95 1016 H5N1 NN ORG https://en.wikipedia.org/wiki/Avian_influenza
 96 102 1017 strain NN
 103 105 1018 of IN
 106 110 1019 bird NN
 111 114 1020 flu NN
 114 115 1021 . .
 116 119 2001 The DT
-120 131 2002 Agriculture NN
-132 140 2003 Ministry NNP
+120 131 2002 Agriculture NN ORG https://en.wikipedia.org/wiki/Avian_influenza
+132 140 2003 Ministry NNP ORG https://en.wikipedia.org/wiki/Avian_influenza
 141 150 2004 announced VBD
-151 157 2005 Monday NNP
+151 157 2005 Monday NNP NO https://en.wikipedia.org/wiki/Monday
 158 162 2006 that IN
 163 168 2007 tests NNS
 169 171 2008 on IN
@@ -36,9 +36,9 @@
 209 214 2015 avian JJ
 215 224 2016 influenza NN
 224 225 2017 . .
-226 235 3001 Officials NNS
+226 235 3001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 236 239 3002 say VB
-240 247 3003 Qinghai NN PER https://en.wikipedia.org/wiki/Qinghai
+240 247 3003 Qinghai NN NAT https://en.wikipedia.org/wiki/Qinghai
 248 260 3004 agricultural JJ
 261 272 3005 authorities NNS
 273 277 3006 have VB
@@ -63,7 +63,7 @@
 369 377 4009 thousand NN
 378 383 4010 geese JJ
 384 386 4011 in IN
-387 394 4012 Qinghai NN PER https://en.wikipedia.org/wiki/Qinghai
+387 394 4012 Qinghai NN NAT https://en.wikipedia.org/wiki/Qinghai
 395 403 4013 province NN
 404 408 4014 last JJ
 409 413 4015 year NN
@@ -97,5 +97,5 @@
 564 573 6014 migratory NN
 574 579 6015 paths NNS
 580 582 6016 to TO
-583 589 6017 Europe NNP
+583 589 6017 Europe NNP NAT https://en.wikipedia.org/wiki/Europe
 589 590 6018 . .

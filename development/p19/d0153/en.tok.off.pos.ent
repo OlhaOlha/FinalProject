@@ -16,7 +16,7 @@
 93 99 1016 United NNP COU https://en.wikipedia.org/wiki/United_States
 100 106 1017 States NNPS COU https://en.wikipedia.org/wiki/United_States
 107 109 1018 in IN
-110 115 1019 April NNP
+110 115 1019 April NNP NO https://en.wikipedia.org/wiki/April
 115 116 1020 . .
 117 124 2001 Details NNS ENT https://en.wikipedia.org/wiki/The_Detail
 125 127 2002 of IN
@@ -45,8 +45,8 @@
 244 249 3016 talks NNS
 250 254 3017 with IN
 255 258 3018 top JJ
-259 266 3019 Chinese JJ COU https://en.wikipedia.org/wiki/China
-267 276 3020 officials NNS
+259 266 3019 Chinese JJ NO https://en.wikipedia.org/wiki/Scholar-official
+267 276 3020 officials NNS NO https://en.wikipedia.org/wiki/Scholar-official
 277 279 3021 on IN
 280 289 3022 bilateral JJ
 290 299 3023 relations NNS
@@ -59,11 +59,11 @@
 336 344 4001 Zoellick NNP PER https://en.wikipedia.org/wiki/Robert_Zoellick
 345 348 4002 met VBD
 349 353 4003 with IN
-354 361 4004 Chinese JJ ORG https://en.wikipedia.org/wiki/2012_SCO_summit
-362 369 4005 Premier NNP ORG https://en.wikipedia.org/wiki/2012_SCO_summit
-370 373 4006 Wen NNP ORG https://en.wikipedia.org/wiki/2012_SCO_summit
-374 380 4007 Jiabao NNP ORG https://en.wikipedia.org/wiki/2012_SCO_summit
-381 388 4008 Tuesday NNP ORG https://en.wikipedia.org/wiki/2012_SCO_summit
+354 361 4004 Chinese JJ PER https://en.wikipedia.org/wiki/2012_SCO_summit
+362 369 4005 Premier NNP PER https://en.wikipedia.org/wiki/2012_SCO_summit
+370 373 4006 Wen NNP PER https://en.wikipedia.org/wiki/2012_SCO_summit
+374 380 4007 Jiabao NNP PER https://en.wikipedia.org/wiki/2012_SCO_summit
+381 388 4008 Tuesday NNP PER https://en.wikipedia.org/wiki/2012_SCO_summit
 388 389 4009 , ,
 390 393 4010 and CC
 394 396 4011 is VBZ
@@ -92,5 +92,5 @@
 513 525 5014 southwestern JJ
 526 530 5015 city NN
 531 533 5016 of IN
-534 541 5017 Chengdu NNP
+534 541 5017 Chengdu NNP CIT https://en.wikipedia.org/wiki/Chengdu
 541 542 5018 . .

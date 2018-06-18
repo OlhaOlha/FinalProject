@@ -1,5 +1,5 @@
-0 7 1001 Iranian JJ COU https://en.wikipedia.org/wiki/Iran
-8 18 1002 television NN
+0 7 1001 Iranian JJ NO https://en.wikipedia.org/wiki/Television_in_Iran
+8 18 1002 television NN NO https://en.wikipedia.org/wiki/Television_in_Iran
 19 21 1003 is VBZ
 22 31 1004 reporting VBG
 32 36 1005 that IN
@@ -15,7 +15,7 @@
 92 96 1015 port NN
 97 101 1016 city NN
 102 104 1017 of IN
-105 111 1018 Daylam NNP
+105 111 1018 Daylam NNP NAT https://en.wikipedia.org/wiki/Daylam
 112 114 1019 in IN
 115 122 1020 Bushehr NNP CIT https://en.wikipedia.org/wiki/Bushehr
 123 131 1021 province NN
@@ -38,7 +38,7 @@
 218 226 2016 aircraft NN
 227 235 2017 overhead NN
 235 236 2018 . .
-237 242 3001 State NNP
+237 242 3001 State NNP NO https://en.wikipedia.org/wiki/The_State_(album)
 243 253 3002 television NN
 254 258 3003 says VBZ
 259 262 3004 the DT
@@ -54,8 +54,8 @@
 309 317 3014 dropping VBG
 318 322 3015 from IN
 323 325 3016 an DT
-326 333 3017 Iranian JJ COU https://en.wikipedia.org/wiki/Iran
-334 342 3018 airplane NN
+326 333 3017 Iranian JJ PER https://en.wikipedia.org/wiki/Iranian_Revolution
+334 342 3018 airplane NN PER https://en.wikipedia.org/wiki/Iranian_Revolution
 342 343 3019 . .
 344 348 4001 Iran NNP COU https://en.wikipedia.org/wiki/Iran
 349 352 4002 and CC
@@ -74,7 +74,7 @@
 424 429 4015 south RB
 430 432 4016 of IN
 433 438 4017 where WRB
-439 448 4018 Wednesday NNP
+439 448 4018 Wednesday NNP NO https://en.wikipedia.org/wiki/Wednesday
 448 450 4019 's POS
 451 460 4020 explosion NN
 461 469 4021 occurred VBD

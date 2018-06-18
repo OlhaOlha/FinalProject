@@ -1,4 +1,4 @@
-0 10 1001 Scientists NNS
+0 10 1001 Scientists NNS NO https://en.wikipedia.org/wiki/Scientist
 11 13 1002 at IN
 14 17 1003 the DT
 18 26 1004 National NNP ORG https://en.wikipedia.org/wiki/National_Geographic_Society
@@ -7,7 +7,7 @@
 45 47 1007 's POS
 48 60 1008 headquarters NNS
 61 63 1009 in IN
-64 74 1010 Washington NNP PER https://en.wikipedia.org/wiki/George_Washington
+64 74 1010 Washington NNP NAT https://en.wikipedia.org/wiki/George_Washington
 75 79 1011 have VB
 80 88 1012 revealed VBD
 89 94 1013 early RB
@@ -22,8 +22,8 @@
 150 160 2002 graveyards NNS
 161 171 2003 discovered VBN
 172 174 2004 in IN
-175 183 2005 Northern NNP COU https://en.wikipedia.org/wiki/Niger
-184 189 2006 Niger NN COU https://en.wikipedia.org/wiki/Niger
+175 183 2005 Northern NNP NAT https://en.wikipedia.org/wiki/Niger_Delta
+184 189 2006 Niger NN NAT https://en.wikipedia.org/wiki/Niger_Delta
 190 193 2007 are VBP
 194 203 2008 providing VBG
 204 213 2009 important JJ
@@ -41,7 +41,7 @@
 272 275 2021 and CC
 276 280 2022 lush NN
 280 281 2023 . .
-283 287 3001 Paul NNP
-288 293 3002 Sisco NN
+283 287 3001 Paul NNP PER https://en.wikipedia.org/wiki/Out_of_Sight
+288 293 3002 Sisco NN PER https://en.wikipedia.org/wiki/Out_of_Sight
 294 301 3003 reports NNS
 301 302 3004 . .

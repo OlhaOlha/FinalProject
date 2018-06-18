@@ -1,4 +1,4 @@
-0 7 1001 Reports NNS
+0 7 1001 Reports NNS NO https://en.wikipedia.org/wiki/Report
 8 12 1002 from IN
 13 24 1003 Afghanistan NNP COU https://en.wikipedia.org/wiki/Afghanistan
 25 28 1004 say VBP
@@ -12,7 +12,7 @@
 67 74 1012 attacks NNS
 75 83 1013 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 83 84 1014 . .
-85 94 2001 Officials NNS
+85 94 2001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 95 98 2002 say VBP
 99 100 2003 a DT
 101 109 2004 roadside JJ
@@ -45,7 +45,7 @@
 260 265 3005 place NN
 266 268 3006 in IN
 269 276 3007 western JJ
-277 282 3008 Farah NNP SPO https://en.wikipedia.org/wiki/Mo_Farah
+277 282 3008 Farah NNP NAT https://en.wikipedia.org/wiki/Mo_Farah
 283 291 3009 province NN
 291 292 3010 , ,
 293 298 3011 where WRB
@@ -74,7 +74,7 @@
 418 427 4012 officials NNS
 428 433 4013 blame VBP
 434 441 4014 Taliban JJ ORG https://en.wikipedia.org/wiki/Taliban
-442 448 4015 forces NNS
+442 448 4015 forces NNS ORG https://en.wikipedia.org/wiki/Taliban
 448 449 4016 . .
 450 455 5001 These DT
 456 460 5002 were VBD
@@ -86,7 +86,7 @@
 484 486 5008 of IN
 487 494 5009 attacks NNS
 495 497 5010 on IN
-498 504 5011 Afghan NNP
+498 504 5011 Afghan NNP PER https://en.wikipedia.org/wiki/Afghan
 505 511 5012 police NNS
 511 512 5013 , ,
 513 516 5014 who WP

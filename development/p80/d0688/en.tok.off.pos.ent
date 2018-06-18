@@ -5,20 +5,20 @@
 27 31 1005 part NN
 32 34 1006 of IN
 35 38 1007 the DT
-39 41 1008 UN NNP
-42 47 1009 Trust NNP
-48 57 1010 Territory NNP
+39 41 1008 UN NNP ORG https://en.wikipedia.org/wiki/United_Nations_trust_territories
+42 47 1009 Trust NNP ORG https://en.wikipedia.org/wiki/United_Nations_trust_territories
+48 57 1010 Territory NNP ORG https://en.wikipedia.org/wiki/United_Nations_trust_territories
 58 60 1011 of IN
 61 64 1012 the DT
-65 72 1013 Pacific NNP NAT https://en.wikipedia.org/wiki/Pacific_Ocean_theater_of_World_War_II
+65 72 1013 Pacific NNP NAT https://en.wikipedia.org/wiki/Pacific_Ocean
 72 73 1014 , ,
 74 77 1015 the DT
 78 84 1016 people NNS
 85 87 1017 of IN
 88 91 1018 the DT
-92 100 1019 Northern NNP NAT https://en.wikipedia.org/wiki/Northern_Mariana_Islands
-101 108 1020 Mariana NNP NAT https://en.wikipedia.org/wiki/Northern_Mariana_Islands
-109 116 1021 Islands NNP NAT https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+92 100 1019 Northern NNP
+101 108 1020 Mariana NNP
+109 116 1021 Islands NNP
 117 124 1022 decided VBD
 125 127 1023 in IN
 128 131 1024 the DT
@@ -68,7 +68,7 @@
 367 372 3021 force NN
 373 375 3022 on IN
 376 378 3023 24 CD
-379 384 3024 March NNP
+379 384 3024 March NNP NO https://en.wikipedia.org/wiki/March
 385 389 3025 1976 CD
 389 390 3026 . .
 391 392 4001 A DT

@@ -19,9 +19,9 @@
 99 109 1019 critically RB
 110 120 1020 endangered VBN
 121 131 1021 one-horned JJ
-132 137 1022 rhino NN
+132 137 1022 rhino NN ANI https://en.wikipedia.org/wiki/Rhinoceros
 137 138 1023 . .
-140 144 2001 Paul NNP
-145 150 2002 Sisco NNP
+140 144 2001 Paul NNP PER https://en.wikipedia.org/wiki/Out_of_Sight
+145 150 2002 Sisco NNP PER https://en.wikipedia.org/wiki/Out_of_Sight
 151 158 2003 reports NNS
 158 159 2004 . .

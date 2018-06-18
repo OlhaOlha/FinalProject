@@ -1,4 +1,4 @@
-0 7 1001 Doctors NNS
+0 7 1001 Doctors NNS NO https://en.wikipedia.org/wiki/Doctor_(title)
 8 10 1002 in IN
 11 14 1003 the DT
 15 21 1004 United NNP COU https://en.wikipedia.org/wiki/United_States
@@ -13,7 +13,7 @@
 79 84 1013 brain NN
 85 91 1014 cancer NN
 91 92 1015 . .
-93 101 2001 Scorpion NN
+93 101 2001 Scorpion NN ANI https://en.wikipedia.org/wiki/Scorpion
 102 107 2002 venom NN
 108 111 2003 has VBZ
 112 116 2004 been VBN
@@ -45,7 +45,7 @@
 280 284 3002 Mort NN PER https://en.wikipedia.org/wiki/Mort_Sahl
 285 292 3003 reports NNS
 293 296 3004 for IN
-297 300 3005 VOA NN ORG https://en.wikipedia.org/wiki/Voice_of_America
+297 300 3005 VOA NN ORG https://en.wikipedia.org/wiki/Special_English
 301 303 3006 on IN
 304 307 3007 one CD
 308 316 3008 clinical JJ
@@ -53,6 +53,6 @@
 330 335 3010 place NN
 336 338 3011 at IN
 339 340 3012 a DT
-341 348 3013 Florida NNP
+341 348 3013 Florida NNP COU https://en.wikipedia.org/wiki/Florida
 349 357 3014 hospital NN
 357 358 3015 . .

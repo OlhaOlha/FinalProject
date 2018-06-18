@@ -1,12 +1,12 @@
 0 1 1001 A DT
 2 8 1002 public JJ
 9 16 1003 opinion NN
-17 21 1004 poll NN
+17 21 1004 poll NN ANI https://en.wikipedia.org/wiki/Voting
 22 30 1005 released VBN
 31 33 1006 in IN
 34 42 1007 Paksitan NNP COU https://en.wikipedia.org/wiki/Pakistan
 43 45 1008 on IN
-46 50 1009 June NNP
+46 50 1009 June NNP NO https://en.wikipedia.org/wiki/June
 51 55 1010 20th CD
 56 61 1011 shows NNS
 62 66 1012 that IN
@@ -93,10 +93,10 @@
 534 541 3024 America NNP
 542 552 3025 Foundation NNP
 552 553 3026 . .
-554 557 4001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+554 557 4001 VOA NNP ORG https://en.wikipedia.org/wiki/Special_English
 557 559 4002 's POS
-560 564 4003 Ravi NNP
-565 571 4004 Khanna NNP
+560 564 4003 Ravi NNP PER https://en.wikipedia.org/wiki/Ravi_Khanna
+565 571 4004 Khanna NNP PER https://en.wikipedia.org/wiki/Ravi_Khanna
 572 575 4005 has VBZ
 576 580 4006 more JJR
 580 581 4007 . .

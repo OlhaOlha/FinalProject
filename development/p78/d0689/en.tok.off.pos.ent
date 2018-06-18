@@ -1,5 +1,5 @@
 0 3 1001 The DT
-4 11 1002 Siboney NN
+4 11 1002 Siboney NN NAT https://en.wikipedia.org/wiki/Playa,_Havana
 12 16 1003 were VBD
 17 20 1004 the DT
 21 26 1005 first RB
@@ -8,12 +8,12 @@
 38 41 1008 the DT
 42 49 1009 islands NNS
 50 52 1010 of IN
-53 60 1011 Antigua NN
+53 60 1011 Antigua NN NAT https://en.wikipedia.org/wiki/Antigua
 61 64 1012 and CC
-65 72 1013 Barbuda NNP
+65 72 1013 Barbuda NNP NAT https://en.wikipedia.org/wiki/Barbuda
 73 75 1014 in IN
 76 80 1015 2400 CD
-81 86 1016 B.C., NNP
+81 86 1016 B.C., NNP NO https://en.wikipedia.org/wiki/Anno_Domini
 87 90 1017 but CC
 91 97 1018 Arawak NN PER https://en.wikipedia.org/wiki/Arawak
 98 105 1019 Indians NNS PER https://en.wikipedia.org/wiki/Arawak
@@ -21,7 +21,7 @@
 116 119 1021 the DT
 120 127 1022 islands NNS
 128 132 1023 when WRB
-133 141 1024 COLUMBUS NN PER https://en.wikipedia.org/wiki/Christopher_Columbus
+133 141 1024 COLUMBUS NN NAT https://en.wikipedia.org/wiki/Christopher_Columbus
 142 148 1025 landed VBD
 149 151 1026 on IN
 152 155 1027 his PRP$
@@ -49,7 +49,7 @@
 273 275 2017 in IN
 276 280 2018 1667 CD
 280 281 2019 . .
-282 289 3001 Slavery NN
+282 289 3001 Slavery NN NO https://en.wikipedia.org/wiki/Slavery
 289 290 3002 , ,
 291 302 3003 established VBN
 303 305 3004 to TO
@@ -58,7 +58,7 @@
 314 319 3007 sugar NN
 320 331 3008 plantations NNS
 332 334 3009 on IN
-335 342 3010 Antigua NN
+335 342 3010 Antigua NN NAT https://en.wikipedia.org/wiki/Antigua
 342 343 3011 , ,
 344 347 3012 was VBD
 348 357 3013 abolished VBN
@@ -76,7 +76,7 @@
 418 425 4009 British JJ ORG https://en.wikipedia.org/wiki/Commonwealth_of_Nations
 426 438 4010 Commonwealth NN ORG https://en.wikipedia.org/wiki/Commonwealth_of_Nations
 439 441 4011 of IN
-442 449 4012 Nations NNS
+442 449 4012 Nations NNS CIT https://en.wikipedia.org/wiki/Nation
 450 452 4013 in IN
 453 457 4014 1981 CD
 457 458 4015 . .

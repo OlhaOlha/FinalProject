@@ -7,8 +7,8 @@
 34 41 1007 release NN
 42 44 1008 of IN
 45 49 1009 five CD
-50 61 1010 Palestinian JJ PER https://en.wikipedia.org/wiki/Palestinians
-62 71 1011 prisoners NNS
+50 61 1010 Palestinian JJ NO https://en.wikipedia.org/wiki/Palestinian_prisoners_of_Israel
+62 71 1011 prisoners NNS NO https://en.wikipedia.org/wiki/Palestinian_prisoners_of_Israel
 72 74 1012 as IN
 75 78 1013 the DT
 79 84 1014 final JJ
@@ -23,8 +23,8 @@
 128 137 1023 Hezbollah NN ORG https://en.wikipedia.org/wiki/Hezbollah
 138 145 1024 militia NN
 145 146 1025 . .
-148 155 2001 Israeli JJ COU https://en.wikipedia.org/wiki/Israel
-156 165 2002 officials NNS
+148 155 2001 Israeli JJ NO https://en.wikipedia.org/wiki/Politics_of_Israel
+156 165 2002 officials NNS NO https://en.wikipedia.org/wiki/Politics_of_Israel
 166 169 2003 say VB
 170 174 2004 none NN
 175 177 2005 of IN
@@ -56,8 +56,8 @@
 323 329 3016 Israel NNP COU https://en.wikipedia.org/wiki/Israel
 330 335 3017 freed NN
 336 340 3018 five CD
-341 349 3019 Lebanese JJ COU https://en.wikipedia.org/wiki/Lebanon
-350 359 3020 prisoners NNS
+341 349 3019 Lebanese JJ PER https://en.wikipedia.org/wiki/Lebanese_prisoners_in_Israel
+350 359 3020 prisoners NNS PER https://en.wikipedia.org/wiki/Lebanese_prisoners_in_Israel
 360 363 3021 and CC
 364 372 3022 returned VBN
 373 376 3023 the DT
@@ -65,7 +65,7 @@
 385 387 3025 of IN
 388 394 3026 nearly RB
 395 398 3027 200 CD
-399 403 3028 Arab NN PER https://en.wikipedia.org/wiki/Arabs
+399 403 3028 Arab NN ANI https://en.wikipedia.org/wiki/Arabs
 404 412 3029 fighters NNS
 413 415 3030 in IN
 416 424 3031 exchange NN
@@ -75,11 +75,11 @@
 440 442 3035 of IN
 443 446 3036 two CD
 447 454 3037 Israeli JJ COU https://en.wikipedia.org/wiki/Israel
-455 463 3038 soldiers NNS
+455 463 3038 soldiers NNS ANI https://en.wikipedia.org/wiki/Soldier
 463 464 3039 . .
 466 469 4001 The DT
 470 473 4002 two CD
-474 482 4003 soldiers NNS
+474 482 4003 soldiers NNS ANI https://en.wikipedia.org/wiki/Soldier
 483 487 4004 were VBD
 488 496 4005 captured VBN
 497 499 4006 by IN
@@ -91,6 +91,6 @@
 525 534 4012 triggered VBN
 535 538 4013 the DT
 539 543 4014 2006 CD
-544 551 4015 Lebanon NNP
+544 551 4015 Lebanon NNP COU https://en.wikipedia.org/wiki/Lebanon
 552 555 4016 war NN
 555 556 4017 . .

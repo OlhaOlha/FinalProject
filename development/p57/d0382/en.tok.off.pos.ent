@@ -25,7 +25,7 @@
 152 156 2004 said VBD
 157 159 2005 in IN
 160 163 2006 the DT
-164 174 2007 Democratic NNP
+164 174 2007 Democratic NNP NO https://en.wikipedia.org/wiki/Democracy
 175 180 2008 party NN
 180 182 2009 's POS
 183 189 2010 weekly JJ
@@ -33,7 +33,7 @@
 196 203 2012 address NN
 204 208 2013 that IN
 209 213 2014 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
-214 222 2015 soldiers NNS
+214 222 2015 soldiers NNS ANI https://en.wikipedia.org/wiki/Soldier
 223 229 2016 should MD
 230 235 2017 never RB
 236 240 2018 lack VB
@@ -52,8 +52,8 @@
 318 326 3007 attempts NNS
 327 329 3008 to TO
 330 336 3009 invest VB
-337 343 3010 Social NNP
-344 352 3011 Security NNP
+337 343 3010 Social NNP ORG https://en.wikipedia.org/wiki/Social_security
+344 352 3011 Security NNP ORG https://en.wikipedia.org/wiki/Social_security
 353 355 3012 on IN
 356 359 3013 the DT
 360 365 3014 stock NN

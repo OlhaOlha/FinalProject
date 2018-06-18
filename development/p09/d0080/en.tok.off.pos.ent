@@ -1,5 +1,5 @@
 0 7 1001 Turkish JJ COU https://en.wikipedia.org/wiki/Turkey
-8 19 1002 authorities NNS
+8 19 1002 authorities NNS COU https://en.wikipedia.org/wiki/Turkey
 20 23 1003 say VBP
 24 26 1004 20 CD
 27 33 1005 people NNS
@@ -20,10 +20,10 @@
 99 102 2001 The DT
 103 112 2002 explosion NN
 113 121 2003 occurred VBD
-122 128 2004 Sunday NNP
+122 128 2004 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 129 131 2005 in IN
 132 135 2006 the DT
-136 142 2007 Aegean NNP ORG https://en.wikipedia.org/wiki/Aegean_Airlines
+136 142 2007 Aegean NNP NAT https://en.wikipedia.org/wiki/Aegean_Airlines
 143 150 2008 coastal JJ
 151 155 2009 town NN
 156 161 2010 Cesme NNP CIT https://en.wikipedia.org/wiki/%C3%87e%C5%9Fme

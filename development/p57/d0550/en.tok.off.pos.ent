@@ -1,5 +1,5 @@
-0 7 1001 Chinese JJ COU https://en.wikipedia.org/wiki/China
-8 17 1002 officials NNS
+0 7 1001 Chinese JJ NO https://en.wikipedia.org/wiki/Scholar-official
+8 17 1002 officials NNS NO https://en.wikipedia.org/wiki/Scholar-official
 18 21 1003 say VBP
 22 23 1004 a DT
 24 27 1005 gas NN
@@ -29,7 +29,7 @@
 155 156 1029 . .
 157 160 2001 The DT
 161 169 2002 official JJ
-170 176 2003 Xinhua NNP
+170 176 2003 Xinhua NNP ORG https://en.wikipedia.org/wiki/Xinhua_News_Agency_Macao_Branch
 177 181 2004 news NN
 182 188 2005 agency NN
 189 193 2006 says VBZ
@@ -43,18 +43,18 @@
 224 227 2014 the DT
 228 232 2015 time NN
 233 235 2016 of IN
-236 245 2017 Wednesday NNP
+236 245 2017 Wednesday NNP NO https://en.wikipedia.org/wiki/Wednesday
 245 247 2018 's POS
 248 257 2019 explosion NN
 258 260 2020 in IN
-261 267 2021 Shanxi NNP PER https://en.wikipedia.org/wiki/Shanxi
+261 267 2021 Shanxi NNP NAT https://en.wikipedia.org/wiki/Shanxi
 268 276 2022 province NN
 276 277 2023 , ,
 278 281 2024 but CC
 282 284 2025 54 CD
 285 292 2026 escaped VBD
 292 293 2027 . .
-294 300 3001 Shanxi NNP PER https://en.wikipedia.org/wiki/Shanxi
+294 300 3001 Shanxi NNP NAT https://en.wikipedia.org/wiki/Shanxi
 301 309 3002 province NN
 310 312 3003 is VBZ
 313 316 3004 one CD
@@ -85,9 +85,9 @@
 452 454 5001 At IN
 455 460 5002 least JJS
 461 466 5003 6,000 CD
-467 474 5004 Chinese JJ
-475 479 5005 mine NN
-480 487 5006 workers NNS
+467 474 5004 Chinese JJ NO https://en.wikipedia.org/wiki/List_of_coal_mining_accidents_in_China
+475 479 5005 mine NN NO https://en.wikipedia.org/wiki/List_of_coal_mining_accidents_in_China
+480 487 5006 workers NNS ANI https://en.wikipedia.org/wiki/Workforce
 488 492 5007 died VBD
 493 495 5008 on IN
 496 499 5009 the DT

@@ -19,8 +19,8 @@
 112 114 1019 in IN
 115 119 1020 1492 CD
 119 120 1021 . .
-121 128 2001 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
-129 139 2002 settlement NN
+121 128 2001 British JJ NO https://en.wikipedia.org/wiki/Prehistoric_settlement_of_the_British_Isles
+129 139 2002 settlement NN NO https://en.wikipedia.org/wiki/Prehistoric_settlement_of_the_British_Isles
 140 142 2003 of IN
 143 146 2004 the DT
 147 154 2005 islands NNS
@@ -41,12 +41,12 @@
 223 235 3003 independence NN
 236 240 3004 from IN
 241 244 3005 the DT
-245 247 3006 UK NNP
+245 247 3006 UK NNP NAT https://en.wikipedia.org/wiki/Monarchy_of_the_Bahamas
 248 250 3007 in IN
 251 255 3008 1973 CD
 255 256 3009 , ,
 257 260 3010 The DT
-261 268 3011 Bahamas NNP
+261 268 3011 Bahamas NNP NAT https://en.wikipedia.org/wiki/Monarchy_of_the_Bahamas
 269 272 3012 has VBZ
 273 282 3013 prospered VBN
 283 290 3014 through IN
@@ -80,7 +80,7 @@
 466 469 4020 the DT
 470 472 4021 US NNP NAT https://en.wikipedia.org/wiki/United_States_dollar
 473 476 4022 and CC
-477 483 4023 Europe NNP
+477 483 4023 Europe NNP NAT https://en.wikipedia.org/wiki/Europe
 483 484 4024 , ,
 485 488 4025 and CC
 489 492 4026 its PRP$
@@ -93,5 +93,5 @@
 533 541 4033 migrants NNS
 542 546 4034 into IN
 547 550 4035 the DT
-551 553 4036 US NNP
+551 553 4036 US NNP NAT https://en.wikipedia.org/wiki/United_States_dollar
 553 554 4037 . .

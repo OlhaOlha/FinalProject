@@ -1,5 +1,5 @@
-0 2 1001 El NNP COU https://en.wikipedia.org/wiki/El_Salvador
-3 11 1002 Salvador NNP COU https://en.wikipedia.org/wiki/El_Salvador
+0 2 1001 El NNP NAT https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
+3 11 1002 Salvador NNP NAT https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
 12 14 1003 is VBZ
 15 24 1004 preparing VBG
 25 27 1005 to TO
@@ -8,14 +8,14 @@
 41 51 1008 contingent NN
 52 54 1009 of IN
 55 58 1010 380 CD
-59 67 1011 soldiers NNS
+59 67 1011 soldiers NNS ANI https://en.wikipedia.org/wiki/Soldier
 68 70 1012 to TO
 71 75 1013 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
 75 76 1014 . .
-77 87 2001 Salvadoran NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
-88 97 2002 President NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
-98 105 2003 Antonio NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
-106 110 2004 Saca NNP PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
+77 87 2001 Salvadoran NNP PER https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
+88 97 2002 President NNP PER https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
+98 105 2003 Antonio NNP PER https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
+106 110 2004 Saca NNP PER https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
 111 115 2005 said VBD
 116 119 2006 the DT
 120 126 2007 troops NNS
@@ -36,8 +36,8 @@
 232 240 2022 projects NNS
 240 241 2023 . .
 242 245 3001 The DT
-246 252 3002 French JJ PER https://en.wikipedia.org/wiki/Palestinian_Salvadoran
-253 257 3003 news NN
+246 252 3002 French JJ PER https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
+253 257 3003 news NN PER https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
 258 264 3004 agency NN
 264 265 3005 , ,
 266 269 3006 AFP NNP
@@ -59,18 +59,18 @@
 369 371 3022 of IN
 372 379 3023 Baghdad NNP CIT https://en.wikipedia.org/wiki/Baghdad
 379 380 3024 . .
-381 383 4001 El NNP COU https://en.wikipedia.org/wiki/El_Salvador
-384 392 4002 Salvador NNP COU https://en.wikipedia.org/wiki/El_Salvador
+381 383 4001 El NNP NAT https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
+384 392 4002 Salvador NNP NAT https://en.wikipedia.org/wiki/El_Salvador_at_the_Pan_American_Games
 393 395 4003 is VBZ
 396 399 4004 the DT
 400 404 4005 only JJ
-405 410 4006 Latin JJ
-411 419 4007 American JJ
-420 427 4008 country NN
+405 410 4006 Latin JJ COU https://en.wikipedia.org/wiki/List_of_Latin_American_countries_by_population
+411 419 4007 American JJ COU https://en.wikipedia.org/wiki/List_of_Latin_American_countries_by_population
+420 427 4008 country NN COU https://en.wikipedia.org/wiki/List_of_Latin_American_countries_by_population
 428 433 4009 which WDT
 434 439 4010 still RB
 440 443 4011 has VBZ
 444 450 4012 troops VBN
 451 453 4013 in IN
-454 458 4014 Iraq NNP
+454 458 4014 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
 458 459 4015 . .

@@ -21,7 +21,7 @@
 113 115 1021 's POS
 116 120 1022 once RB
 121 125 1023 vast NN
-126 131 1024 North NN
-132 140 1025 American JJ
-141 152 1026 possessions NNS
+126 131 1024 North NN ENT https://en.wikipedia.org/wiki/A_Summary_View_of_the_Rights_of_British_America
+132 140 1025 American JJ ENT https://en.wikipedia.org/wiki/A_Summary_View_of_the_Rights_of_British_America
+141 152 1026 possessions NNS ENT https://en.wikipedia.org/wiki/A_Summary_View_of_the_Rights_of_British_America
 152 153 1027 . .

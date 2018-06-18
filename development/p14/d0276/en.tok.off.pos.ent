@@ -9,9 +9,9 @@
 46 55 1009 officials NNS
 56 59 1010 met VBD
 60 64 1011 with IN
-65 70 1012 North JJ COU https://en.wikipedia.org/wiki/North_Korea
-71 77 1013 Korean JJ COU https://en.wikipedia.org/wiki/North_Korea
-78 87 1014 diplomats NNS
+65 70 1012 North JJ NO https://en.wikipedia.org/wiki/North_Korea%E2%80%93Russia_relations
+71 77 1013 Korean JJ NO https://en.wikipedia.org/wiki/North_Korea%E2%80%93Russia_relations
+78 87 1014 diplomats NNS NO https://en.wikipedia.org/wiki/North_Korea%E2%80%93Russia_relations
 88 90 1015 in IN
 91 94 1016 New NNP COU https://en.wikipedia.org/wiki/New_York_(state)
 95 99 1017 York NNP COU https://en.wikipedia.org/wiki/New_York_(state)
@@ -25,8 +25,8 @@
 131 135 2005 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
 136 143 2006 embassy NN
 144 146 2007 in IN
-147 152 2008 Tokyo NNP
-153 161 2009 Thursday NNP
+147 152 2008 Tokyo NNP NAT https://en.wikipedia.org/wiki/List_of_Tokyo_Ghoul_chapters
+153 161 2009 Thursday NNP NAT https://en.wikipedia.org/wiki/List_of_Tokyo_Ghoul_chapters
 162 166 2010 said VBD
 167 170 2011 the DT
 171 184 2012 working-level JJ
@@ -35,7 +35,7 @@
 197 201 2015 used VBN
 202 204 2016 to TO
 205 211 2017 convey VB
-212 216 2018 U.S. NNP
+212 216 2018 U.S. NNP NAT https://en.wikipedia.org/wiki/USS_Washington
 217 223 2019 policy NN
 223 224 2020 , ,
 225 228 2021 not RB
@@ -54,7 +54,7 @@
 286 295 3010 discussed VBN
 295 296 3011 . .
 297 300 4001 But CC
-301 311 4002 Washington NNP
+301 311 4002 Washington NNP NAT https://en.wikipedia.org/wiki/USS_Washington
 312 315 4003 has VBZ
 316 320 4004 been VBN
 321 327 4005 urging VBG
@@ -78,11 +78,11 @@
 413 420 5005 stalled VBN
 421 426 5006 since IN
 427 431 5007 last JJ
-432 441 5008 September NNP
+432 441 5008 September NNP NO https://en.wikipedia.org/wiki/September
 441 442 5009 , ,
 443 446 5010 and CC
-447 452 5011 North NNP
-453 458 5012 Korea NNP
+447 452 5011 North NNP COU https://en.wikipedia.org/wiki/North_Korea
+453 458 5012 Korea NNP COU https://en.wikipedia.org/wiki/North_Korea
 459 462 5013 has VBZ
 463 472 5014 boycotted VBN
 473 480 5015 efforts NNS

@@ -11,9 +11,9 @@
 67 69 1011 of IN
 70 73 1012 the DT
 74 82 1013 medieval NN
-83 90 1014 Dukedom NN
+83 90 1014 Dukedom NN NO https://en.wikipedia.org/wiki/Duke
 91 93 1015 of IN
-94 102 1016 Normandy NN
+94 102 1016 Normandy NN NAT https://en.wikipedia.org/wiki/Normandy
 102 103 1017 , ,
 104 109 1018 which WDT
 110 114 1019 held NN
@@ -29,22 +29,22 @@
 160 164 2003 were VBD
 165 168 2004 the DT
 169 173 2005 only RB
-174 181 2006 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
-182 186 2007 soil NN
+174 181 2006 British JJ ORG https://en.wikipedia.org/wiki/Soil_Association
+182 186 2007 soil NN ORG https://en.wikipedia.org/wiki/Soil_Association
 187 195 2008 occupied VBN
 196 198 2009 by IN
-199 205 2010 German JJ COU https://en.wikipedia.org/wiki/German_language
-206 212 2011 troops NNS
+199 205 2010 German JJ NO https://en.wikipedia.org/wiki/German_encirclements_of_Soviet_forces_during_Operation_Barbarossa
+206 212 2011 troops NNS NO https://en.wikipedia.org/wiki/German_encirclements_of_Soviet_forces_during_Operation_Barbarossa
 213 215 2012 in IN
-216 221 2013 World NN
-222 225 2014 War NNP
-226 228 2015 II NN
+216 221 2013 World NN NO https://en.wikipedia.org/wiki/World_War_II
+222 225 2014 War NNP NO https://en.wikipedia.org/wiki/World_War_II
+226 228 2015 II NN NO https://en.wikipedia.org/wiki/World_War_II
 228 229 2016 . .
 230 238 3001 Guernsey NN COU https://en.wikipedia.org/wiki/Guernsey
 239 241 3002 is VBZ
 242 243 3003 a DT
-244 251 3004 British JJ COU https://en.wikipedia.org/wiki/United_Kingdom
-252 257 3005 crown NN
+244 251 3004 British JJ ENT https://en.wikipedia.org/wiki/The_Crown_(TV_series)
+252 257 3005 crown NN ENT https://en.wikipedia.org/wiki/The_Crown_(TV_series)
 258 268 3006 dependency NN
 269 272 3007 but CC
 273 275 3008 is VBZ
@@ -62,8 +62,8 @@
 321 328 4001 However RB
 328 329 4002 , ,
 330 333 4003 the DT
-334 336 4004 UK NN
-337 347 4005 Government NN
+334 336 4004 UK NN NAT https://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
+337 347 4005 Government NN NAT https://en.wikipedia.org/wiki/Government_of_the_United_Kingdom
 348 350 4006 is VBZ
 351 367 4007 constitutionally RB
 368 379 4008 responsible JJ

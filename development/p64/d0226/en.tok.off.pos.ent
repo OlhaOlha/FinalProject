@@ -35,7 +35,7 @@
 206 212 2010 Vezzaz NNP
 212 213 2011 , ,
 214 218 2012 said VBD
-219 225 2013 Sunday NNP
+219 225 2013 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 226 231 2014 about IN
 232 238 2015 10,000 CD
 239 245 2016 people NNS
@@ -45,7 +45,7 @@
 260 263 2020 the DT
 264 268 2021 town NN
 269 271 2022 of IN
-272 279 2023 Tintane NNP
+272 279 2023 Tintane NNP NAT https://en.wikipedia.org/wiki/Tintane
 280 284 2024 were VBD
 285 289 2025 left VBN
 290 298 2026 homeless NN
@@ -80,7 +80,7 @@
 459 462 3021 the DT
 463 469 3022 border NN
 470 474 3023 with IN
-475 479 3024 Mali NNP
+475 479 3024 Mali NNP COU https://en.wikipedia.org/wiki/Mali
 479 480 3025 . .
 481 483 4001 At IN
 484 489 4002 least JJS

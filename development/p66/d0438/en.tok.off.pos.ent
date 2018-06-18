@@ -20,7 +20,7 @@
 100 107 1020 restive JJ
 108 117 1021 northwest NN
 117 118 1022 . .
-119 128 2001 Officials NNS
+119 128 2001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 129 132 2002 say VBP
 133 141 2003 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 141 143 2004 's POS
@@ -33,10 +33,10 @@
 173 176 2011 the DT
 177 181 2012 town NN
 182 184 2013 of IN
-185 195 2014 Timergarah NNP
+185 195 2014 Timergarah NNP NAT https://en.wikipedia.org/wiki/Timergara
 196 198 2015 in IN
-199 204 2016 Lower NNP
-205 208 2017 Dir NNP
+199 204 2016 Lower NNP NAT https://en.wikipedia.org/wiki/Tazagram,_Lower_Dir_District
+205 208 2017 Dir NNP NAT https://en.wikipedia.org/wiki/Tazagram,_Lower_Dir_District
 209 217 2018 district NN
 217 218 2019 . .
 219 221 3001 No DT
@@ -66,7 +66,7 @@
 351 363 4016 southwestern JJ
 364 372 4017 Pakistan NNP COU https://en.wikipedia.org/wiki/Pakistan
 372 373 4018 . .
-374 380 5001 Police NNP
+374 380 5001 Police NNP NO https://en.wikipedia.org/wiki/Police
 381 384 5002 say VBP
 385 388 5003 the DT
 389 394 5004 blast NN
@@ -77,10 +77,10 @@
 409 415 5009 bakery NN
 416 424 5010 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 425 427 5011 in IN
-428 433 5012 Sibbi NNP
+428 433 5012 Sibbi NNP NAT https://en.wikipedia.org/wiki/Sibi
 434 436 5013 in IN
 437 440 5014 the DT
 441 449 5015 province NN
 450 452 5016 of IN
-453 464 5017 Baluchistan NNP
+453 464 5017 Baluchistan NNP NAT https://en.wikipedia.org/wiki/Balochistan
 464 465 5018 . .

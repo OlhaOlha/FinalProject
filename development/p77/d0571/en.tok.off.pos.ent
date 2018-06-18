@@ -7,8 +7,8 @@
 45 47 1007 in IN
 48 57 1008 Innsbruck NN CIT https://en.wikipedia.org/wiki/Innsbruck
 57 58 1009 , ,
-59 66 1010 Austria NNS ENT https://en.wikipedia.org/wiki/Manic_Monday
-67 73 1011 Monday NNP ENT https://en.wikipedia.org/wiki/Manic_Monday
+59 66 1010 Austria NNS NAT https://en.wikipedia.org/wiki/Manic_Monday
+67 73 1011 Monday NNP NAT https://en.wikipedia.org/wiki/Manic_Monday
 74 76 1012 to TO
 77 80 1013 try NN
 81 83 1014 to TO
@@ -21,15 +21,15 @@
 119 131 1021 peacekeeping VBG
 132 137 1022 force NN
 138 140 1023 in IN
-141 151 1024 Democratic JJ
-152 160 1025 Republic JJ
+141 151 1024 Democratic JJ NAT https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo%E2%80%93United_States_relations
+152 160 1025 Republic JJ NAT https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo%E2%80%93United_States_relations
 161 163 1026 of IN
 164 169 1027 Congo NN COU https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
 169 170 1028 . .
 171 174 2001 The DT
 175 186 2002 strife-torn JJ
-187 194 2003 African JJ
-195 201 2004 nation NN
+187 194 2003 African JJ NO https://en.wikipedia.org/wiki/2010_Africa_Cup_of_Nations_Final
+195 201 2004 nation NN NO https://en.wikipedia.org/wiki/2010_Africa_Cup_of_Nations_Final
 202 204 2005 is VBZ
 205 214 2006 preparing VBG
 215 218 2007 for IN
@@ -42,21 +42,21 @@
 253 259 2014 gained VBN
 260 272 2015 independence NN
 273 277 2016 from IN
-278 285 2017 Belgium NN
+278 285 2017 Belgium NN ORG https://en.wikipedia.org/wiki/Belgian_United_Nations_Command
 286 288 2018 in IN
 289 293 2019 1961 CD
 293 294 2020 . .
 295 298 3001 The DT
-299 305 3002 United NNP
-306 313 3003 Nations NNS
+299 305 3002 United NNP ORG https://en.wikipedia.org/wiki/Belgian_United_Nations_Command
+306 313 3003 Nations NNS ORG https://en.wikipedia.org/wiki/Belgian_United_Nations_Command
 314 317 3004 has VBZ
 318 323 3005 asked VBN
 324 327 3006 for IN
 328 329 3007 a DT
 330 333 3008 few JJ
 334 341 3009 hundred VBN
-342 350 3010 European JJ
-351 357 3011 troops NNS
+342 350 3010 European JJ NO https://en.wikipedia.org/wiki/Royal_Corps_of_Colonial_Troops
+351 357 3011 troops NNS NO https://en.wikipedia.org/wiki/Royal_Corps_of_Colonial_Troops
 358 360 3012 to TO
 361 364 3013 add VB
 365 367 3014 to TO
@@ -67,9 +67,9 @@
 398 400 3019 in IN
 401 406 3020 Congo NN COU https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
 406 407 3021 . .
-408 415 4001 Several JJ
-416 424 4002 European JJ
-425 434 4003 countries NNS
+408 415 4001 Several JJ COU https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe_by_GDP_(PPP)
+416 424 4002 European JJ COU https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe_by_GDP_(PPP)
+425 434 4003 countries NNS COU https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe_by_GDP_(PPP)
 435 442 4004 support NN
 443 446 4005 the DT
 447 451 4006 idea NN

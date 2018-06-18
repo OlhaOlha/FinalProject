@@ -4,14 +4,14 @@
 17 21 1004 1995 CD
 21 22 1005 , ,
 23 26 1006 the DT
-27 33 1007 United NNP
-34 40 1008 States NNPS
-41 48 1009 Botanic NNP
-49 55 1010 Garden NNP
+27 33 1007 United NNP NAT https://en.wikipedia.org/wiki/United_States_Botanic_Garden
+34 40 1008 States NNPS NAT https://en.wikipedia.org/wiki/United_States_Botanic_Garden
+41 48 1009 Botanic NNP NAT https://en.wikipedia.org/wiki/United_States_Botanic_Garden
+49 55 1010 Garden NNP NAT https://en.wikipedia.org/wiki/United_States_Botanic_Garden
 56 58 1011 in IN
-59 69 1012 Washington NNP PER https://en.wikipedia.org/wiki/George_Washington
+59 69 1012 Washington NNP NAT https://en.wikipedia.org/wiki/George_Washington
 69 70 1013 , ,
-71 73 1014 DC NNP
+71 73 1014 DC NNP NAT https://en.wikipedia.org/wiki/Da_capo
 73 74 1015 , ,
 75 78 1016 has VBZ
 79 88 1017 partnered VBN
@@ -28,7 +28,7 @@
 156 158 1028 of IN
 159 166 1029 orchids NNS
 166 167 1030 . .
-168 171 2001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+168 171 2001 VOA NNP ORG https://en.wikipedia.org/wiki/Special_English
 171 173 2002 's POS
 174 180 2003 George NNP PER https://en.wikipedia.org/wiki/George_Dwyer
 181 186 2004 Dwyer NNP PER https://en.wikipedia.org/wiki/George_Dwyer
@@ -51,7 +51,7 @@
 287 289 2021 's POS
 290 297 2022 capital NN
 297 298 2023 . .
-299 302 3001 Jim NNP
-303 309 3002 Bertel NNP
+299 302 3001 Jim NNP PER https://en.wikipedia.org/wiki/On_the_Trail_of_the_Assassins
+303 309 3002 Bertel NNP PER https://en.wikipedia.org/wiki/On_the_Trail_of_the_Assassins
 310 318 3003 narrates NNS
 318 319 3004 . .

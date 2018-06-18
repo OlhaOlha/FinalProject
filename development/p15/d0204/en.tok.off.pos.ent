@@ -44,10 +44,10 @@
 236 240 1044 York NNP CIT https://en.wikipedia.org/wiki/New_York_City
 241 245 1045 City NNP CIT https://en.wikipedia.org/wiki/New_York_City
 245 246 1046 . .
-247 250 2001 VOA NN ORG https://en.wikipedia.org/wiki/Voice_of_America
+247 250 2001 VOA NN ORG https://en.wikipedia.org/wiki/Special_English
 250 252 2002 's POS
-253 258 2003 Elena NN
-259 269 2004 Mikhailova NNP
+253 258 2003 Elena NN PER https://en.wikipedia.org/wiki/Graduate_School_of_International_Business
+259 269 2004 Mikhailova NNP PER https://en.wikipedia.org/wiki/Graduate_School_of_International_Business
 270 280 2005 introduces NNS
 281 283 2006 us PRP
 284 286 2007 to TO

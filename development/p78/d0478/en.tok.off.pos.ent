@@ -1,8 +1,8 @@
-0 9 1001 Officials NNS
+0 9 1001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 10 12 1002 in IN
 13 21 1003 Colombia NNP COU https://en.wikipedia.org/wiki/Colombia
 22 25 1004 say VB
-26 33 1005 Marxist NN
+26 33 1005 Marxist NN NO https://en.wikipedia.org/wiki/Marxism
 34 40 1006 rebels NNS
 41 47 1007 killed VBN
 48 51 1008 the DT
@@ -13,13 +13,13 @@
 71 78 1013 central JJ
 79 83 1014 town NN
 84 86 1015 of IN
-87 93 1016 Genova NNP
-94 103 1017 Wednesday NNP
+87 93 1016 Genova NNP NAT https://en.wikipedia.org/wiki/Euroflora
+94 103 1017 Wednesday NNP NAT https://en.wikipedia.org/wiki/Euroflora
 103 104 1018 . .
-105 111 2001 Police NNS
+105 111 2001 Police NNS NO https://en.wikipedia.org/wiki/Police
 112 115 2002 say VB
 116 121 2003 Mayor NN PER https://en.wikipedia.org/wiki/Julian_Castro
-122 126 2004 Jose VB PER https://en.wikipedia.org/wiki/Julian_Castro
+122 126 2004 Jose VB
 127 133 2005 Castro NNP PER https://en.wikipedia.org/wiki/Julian_Castro
 134 137 2006 was VBD
 138 142 2007 shot NN
@@ -27,23 +27,23 @@
 146 153 2009 members NNS
 154 156 2010 of IN
 157 160 2011 the DT
-161 174 2012 Revolutionary JJ ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
-175 180 2013 Armed VBN ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
-181 187 2014 Forces NNS ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+161 174 2012 Revolutionary JJ ORG https://en.wikipedia.org/wiki/George_Bond_Howes
+175 180 2013 Armed VBN ORG https://en.wikipedia.org/wiki/George_Bond_Howes
+181 187 2014 Forces NNS ORG https://en.wikipedia.org/wiki/George_Bond_Howes
 188 190 2015 of IN
-191 199 2016 Colombia NNP COU https://en.wikipedia.org/wiki/Colombia
+191 199 2016 Colombia NNP ORG https://en.wikipedia.org/wiki/Colombia
 200 201 2017 ( (
-201 205 2018 FARC NN ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+201 205 2018 FARC NN ORG https://en.wikipedia.org/wiki/George_Bond_Howes
 205 206 2019 ) )
 207 212 2020 rebel NN
 213 218 2021 group NN
 218 219 2022 . .
 220 223 3001 The DT
-224 228 3002 FARC NN ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+224 228 3002 FARC NN ORG https://en.wikipedia.org/wiki/George_Bond_Howes
 229 235 3003 rebels NNS
 236 240 3004 have VB
 241 249 3005 declared VBN
-250 259 3006 Colombian JJ COU https://en.wikipedia.org/wiki/Colombia
+250 259 3006 Colombian JJ
 260 266 3007 mayors NNS
 267 269 3008 to TO
 270 272 3009 be VB
@@ -68,8 +68,8 @@
 366 369 4007 war NN
 370 377 4008 against IN
 378 381 4009 the DT
-382 391 4010 Colombian JJ
-392 402 4011 government NN
+382 391 4010 Colombian JJ NO https://en.wikipedia.org/wiki/Government_of_Colombia
+392 402 4011 government NN NO https://en.wikipedia.org/wiki/Government_of_Colombia
 403 406 4012 for IN
 407 409 4013 at IN
 410 415 4014 least JJS

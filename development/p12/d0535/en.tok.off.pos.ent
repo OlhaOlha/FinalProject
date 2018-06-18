@@ -1,4 +1,4 @@
-1 12 1001 Leatherback NNP NAT https://en.wikipedia.org/wiki/Dermochelyoidae
+1 12 1001 Leatherback NNP ANI https://en.wikipedia.org/wiki/Pandermochelys
 13 20 1002 turtles NNS
 21 30 1003 fascinate VBP
 31 36 1004 ocean JJ
@@ -22,9 +22,9 @@
 126 133 2016 coastal JJ
 134 141 2017 regions NNS
 141 142 2018 . .
-143 153 3001 Scientists NNS
+143 153 3001 Scientists NNS NO https://en.wikipedia.org/wiki/Scientist
 154 157 3002 say VBP
-158 170 3003 leatherbacks NNS
+158 170 3003 leatherbacks NNS ANI https://en.wikipedia.org/wiki/Pandermochelys
 171 175 3004 have VBP
 176 180 3005 been VBN
 181 186 3006 doing VBG
@@ -76,8 +76,8 @@
 449 453 5020 they PRP
 454 459 5021 found VBD
 459 460 5022 . .
-461 465 6001 Paul NNP
-466 471 6002 Sisco NNP
+461 465 6001 Paul NNP PER https://en.wikipedia.org/wiki/Out_of_Sight
+466 471 6002 Sisco NNP PER https://en.wikipedia.org/wiki/Out_of_Sight
 472 475 6003 has VBZ
 476 480 6004 more JJR
 480 481 6005 . .

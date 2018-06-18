@@ -33,7 +33,7 @@
 161 163 2011 of IN
 164 169 2012 Texas NNP COU https://en.wikipedia.org/wiki/Texas
 169 170 2013 , ,
-171 177 2014 Austin NNP
+171 177 2014 Austin NNP NAT https://en.wikipedia.org/wiki/Windsor_Park,_Austin,_Texas
 177 178 2015 , ,
 179 184 2016 which WDT
 185 192 2017 remains VBZ
@@ -54,13 +54,13 @@
 272 275 3001 But CC
 275 276 3002 , ,
 277 279 3003 as IN
-280 283 3004 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+280 283 3004 VOA NNP ORG https://en.wikipedia.org/wiki/Special_English
 283 285 3005 's POS
-286 290 3006 Greg NNP
-291 297 3007 Flakus NNP
+286 290 3006 Greg NNP PER https://en.wikipedia.org/wiki/Central_Africa_Time
+291 297 3007 Flakus NNP PER https://en.wikipedia.org/wiki/Central_Africa_Time
 298 305 3008 reports NNS
 306 310 3009 from IN
-311 317 3010 Austin NNP
+311 317 3010 Austin NNP NAT https://en.wikipedia.org/wiki/Windsor_Park,_Austin,_Texas
 317 318 3011 , ,
 319 323 3012 some DT
 324 332 3013 longtime JJ

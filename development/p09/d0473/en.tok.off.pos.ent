@@ -4,12 +4,12 @@
 21 24 1004 has VBZ
 25 31 1005 killed VBN
 32 36 1006 five CD
-37 48 1007 Palestinian JJ PER https://en.wikipedia.org/wiki/Palestinians
-49 58 1008 militants NNS
+37 48 1007 Palestinian JJ NO https://en.wikipedia.org/wiki/Palestinian_political_violence
+49 58 1008 militants NNS NO https://en.wikipedia.org/wiki/Palestinian_political_violence
 59 61 1009 in IN
 62 65 1010 the DT
-66 70 1011 Gaza NNP
-71 76 1012 Strip NNP
+66 70 1011 Gaza NNP NAT https://en.wikipedia.org/wiki/Gaza_Strip
+71 76 1012 Strip NNP NAT https://en.wikipedia.org/wiki/Gaza_Strip
 76 77 1013 . .
 79 86 2001 Israeli JJ COU https://en.wikipedia.org/wiki/Israel
 87 95 2002 military JJ
@@ -28,7 +28,7 @@
 166 172 2015 attack NN
 173 180 2016 against IN
 181 189 2017 southern JJ
-190 197 2018 Israeli JJ COU https://en.wikipedia.org/wiki/Israel
+190 197 2018 Israeli JJ
 198 209 2019 communities NNS
 210 214 2020 when WRB
 215 219 2021 they PRP
@@ -53,10 +53,10 @@
 328 333 4005 Hamas NNP ORG https://en.wikipedia.org/wiki/Hamas
 334 342 4006 controls VBZ
 343 346 4007 the DT
-347 351 4008 Gaza NNP
-352 357 4009 Strip NNP
+347 351 4008 Gaza NNP NAT https://en.wikipedia.org/wiki/Gaza_Strip
+352 357 4009 Strip NNP NAT https://en.wikipedia.org/wiki/Gaza_Strip
 358 363 4010 where WRB
-364 370 4011 Israel NNP
+364 370 4011 Israel NNP COU https://en.wikipedia.org/wiki/Israel
 371 374 4012 has VBZ
 375 384 4013 routinely RB
 385 393 4014 targeted VBN

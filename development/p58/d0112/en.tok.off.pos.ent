@@ -40,11 +40,11 @@
 242 245 2014 the DT
 246 250 2015 head NN
 251 253 2016 of IN
-254 258 2017 U.N. NNP
-259 263 2018 High NNP
-264 276 2019 Commissioner NNP
+254 258 2017 U.N. NNP ORG https://en.wikipedia.org/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights
+259 263 2018 High NNP ORG https://en.wikipedia.org/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights
+264 276 2019 Commissioner NNP ORG https://en.wikipedia.org/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights
 277 280 2020 for IN
-281 289 2021 Refugees NNP
+281 289 2021 Refugees NNP NO https://en.wikipedia.org/wiki/Refugee
 289 290 2022 , ,
 291 298 2023 Antonio NNP PER https://en.wikipedia.org/wiki/Zaida_Catal%C3%A1n
 299 307 2024 Guterres NNP PER https://en.wikipedia.org/wiki/Zaida_Catal%C3%A1n
@@ -68,6 +68,6 @@
 398 402 3017 more JJR
 403 405 3018 to TO
 406 414 3019 resettle VB
-415 421 3020 Afghan NNP
+415 421 3020 Afghan NNP PER https://en.wikipedia.org/wiki/Afghan
 422 430 3021 refugees NNS
 430 431 3022 . .

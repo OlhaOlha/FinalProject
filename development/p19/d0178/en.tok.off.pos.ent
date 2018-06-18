@@ -1,15 +1,15 @@
-0 9 1001 Witnesses NNS
+0 9 1001 Witnesses NNS NO https://en.wikipedia.org/wiki/Witness
 10 12 1002 in IN
 13 20 1003 Somalia NNP COU https://en.wikipedia.org/wiki/Somalia
 21 24 1004 say VBP
 25 30 1005 heavy JJ
 31 39 1006 fighting NN
 40 47 1007 between IN
-48 56 1008 Islamist NNP
+48 56 1008 Islamist NNP NO https://en.wikipedia.org/wiki/Islamism
 57 67 1009 insurgents NNS
 68 71 1010 and CC
-72 81 1011 Ethiopian JJ COU https://en.wikipedia.org/wiki/Ethiopia
-82 88 1012 troops NN
+72 81 1011 Ethiopian JJ NO https://en.wikipedia.org/wiki/Army_Reserve_(United_Kingdom)
+82 88 1012 troops NN NO https://en.wikipedia.org/wiki/Army_Reserve_(United_Kingdom)
 89 92 1013 has VBZ
 93 99 1014 killed VBN
 100 102 1015 at IN
@@ -35,7 +35,7 @@
 221 223 2013 in IN
 224 233 2014 Mogadishu NNP CIT https://en.wikipedia.org/wiki/Mogadishu
 233 234 2015 . .
-236 245 3001 Witnesses NNS
+236 245 3001 Witnesses NNS NO https://en.wikipedia.org/wiki/Witness
 246 249 3002 say VBP
 250 257 3003 several JJ
 258 267 3004 civilians NNS
@@ -48,8 +48,8 @@
 301 307 3011 mortar NN
 308 312 3012 fire NN
 312 313 3013 . .
-315 324 4001 Ethiopian JJ COU https://en.wikipedia.org/wiki/Ethiopia
-325 331 4002 troops NNS
+315 324 4001 Ethiopian JJ NO https://en.wikipedia.org/wiki/Army_Reserve_(United_Kingdom)
+325 331 4002 troops NNS NO https://en.wikipedia.org/wiki/Army_Reserve_(United_Kingdom)
 332 339 4003 entered VBD
 340 347 4004 Somalia NNP COU https://en.wikipedia.org/wiki/Somalia
 348 351 4005 two CD
@@ -62,7 +62,7 @@
 382 392 4012 government NN
 393 398 4013 fight VBD
 399 401 4014 an DT
-402 410 4015 Islamist NNP
+402 410 4015 Islamist NNP NO https://en.wikipedia.org/wiki/Islamism
 411 419 4016 movement NN
 420 424 4017 that WDT
 425 428 4018 was VBD
@@ -85,9 +85,9 @@
 525 529 5010 fall NN
 530 532 5011 of IN
 533 541 5012 dictator NN
-542 549 5013 Mohamed NNP
-550 554 5014 Siad NNP
-555 560 5015 Barre NNP
+542 549 5013 Mohamed NNP PER https://en.wikipedia.org/wiki/Siad_Barre
+550 554 5014 Siad NNP PER https://en.wikipedia.org/wiki/Siad_Barre
+555 560 5015 Barre NNP PER https://en.wikipedia.org/wiki/Siad_Barre
 561 563 5016 in IN
 564 568 5017 1991 CD
 568 569 5018 . .

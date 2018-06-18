@@ -1,7 +1,7 @@
 0 4 1001 Tony NNP PER https://en.wikipedia.org/wiki/Tony_Blair
 5 10 1002 Blair NNP PER https://en.wikipedia.org/wiki/Tony_Blair
 11 18 1003 Russian JJ PER https://en.wikipedia.org/wiki/Tony_Blair
-19 28 1004 officials NNS
+19 28 1004 officials NNS PER https://en.wikipedia.org/wiki/Tony_Blair
 29 32 1005 say VBP
 33 40 1006 British JJ PER https://en.wikipedia.org/wiki/Tony_Blair
 41 46 1007 Prime NNP PER https://en.wikipedia.org/wiki/Tony_Blair
@@ -13,19 +13,19 @@
 76 82 1013 attend VB
 83 86 1014 the DT
 87 95 1015 upcoming JJ
-96 101 1016 World NNP
-102 105 1017 War NNP
-106 108 1018 II NNP
+96 101 1016 World NNP NO https://en.wikipedia.org/wiki/World_War_II
+102 105 1017 War NNP NO https://en.wikipedia.org/wiki/World_War_II
+106 108 1018 II NNP NO https://en.wikipedia.org/wiki/World_War_II
 109 123 1019 commemorations NNS
 124 126 1020 in IN
-127 133 1021 Moscow NNP
+127 133 1021 Moscow NNP ORG https://en.wikipedia.org/wiki/Battle_of_Moscow_(film)
 133 134 1022 . .
 135 138 2001 The DT
-139 146 2002 Kremlin NNP
-147 153 2003 Friday NNP
+139 146 2002 Kremlin NNP ORG https://en.wikipedia.org/wiki/Battle_of_Moscow_(film)
+147 153 2003 Friday NNP ORG https://en.wikipedia.org/wiki/Battle_of_Moscow_(film)
 154 158 2004 said VBD
-159 162 2005 Mr. NNP
-163 168 2006 Blair NNP
+159 162 2005 Mr. NNP PER https://en.wikipedia.org/wiki/Blair
+163 168 2006 Blair NNP PER https://en.wikipedia.org/wiki/Blair
 169 178 2007 expressed VBD
 179 185 2008 regret VB
 186 190 2009 that IN
@@ -43,15 +43,15 @@
 254 263 2021 attending VBG
 264 267 2022 the DT
 268 278 2023 ceremonies NNS
-279 285 2024 Monday NNP
+279 285 2024 Monday NNP NO https://en.wikipedia.org/wiki/Monday
 285 286 2025 . .
-287 290 3001 Mr. NNP
-291 296 3002 Blair NNP
+287 290 3001 Mr. NNP PER https://en.wikipedia.org/wiki/Blair
+291 296 3002 Blair NNP PER https://en.wikipedia.org/wiki/Blair
 296 298 3003 's POS
 299 304 3004 Labor NNP
 305 310 3005 Party NNP
 311 313 3006 on IN
-314 322 3007 Thursday NNP
+314 322 3007 Thursday NNP ORG https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum
 323 326 3008 won VBD
 327 328 3009 a DT
 329 334 3010 third JJ
@@ -61,10 +61,10 @@
 361 368 3014 victory NN
 368 369 3015 . .
 370 373 4001 The DT
-374 381 4002 Kremlin NNP
+374 381 4002 Kremlin NNP ORG https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum
 382 386 4003 says VBZ
-387 390 4004 Mr. NNP
-391 396 4005 Blair NNP
+387 390 4004 Mr. NNP PER https://en.wikipedia.org/wiki/Blair
+391 396 4005 Blair NNP PER https://en.wikipedia.org/wiki/Blair
 397 406 4006 announced VBD
 407 410 4007 the DT
 411 419 4008 decision NN
@@ -78,7 +78,7 @@
 457 465 4016 Vladimir NNP PER https://en.wikipedia.org/wiki/Vladimir_Putin
 466 471 4017 Putin NNP PER https://en.wikipedia.org/wiki/Vladimir_Putin
 471 472 4018 . .
-473 479 5001 Dozens NNP
+473 479 5001 Dozens NNP NO https://en.wikipedia.org/wiki/Dozen
 480 482 5002 of IN
 483 488 5003 world NN
 489 496 5004 leaders NNS
@@ -93,5 +93,5 @@
 538 541 5013 the DT
 542 548 5014 events NNS
 549 551 5015 in IN
-552 558 5016 Moscow NNP
+552 558 5016 Moscow NNP CIT https://en.wikipedia.org/wiki/Moscow
 558 559 5017 . .

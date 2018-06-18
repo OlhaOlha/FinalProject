@@ -59,7 +59,7 @@
 306 315 3021 depressed VBN
 316 321 3022 after IN
 322 325 3023 the DT
-326 335 3024 September NNP
+326 335 3024 September NNP NO https://en.wikipedia.org/wiki/September
 336 338 3025 11 CD
 338 339 3026 , ,
 340 344 3027 2001 CD
@@ -67,10 +67,10 @@
 355 362 3029 attacks NNS
 363 365 3030 on IN
 366 369 3031 the DT
-370 374 3032 U.S. NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
-375 378 3033 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+370 374 3032 U.S. NNP ORG https://en.wikipedia.org/wiki/Special_English
+375 378 3033 VOA NNP ORG https://en.wikipedia.org/wiki/Special_English
 378 380 3034 's POS
-381 387 3035 Nathan NNP
-388 392 3036 King NNP
+381 387 3035 Nathan NNP PER https://en.wikipedia.org/wiki/Nathan_King_(singer-songwriter)
+388 392 3036 King NNP PER https://en.wikipedia.org/wiki/Nathan_King_(singer-songwriter)
 393 400 3037 reports NNS
 400 401 3038 . .

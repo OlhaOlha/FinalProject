@@ -7,8 +7,8 @@
 31 36 1007 Trade NNP COU https://en.wikipedia.org/wiki/Office_of_the_United_States_Trade_Representative
 37 51 1008 Representative NNP COU https://en.wikipedia.org/wiki/Office_of_the_United_States_Trade_Representative
 51 52 1009 , ,
-53 58 1010 Neena NNP SPO https://en.wikipedia.org/wiki/NAFTA_superhighway
-59 67 1011 Moorjani NNP SPO https://en.wikipedia.org/wiki/NAFTA_superhighway
+53 58 1010 Neena NNP PER https://en.wikipedia.org/wiki/NAFTA_superhighway
+59 67 1011 Moorjani NNP PER https://en.wikipedia.org/wiki/NAFTA_superhighway
 67 68 1012 , ,
 69 73 1013 says VBZ
 74 80 1014 delays NNS
@@ -54,7 +54,7 @@
 285 289 3012 deal NN
 290 295 3013 could MD
 296 300 3014 hurt VB
-301 311 3015 Washington NNP PER https://en.wikipedia.org/wiki/Barbara_Comstock
+301 311 3015 Washington NNP ORG https://en.wikipedia.org/wiki/Barbara_Comstock
 311 313 3016 's POS
 314 321 3017 ability NN
 322 324 3018 to TO
@@ -72,10 +72,10 @@
 392 396 3030 home NN
 396 397 3031 . .
 398 401 4001 The DT
-402 406 4002 U.S. NNP PER https://en.wikipedia.org/wiki/Barbara_Comstock
-407 414 4003 Chamber NNP PER https://en.wikipedia.org/wiki/Barbara_Comstock
+402 406 4002 U.S. NNP ORG https://en.wikipedia.org/wiki/Barbara_Comstock
+407 414 4003 Chamber NNP ORG https://en.wikipedia.org/wiki/Barbara_Comstock
 415 417 4004 of IN
-418 426 4005 Commerce NNP
+418 426 4005 Commerce NNP ORG https://en.wikipedia.org/wiki/Commerce
 427 431 4006 says VBZ
 432 442 4007 foreigners NNS
 443 449 4008 invest VBP
@@ -84,8 +84,8 @@
 454 461 4011 billion CD
 462 464 4012 in IN
 465 468 4013 the DT
-469 475 4014 United NNP
-476 482 4015 States NNPS
+469 475 4014 United NNP COU https://en.wikipedia.org/wiki/United_States
+476 482 4015 States NNPS COU https://en.wikipedia.org/wiki/United_States
 483 484 4016 a DT
 485 489 4017 year NN
 489 490 4018 , ,

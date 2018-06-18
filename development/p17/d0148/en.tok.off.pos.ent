@@ -1,16 +1,16 @@
-0 10 1001 Organizers NNS
+0 10 1001 Organizers NNS NO https://en.wikipedia.org/wiki/Community_organizing
 11 13 1002 of IN
 14 17 1003 the DT
 18 22 1004 vote NN
 23 25 1005 by IN
-26 31 1006 Iraqi JJ COU https://en.wikipedia.org/wiki/Iraq
-32 43 1007 expatriates NNS
+26 31 1006 Iraqi JJ NO https://en.wikipedia.org/wiki/Free_Iraqi_Forces
+32 43 1007 expatriates NNS NO https://en.wikipedia.org/wiki/Free_Iraqi_Forces
 44 47 1008 say VBP
 48 52 1009 some DT
 53 63 1010 two-thirds NNS
 64 66 1011 of IN
 67 75 1012 eligable JJ
-76 82 1013 Iraqis NNP
+76 82 1013 Iraqis NNP ORG https://en.wikipedia.org/wiki/International_Organization_for_Migration
 83 89 1014 living NN
 90 96 1015 abroad RB
 97 101 1016 have VBP
@@ -23,32 +23,32 @@
 143 146 1023 far RB
 146 147 1024 . .
 148 151 2001 The DT
-152 165 2002 International NNP
-166 178 2003 Organization NNP
+152 165 2002 International NNP ORG https://en.wikipedia.org/wiki/International_Organization_for_Migration
+166 178 2003 Organization NNP ORG https://en.wikipedia.org/wiki/International_Organization_for_Migration
 179 182 2004 for IN
-183 192 2005 Migration NNP ANI https://en.wikipedia.org/wiki/Migration_(ecology)
+183 192 2005 Migration NNP ORG https://en.wikipedia.org/wiki/Migration_(ecology)
 193 197 2006 said VBD
-198 204 2007 Sunday NNP
+198 204 2007 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 205 209 2008 more JJR
 210 214 2009 than IN
 215 222 2010 186,000 CD
 223 229 2011 Iraqis NNP PER https://en.wikipedia.org/wiki/Iraqis
 230 235 2012 voted VBD
-236 242 2013 Friday NNP
+236 242 2013 Friday NNP NO https://en.wikipedia.org/wiki/Friday
 243 246 2014 and CC
 247 255 2015 Saturday NNP NAT https://en.wikipedia.org/wiki/Saturday
 256 258 2016 in IN
 259 262 2017 the DT
-263 269 2018 Middle NNP
-270 274 2019 East NNP
+263 269 2018 Middle NNP NAT https://en.wikipedia.org/wiki/Middle_East
+270 274 2019 East NNP NAT https://en.wikipedia.org/wiki/Middle_East
 274 275 2020 , ,
-276 281 2021 North NNP
-282 289 2022 America NNP
+276 281 2021 North NNP NAT https://en.wikipedia.org/wiki/North_America
+282 289 2022 America NNP NAT https://en.wikipedia.org/wiki/North_America
 289 290 2023 , ,
 291 300 2024 Australia NNP COU https://en.wikipedia.org/wiki/Australia
 301 304 2025 and CC
-305 312 2026 Western NNP
-313 319 2027 Europe NNP
+305 312 2026 Western NNP NAT https://en.wikipedia.org/wiki/Western_Europe
+313 319 2027 Europe NNP NAT https://en.wikipedia.org/wiki/Western_Europe
 319 320 2028 . .
 321 324 3001 The DT
 325 334 3002 three-day JJ
@@ -58,7 +58,7 @@
 354 357 3006 the DT
 358 361 3007 end NN
 362 364 3008 of IN
-365 371 3009 Sunday NNP
+365 371 3009 Sunday NNP NO https://en.wikipedia.org/wiki/Sunday
 372 378 3010 across IN
 379 381 3011 36 CD
 382 388 3012 cities NNS
@@ -97,6 +97,6 @@
 534 542 3045 Emirates NNP COU https://en.wikipedia.org/wiki/United_Arab_Emirates
 543 546 3046 and CC
 547 550 3047 the DT
-551 557 3048 United NNP
-558 564 3049 States NNPS
+551 557 3048 United NNP COU https://en.wikipedia.org/wiki/United_States
+558 564 3049 States NNPS COU https://en.wikipedia.org/wiki/United_States
 564 565 3050 . .

@@ -1,5 +1,5 @@
-0 4 1001 Wall NNP ENT https://en.wikipedia.org/wiki/Wall_Street_Journal_Radio_Network
-5 11 1002 Street NNP ENT https://en.wikipedia.org/wiki/Wall_Street_Journal_Radio_Network
+0 4 1001 Wall NNP CIT https://en.wikipedia.org/wiki/Wall_Street
+5 11 1002 Street NNP CIT https://en.wikipedia.org/wiki/Wall_Street
 12 19 1003 enjoyed VBN
 20 22 1004 an DT
 23 30 1005 upswing NN
@@ -44,10 +44,10 @@
 253 256 3012 key NN
 257 263 3013 report NN
 263 264 3014 . .
-265 268 4001 VOA NN ORG https://en.wikipedia.org/wiki/Voice_of_America
+265 268 4001 VOA NN ORG https://en.wikipedia.org/wiki/Special_English
 268 270 4002 's POS
-271 277 4003 Robert NNP
-278 286 4004 Raffaele NN
+271 277 4003 Robert NNP PER https://en.wikipedia.org/wiki/List_of_saints_canonized_by_Pope_Leo_XIII
+278 286 4004 Raffaele NN PER https://en.wikipedia.org/wiki/List_of_saints_canonized_by_Pope_Leo_XIII
 287 290 4005 has VBZ
 291 295 4006 more RBR
 295 296 4007 . .

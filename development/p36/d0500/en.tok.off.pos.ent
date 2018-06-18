@@ -15,13 +15,13 @@
 76 89 1015 assassination NN
 90 92 1016 of IN
 93 99 1017 former JJ
-100 109 1018 Pakistani NNP SPO https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
-110 115 1019 Prime NNP SPO https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
-116 124 1020 Minister NNP SPO https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
-125 132 1021 Benazir NNP SPO https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
-133 139 1022 Bhutto NNP SPO https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
+100 109 1018 Pakistani NNP PER https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
+110 115 1019 Prime NNP PER https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
+116 124 1020 Minister NNP PER https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
+125 132 1021 Benazir NNP PER https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
+133 139 1022 Bhutto NNP PER https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport
 139 140 1023 . .
-141 150 2001 Officials NNS
+141 150 2001 Officials NNS NO https://en.wikipedia.org/wiki/Official
 151 153 2002 in IN
 154 157 2003 New NNP CIT https://en.wikipedia.org/wiki/New_Delhi
 158 163 2004 Delhi NNP CIT https://en.wikipedia.org/wiki/New_Delhi
@@ -35,7 +35,7 @@
 199 201 2012 be VB
 202 210 2013 restored VBN
 210 211 2014 . .
-212 223 3001 Authorities NNS
+212 223 3001 Authorities NNS NO https://en.wikipedia.org/wiki/Authority
 224 227 3002 are VBP
 228 237 3003 concerned VBN
 238 242 3004 that IN
@@ -54,7 +54,7 @@
 320 324 3017 into IN
 325 330 3018 India NNP COU https://en.wikipedia.org/wiki/India
 330 331 3019 . .
-332 341 4001 Militants NNS
+332 341 4001 Militants NNS NO https://en.wikipedia.org/wiki/Militant
 342 346 4002 have VBP
 347 355 4003 targeted VBN
 356 362 4004 trains NNS
@@ -68,7 +68,7 @@
 396 407 4012 firebombing NN
 408 410 4013 of IN
 411 412 4014 a DT
-413 427 4015 Pakistan-bound NN
+413 427 4015 Pakistan-bound NN NO https://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan_library
 428 433 4016 train NN
 434 436 4017 in IN
 437 442 4018 India NNP COU https://en.wikipedia.org/wiki/India
@@ -76,12 +76,12 @@
 451 455 4020 this DT
 456 460 4021 year NN
 460 461 4022 . .
-462 473 5001 Sixty-eight JJ ENT https://en.wikipedia.org/wiki/Sixty_Eight_Guns
-474 480 5002 people NNS
+462 473 5001 Sixty-eight JJ ENT https://en.wikipedia.org/wiki/Samjhauta_Express_(TV_series)
+474 480 5002 people NNS ENT https://en.wikipedia.org/wiki/Samjhauta_Express_(TV_series)
 481 485 5003 were VBD
 486 492 5004 killed VBN
 493 495 5005 in IN
 496 500 5006 that DT
-501 509 5007 February NNP
+501 509 5007 February NNP NO https://en.wikipedia.org/wiki/February
 510 516 5008 attack NN
 516 517 5009 . .

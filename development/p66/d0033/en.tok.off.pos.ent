@@ -1,4 +1,4 @@
-0 11 1001 Authorities NNS
+0 11 1001 Authorities NNS NO https://en.wikipedia.org/wiki/Authority
 12 14 1002 in IN
 15 20 1003 Haiti NNP COU https://en.wikipedia.org/wiki/Haiti
 21 24 1004 say VBP
@@ -12,7 +12,7 @@
 68 71 1012 and CC
 72 73 1013 a DT
 74 82 1014 civilian JJ
-83 89 1015 Monday NNP
+83 89 1015 Monday NNP NO https://en.wikipedia.org/wiki/Monday
 90 92 1016 in IN
 93 95 1017 an DT
 96 104 1018 apparent JJ
@@ -64,8 +64,8 @@
 374 381 4003 Nations NNPS ORG https://en.wikipedia.org/wiki/United_Nations_Police
 382 389 4004 mission NN
 390 393 4005 and CC
-394 401 4006 Haitian JJ COU https://en.wikipedia.org/wiki/Haiti
-402 408 4007 police NNS
+394 401 4006 Haitian JJ NAT https://en.wikipedia.org/wiki/Haitian_National_Police
+402 408 4007 police NNS NAT https://en.wikipedia.org/wiki/Haitian_National_Police
 409 413 4008 have VBP
 414 423 4009 struggled VBN
 424 426 4010 to TO

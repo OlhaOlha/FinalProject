@@ -6,7 +6,7 @@
 31 34 1006 new JJ
 35 39 1007 jobs NNS
 40 42 1008 in IN
-43 51 1009 November NNP
+43 51 1009 November NNP NO https://en.wikipedia.org/wiki/November
 51 52 1010 , ,
 53 58 1011 which WDT
 59 61 1012 is VBZ
@@ -17,16 +17,16 @@
 86 89 1017 had VBD
 90 98 1018 expected VBN
 98 99 1019 . .
-100 106 2001 Friday NNP
+100 106 2001 Friday NNP NO https://en.wikipedia.org/wiki/Friday
 106 108 2002 's POS
 109 116 2003 closely RB
 117 124 2004 watched JJ
 125 131 2005 report NN
 132 136 2006 from IN
 137 140 2007 the DT
-141 145 2008 U.S. NNP
-146 151 2009 Labor NNP
-152 162 2010 Department NNP
+141 145 2008 U.S. NNP ORG https://en.wikipedia.org/wiki/List_of_OFCCP_DAS
+146 151 2009 Labor NNP ORG https://en.wikipedia.org/wiki/List_of_OFCCP_DAS
+152 162 2010 Department NNP ORG https://en.wikipedia.org/wiki/List_of_OFCCP_DAS
 163 167 2011 also RB
 168 172 2012 said VBD
 173 176 2013 the DT
@@ -38,7 +38,7 @@
 215 218 2019 5.4 CD
 219 226 2020 percent NN
 226 227 2021 . .
-228 236 3001 Analysts NNS
+228 236 3001 Analysts NNS NO https://en.wikipedia.org/wiki/Accounting_analyst
 237 241 3002 said VBD
 242 246 3003 high JJ
 247 250 3004 oil NN
@@ -55,9 +55,9 @@
 323 327 3015 take VB
 328 330 3016 on IN
 331 334 3017 new JJ
-335 342 3018 workers NNS
+335 342 3018 workers NNS ANI https://en.wikipedia.org/wiki/Workforce
 342 343 3019 . .
-344 354 4001 Economists NNS
+344 354 4001 Economists NNS NO https://en.wikipedia.org/wiki/Economist
 355 358 4002 say VBP
 359 361 4003 it PRP
 362 367 4004 takes VBZ
@@ -78,7 +78,7 @@
 446 454 4019 entrants NNS
 455 459 4020 into IN
 460 463 4021 the DT
-464 468 4022 U.S. NNP
+464 468 4022 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
 469 478 4023 workforce NN
 479 484 4024 every DT
 485 490 4025 month NN
