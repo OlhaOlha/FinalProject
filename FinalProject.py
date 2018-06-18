@@ -70,8 +70,8 @@ def get_class(page):
         COU_count = category_count(categories_str, COU_list)
         CIT_list = ['cities', 'city', 'town', 'towns', 'capitals', 'capital']
         CIT_count = category_count(categories_str, CIT_list)
-        ANI_list = ['animal', 'animals', 'mammal', 'mammals', 'fish']
-        ANI_count = category_count(categories_str, ANI_list)
+        ANI_list = []  #['animal', 'animals', 'mammal', 'mammals', 'fish']
+        ANI_count = 0  #category_count(categories_str, ANI_list)
         PER_list = ['person', 'persons', 'people']  # 'names'
         PER_count = category_count(categories_str, PER_list)
         SPO_list = ['sport', 'sports', 'ball games']
@@ -209,6 +209,18 @@ def topCategory(syn):
         return None
 
 
+def hypernymOf(synset1, synset2):
+# """ Returns True if synset2 is a hypernym of synset1, or if they are the same synset. Returns False otherwise. """
+    if synset1 == synset2:
+        return True
+    for hypernym in synset1.hypernyms():
+        if synset2 == hypernym:
+            return True
+        if hypernymOf(hypernym, synset2):
+            return True
+    return False
+
+
 # The most important processing
 def main_processing(dev_data):
     target = ['VBG', 'NNPS', 'VBN', 'NN', 'NNP', 'JJ', 'NNS'] # 'IN'?
@@ -335,8 +347,38 @@ def main_processing(dev_data):
                         print(i)
                     print("\n")
 
+                    syn2_sport = wordnet.synsets("sport", pos='n')[0]
+                    syn2_ani = wordnet.synsets("animal", pos='n')[0]
 
-                    # # Classify every noun which occurs in your text into the 25 top noun classes in WordNet
+                    currrent_max_num = max([int(sublist[5]) for sublist in file_lines if sublist[5] is not None])
+
+                    for line in file_lines:
+                        syn = line[6]
+                        tag = line[7]
+                        if syn is not None and tag is not None:
+                            if str(tag) == "Synset('activity.n.01')":
+                                if hypernymOf(syn, syn2_sport):
+                                    currrent_max_num += 1
+                                    line.pop(7)
+                                    line.pop(6)
+                                    line.pop(5)
+                                    line.append(str(currrent_max_num))
+                                    line.append(syn)
+                                    line.append("SPO")
+                            elif str(tag) == "Synset('animal.n.01')":
+                                print("\nLALALLALALALALALALAL\n")
+                                print(line)
+                                currrent_max_num += 1
+                                line.pop(7)
+                                line.pop(6)
+                                line.pop(5)
+                                line.append(str(currrent_max_num))
+                                line.append(syn)
+                                line.append("ANI")
+
+
+
+                            # # Classify every noun which occurs in your text into the 25 top noun classes in WordNet
                     # for line in file_lines:
                     #     syn = line[6]
                     #     if syn is not None:
@@ -357,7 +399,7 @@ def main_processing(dev_data):
                 max_num = max([int(sublist[5]) for sublist in file_lines if sublist[5] is not None])
 
                 class_link_nums = []
-                for i in range(0, max_num + 1):  # +1?
+                for i in range(0, max_num + 1):
                     ent_list = []  # [United, Nations]
                     num_list = []  # [1002, 1003]
                     tag_list = []  # list of tags [ORGANIZATION, ..., Synset('event.n.01')]: 25+3
@@ -400,8 +442,10 @@ def main_processing(dev_data):
                                     current_class = get_class(page)
                                     if current_class != "CIT" and current_class != "COU":
                                         current_class = "NAT"
-                            elif "Synset('animal.n.01')" in tag_list:
+                            elif "ANI" == tag_list[0]:
                                     current_class = "ANI"
+                            elif "SPO" == tag_list[0]:
+                                    current_class = "SPO"
                             else:
                                 current_class = get_class(page)
 
@@ -434,19 +478,8 @@ def main_processing(dev_data):
                         #     class_link_nums.append([current_class, "NO", num_list])
                         elif current_link is not None:
                             class_link_nums.append(["NO", current_link, num_list])
-                        # if
-                        # else:
-                        #     class_link_nums.append(["NO", current_link, num_list])
 
 
-                        # returned_object = get_class_link(ent_str)
-                        # if returned_object is not None:
-                        #     current_class, current_link = returned_object
-                        #
-                        #     # for sublist in file_list:
-                        #     #     if sublist[2] in num_list:
-                        #
-                        #     class_link_nums.append([current_class, current_link, num_list])
                 print("\n", class_link_nums, "\n")
 
 
@@ -509,9 +542,6 @@ def get_classes_links(folder_data):
 
 # Comparision with gold standard
 def compare(gold_standard, comp, gold_links, dev_links):
-
-    print("gold_links", len(gold_links))
-    print("dev_links", len(dev_links))
 
     # # Do not need it actually, but it can be used to get information
     # true_positives = nltk.Counter()
